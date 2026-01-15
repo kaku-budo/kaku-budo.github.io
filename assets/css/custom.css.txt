@@ -1,0 +1,4 @@
+/* 讓所有文章的大標題變成紅色 */
+h1 {
+    color: red !important;
+}
