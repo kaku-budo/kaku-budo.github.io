@@ -20,8 +20,8 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: 合道道進步的秘訣
+      pageRef: /blog
       weight: 1
     - name: About
       pageRef: /about
