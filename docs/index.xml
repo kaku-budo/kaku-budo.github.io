@@ -1,11 +1,29 @@
----
-title: Demo Page
-type: docs
-prev: /
-next: docs/folder/
----
-
-合氣道進步的秘訣【第500回】　以螺旋方式運用
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Site – Documentation</title>
+    <link>https://kaku-budo.github.io/docs/</link>
+    <description>Recent content in Documentation on My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://kaku-budo.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Demo Page</title>
+      <link>https://kaku-budo.github.io/docs/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaku-budo.github.io/docs/first-page/</guid>
+      <description>
+        
+        
+        &lt;p&gt;合氣道進步的秘訣【第500回】　以螺旋方式運用
 剛開始學習時，一個技(正式來說是形)在施展時，動作往往會斷斷續續。本來技應該是不斷開的，以一條流暢的軌跡收尾。否則就不美觀，也無法產生足夠的力量，使技無法奏效。
 必須透過持續的稽古，使動作逐漸不再中斷，並且能在一個呼吸之間完成整個技。
 為此，首先要配合呼吸來使用手腳。依「イクムスビ」的十字呼吸來運用身體。特別是要重視「クー(ku-)」這個向後拉引(吸氣)的呼吸，這樣不僅能使身體動作較不易中斷，也能讓力量聚集到手的末端，產生更大的力量。
@@ -17,8 +35,25 @@ next: docs/folder/
 然而，這種力量頂多就是自身體重的極限，其限制一目了然。因此便產生了使出超過自身體重力量的構想。
 要做到這點，做法是不再讓手、腳、腹同時在一軸上動，而是讓各部位略微錯開來使用。換句話說，就是時間差的運用。也就是讓中心的腹先動，接著是腳，最後是手。力量從腹移到腳，再移到手時，會在移動的每一段都被放大。從起始的瞬間開始，力量便持續增大，在最後收尾時達到極大。最能明顯感受到這點的，大概就是「交差取(逆單手抓)二教」，但其他技也都能同樣使用。
 像這樣以圓的方式，並帶著時間差來運用身體各部位，可說就是「以螺旋方式運用」。
-當身體以螺旋方式運動時，力量會不斷增強。先前所提的體重限制似乎也不存在了，因此不禁令人期待究竟能使出多大的力量。
+當身體以螺旋方式運動時，力量會不斷增強。先前所提的體重限制似乎也不存在了，因此不禁令人期待究竟能使出多大的力量。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sasaki-aiki.com/article3_500.php&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sasaki-aiki.com/article3_500.php&lt;/a&gt;&lt;/p&gt;
 
-https://sasaki-aiki.com/article3_500.php
+      </description>
+    </item>
+    
+    <item>
+      <title>Leaf Page</title>
+      <link>https://kaku-budo.github.io/docs/folder/leaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaku-budo.github.io/docs/folder/leaf/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This page is under a folder.&lt;/p&gt;
 
-
+      </description>
+    </item>
+    
+  </channel>
+</rss>
