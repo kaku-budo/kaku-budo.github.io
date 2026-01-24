@@ -2,25 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kaku-budo.github.io/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2026-01-12T22:51:00+08:00</lastmod>
   </url><url>
-    <loc>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0500-spiral/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2026-01-12T22:51:00+08:00</lastmod>
   </url><url>
-    <loc>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0500-text/</loc>
+    <loc>//localhost:1313/tags/%E5%90%88%E6%B0%A3%E9%81%93/</loc>
     <lastmod>2026-01-12T22:51:00+08:00</lastmod>
   </url><url>
-    <loc>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-501-not-interfere/</loc>
+    <loc>//localhost:1313/blog/aikido/tips/part-0401-0500/t-0500-spiral/</loc>
     <lastmod>2026-01-12T22:51:00+08:00</lastmod>
   </url><url>
-    <loc>https://kaku-budo.github.io/</loc>
+    <loc>//localhost:1313/blog/aikido/tips/part-0501-0600/t-501-not-interfere/</loc>
     <lastmod>2026-01-12T22:51:00+08:00</lastmod>
   </url><url>
-    <loc>https://kaku-budo.github.io/about/</loc>
+    <loc>//localhost:1313/tags/%E5%91%BC%E5%90%B8%E6%B3%95/</loc>
+    <lastmod>2026-01-12T22:51:00+08:00</lastmod>
   </url><url>
-    <loc>https://kaku-budo.github.io/categories/</loc>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2026-01-12T22:51:00+08:00</lastmod>
   </url><url>
-    <loc>https://kaku-budo.github.io/tags/</loc>
+    <loc>//localhost:1313/tags/%E8%9E%BA%E6%97%8B/</loc>
+    <lastmod>2026-01-12T22:51:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
