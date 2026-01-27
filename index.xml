@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>武道筆記 on icqkaku 的武道筆記</title>
-    <link>//localhost:1313/</link>
+    <link>https://kaku-budo.github.io/</link>
     <description>Recent content in 武道筆記 on icqkaku 的武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 12 Jan 2026 22:51:00 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaku-budo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>合氣道進步的秘訣【第500回】　以螺旋方式運用</title>
-      <link>//localhost:1313/blog/aikido/tips/part-0401-0500/t-0500-spiral/</link>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0500-spiral/</link>
       <pubDate>Mon, 12 Jan 2026 22:51:00 +0800</pubDate>
-      <guid>//localhost:1313/blog/aikido/tips/part-0401-0500/t-0500-spiral/</guid>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0500-spiral/</guid>
       <description>&lt;p&gt;剛開始學習時，一個技(正式來說是形)在施展時，動作往往會斷斷續續。本來技應該是不斷開
 的，以一條流暢的軌跡收尾。否則就不美觀，也無法產生足夠的力量，使技無法奏效。&lt;/p&gt;
 &lt;p&gt;必須透過持續的稽古，使動作逐漸不再中斷，並且能在一個呼吸之間完成整個技。&lt;/p&gt;
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>合氣道進步的秘訣【第501回】　不要妨礙他人的工作</title>
-      <link>//localhost:1313/blog/aikido/tips/part-0501-0600/t-501-not-interfere/</link>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-501-not-interfere/</link>
       <pubDate>Mon, 12 Jan 2026 22:51:00 +0800</pubDate>
-      <guid>//localhost:1313/blog/aikido/tips/part-0501-0600/t-501-not-interfere/</guid>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-501-not-interfere/</guid>
       <description>&lt;p&gt;合氣道是透過彼此施展技法、互相擔任受け，在往返之中鍛鍊技術與身心的一門武道。目的是找出被稱為宇宙運行的宇宙法則，並將之內化。按照法則運作的技，就是好技，也就是所謂的上手。&lt;/p&gt;
 &lt;p&gt;自己施展的技是好是壞、好到什麼程度，通常可以從受け如何做受身、如何倒下來判斷。如果** 施技時不與受け碰撞、不脫離 **，對方在心服、滿意之下自然倒下，那就是好技。&lt;/p&gt;
 &lt;p&gt;讓受け變得需要** 硬撐 **、甚至無法做出受身，就是不好的技。&lt;/p&gt;
@@ -56,9 +56,9 @@
     </item>
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>https://kaku-budo.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>https://kaku-budo.github.io/about/</guid>
       <description>&lt;p&gt;歡迎光臨icqkaku在痞客邦的小天地，這裏先以劍道、合氣道、太極拳的相關學習訊息為紀錄重心。&lt;/p&gt;</description>
     </item>
   </channel>
