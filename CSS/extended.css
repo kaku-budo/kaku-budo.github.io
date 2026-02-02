@@ -1,4 +1,10 @@
-h1, .post-title, .page-header h1 {
-    font-size: 20px !important;
+/* 強制縮小大標題 */
+.post-title, h1 {
+    font-size: 24px !important;
     font-weight: 700 !important;
+}
+
+/* 救回粗體字的紅色 */
+strong, b {
+    color: #c0392b !important;
 }
