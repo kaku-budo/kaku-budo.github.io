@@ -1,0 +1,9 @@
+/* 這是最高權限，強制全站所有大標題變小 */
+h1, 
+.post-title, 
+.page-header h1 {
+    font-size: 20px !important;   /* 您也可以試試更小的 18px */
+    font-weight: 700 !important; 
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
