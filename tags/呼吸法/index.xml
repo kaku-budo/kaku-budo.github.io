@@ -1,4 +1,177 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>呼吸法 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E6%B3%95/</link><description>Recent content in 呼吸法 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E6%B3%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0466回】　教導法則的基本技之三：「十字」</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0466-cross-principle/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0466-cross-principle/</guid><description>&lt;style&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>呼吸法 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E6%B3%95/</link><description>Recent content in 呼吸法 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E6%B3%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道の思想と技【第0413回】　摩擦連行作用</title><link>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0413-aiki-friction-flow/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0413-aiki-friction-flow/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;在上一回〈連結呼吸與天地的共鳴〉中，談到了邁向武產合氣的技法運用，以及合氣妙用的初步。本次則接續上一回，說明當能運用合氣妙用後，技會如何改變。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>在上一回〈連結呼吸與天地的共鳴〉中，談到了邁向武產合氣的技法運用，以及合氣妙用的初步。本次則接續上一回，說明當能運用合氣妙用後，技會如何改變。</p>
+<p>開祖說：「當達到合氣妙用的引導時，便能獲得御造化之德，<strong>呼吸右旋呈螺旋而舞升，左旋呈螺旋而舞降</strong>，生起水火之結，並產生摩擦連行作用。」(《合氣真髓》)</p>
+<p>也就是說，是否達到合氣妙用，可由是否產生「摩擦連行作用」來判斷。並且，技法也必須以能產生摩擦連行作用的方式去運作。</p>
+<p>開祖並未直接解釋何為「摩擦連行作用」，但從文字本意與施技時的體驗來看，先生推測大概是以下的意思：也就是說，在螺旋運用身體與呼吸之時，即使不刻意施力，對方也會被帶動而「舞起」、「舞落」的現象。所謂的摩擦，不是力量的施壓，而是一種「站在天之浮橋上」的狀態。換句話說，就是既不推也不拉，以微細的接觸來施技。</p>
+<p>摩擦連行作用最容易在下列技法中體會，「入身投」、「天地投」、「呼吸法」。並非以體力或臂力，而是透過呼吸與對方黏合、合而成一後，對方便自然地被帶起，並自然地舞落(倒下)。</p>
+<p>對方能舞起，並不是因為自己的力量。<strong>用力量絕對無法讓對方舞起</strong>。
+這是來自自己之外的力量，也就是開祖所稱的「獲得御造化之德」。而要與對方黏合，必須在十字與天之浮橋的狀態上，因此會「生起水火之結合」。</p>
+<p>「水火之結」造就了宇宙萬有萬物，並使其運行。既然如此，技與身體的運用也必須依循「水火之結」而使。開祖說：「水火之結是構成宇宙萬有一切樣相的根本，無量無邊。」(同上)</p>
+<p>並且：「唯有能生起摩擦連行作用，才能掌握合氣之真髓。」(同上)也就是說，摩擦連行作用是必須達成的要素(MUST)。為了能讓此作用產生，最好先以自己擅長的技法如入身投、天地投、呼吸法等進行練習。</p>
+<p>當能產生摩擦連行作用後，對方的體力、臂力便不再構成主要影響。無論體型大小，對方都會被帶起、帶落。此時，便能感覺自己已從「魄的稽古」走出，開始進入「武產合氣」的稽古。</p>
+<p>因此先生認為，也正是因為如此，<strong>合氣道才會被說成不需要力量</strong>。</p>
+<p><a href="https://sasaki-aiki.com/article1_413.php">https://sasaki-aiki.com/article1_413.php</a></p>
+]]></content:encoded></item><item><title>合氣道の思想と技【第0457回】　以魄為根基，使魂在上、魄在下</title><link>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0457-soul-body-base/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0457-soul-body-base/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;合氣道強調不能依靠力量或體力的魄來稽古，這確實也不會有太大的趣味。合氣道必須進入看不見的領域，&lt;strong&gt;也就是精神世界、魂的世界&lt;/strong&gt;，去稽古。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>合氣道強調不能依靠力量或體力的魄來稽古，這確實也不會有太大的趣味。合氣道必須進入看不見的領域，<strong>也就是精神世界、魂的世界</strong>，去稽古。</p>
+<p>然而，若在相對練習中，只以精神(心)來施技，對方是不會倒下的。無論怎麼用意念，光靠魂(心、精神)是無法讓人倒地的。</p>
+<p>合氣道人普遍都希望施技能不受力量或體力的魄所限制，而是以超越魄的力量來展現技法，但多半認為自己做不到，於是又回頭依賴魄，或被魄所左右。</p>
+<p>但既然開祖親自示範並說明了這條道路，我們就必須走在這條路上。雖然不容易，但先生相信，只要把該做的事情逐一確實完成，就能進入魂的世界，並獲得偉大的力量。</p>
+<p>所謂<strong>該做的事情</strong>，首先是養成合氣之體，也就是力量與體力的鍛鍊。接著，讓這個身體能依循宇宙法則來使用，等等。</p>
+<p>進入魂的世界，就是進行魂的稽古，並把原本依賴魄的稽古，轉變為魂的稽古。也就是把魄放在下，把魂放在上的稽古。</p>
+<p>具體而言，這會是怎樣的稽古呢？那就是：不太依賴力量或體力，對方自然會浮起、與自己一體化，對方失去鬥志，愉快地、舒服地受身並倒下的稽古。</p>
+<p>例如，各道場每次都會練的<strong>坐技呼吸法</strong>。光靠臂力是絕對不可能把對方抬起的；然而，若是讓魂在上、魄在下，對方便會不可思議地浮起來。
+當然，要做到這一點，必須確實完成基本要求。</p>
+<p>首先，如開祖所說，<strong>必須站在天之浮橋上。心(精神)與身體、伸出的手與呼吸，都不能過度或不足，而需保持平衡</strong>。</p>
+<p>接著，配合呼吸，將伸出的手指端由腰以十字的圓來使用；讓對方抓住的手指端也以十字的方式返轉。在呼吸中流入氣，並以息與氣來調節力量與節奏。</p>
+<p>在此，為了能做到<strong>魄在下、魂在上</strong>，有幾個重要的點：第一，魄必須成為根基。堅實的手臂與軀幹是根基，若根基不穩，就無法讓魄在下、魂在上。手臂若是彎折無力，那就不行，也能看出<strong>魄的稽古同樣重要</strong>。</p>
+<p><strong>第二，讓對方抓住的、不折不斷且充滿氣的手，與腰腹相結合，持續穩定地向前伸</strong>。其間，要做到<strong>不動手的指端</strong>，以呼吸與心意(氣持)來帶動對方。這便是：魄(手)成為根基，魂(心意、精神)在上，而魄(手、臂力)在下。</p>
+<p>若在這裡改用手去推、去動，那就變成魄在上，魂在下，回到原本以力量為主的魄的稽古。</p>
+<p>先生認為，讓魂在上的稽古，以坐技呼吸法最為適合。因此，坐技呼吸法才會在任何時代、任何道場、每一次的稽古中持續被練習。</p>
+<p>不只坐技呼吸法，其他稽古也能做到<strong>以魄為根基，使魂在上、魄在下</strong>。而且，所有合氣道的技法都應該能做到這一點。</p>
+<p>例如，就先生而言，目前能在入身投、天地投中進入這樣的稽古狀態，而這兩者都能讓對方自然浮起。受身者會以手(魄)向下壓，但仍會被氣持(魂)帶動而浮起。</p>
+<p>要進入魂的稽古，先生認為應從<strong>以魄為根基，使魂在上、魄在下</strong>的訓練開始。而做到這一點的核心是在於：<strong>從與對方結合的那個接點開始，以魂(氣持、心、精神)來運作</strong>。</p>
+<p><a href="https://sasaki-aiki.com/article1_457.php">https://sasaki-aiki.com/article1_457.php</a></p>
+]]></content:encoded></item><item><title>合氣道の思想と技【第0458回】　「う(WU)」的言靈</title><link>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0458-wu-spirit-word/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0458-wu-spirit-word/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;在上一篇〈以魄為根基，使魂在上、魄在下〉中提到，若能在稽古時以魄為土台(手)，讓魂(心意、精神)在上，魄(手、臂力)在下，便能進入合氣道所追求的魂之世界，獲得與魄截然不同的偉大力量。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>在上一篇〈以魄為根基，使魂在上、魄在下〉中提到，若能在稽古時以魄為土台(手)，讓魂(心意、精神)在上，魄(手、臂力)在下，便能進入合氣道所追求的魂之世界，獲得與魄截然不同的偉大力量。</p>
+<p>在以「<strong>魄為根基、魂在上、魄在下</strong>」進行技的錬磨時，<strong>呼吸的運用極為重要。為了與對手接觸並達成一體化，首先要吐氣；接著在施技時吸氣；最後在技落成時再吐氣</strong>。若弄錯呼吸的順序，就無法達成「以魄為根基、魂在上、魄在下」。</p>
+<p>當把「<strong>以魄為根基、魂在上、魄在下</strong>」真正用在技的稽古上時，便是進入靈魂的修行。例如，<strong>並非去動被壓住的手，而是保持手不動，一邊吸氣一邊將心意(精神)注入呼吸之中</strong>，使技得以發揮。被抓住的手會隨著這股呼吸與心意而動，進而成為技。</p>
+<p>開祖在《武產合氣》中說過：<strong>以身體作為土台，讓靈、魂在其上運作，身體便會依照靈的意志而行動</strong>。</p>
+<p>開祖也經常說：「『う(WU)』的言靈十分重要。」依開祖所說，「う」是靈魂之源、亦是物質之源，它分成兩股力量運作：一股向上循環生成「ア」(A)」之聲，一股下降至大地生成「オ(I)」之言靈。</p>
+<p>施技時，在吸氣之中使用「う」似乎特別好。</p>
+<p>與對手接觸時，對方會自然浮起、重量逐漸消失，同時自己的腳、身體會更貼地。「う」具有 ○ 與 □ 兩種作用，而這兩種作用便是作為靈魂之源、物質之源的靈魂力量。</p>
+<p>這與「以魄為根基、魂在上、魄在下」完全相同。也就是說，<strong>「以魄為根基、魂在上、魄在下」本質上就是「う」的言靈</strong>。</p>
+<p>「う」的靈魂力量，對魄之世界、對物質科學而言，是難以置信的力量。以下舉幾例：<br>
+1.**火場怪力(火事場の馬鹿力)**這種現象無法用物質科學解釋，可說正是「う」的言靈所引發。在人還來不及思考力量或體力之前，為救命而全力以赴的那份強烈心意，遠遠超過肉體(魄)的能力，讓魂(心意)產生異常而龐大的力量。</p>
+<p>2.開祖的師父武田惣角在旅途中生病，臥床休息時，探病的人抓住他伸出的手，卻反而被帶得浮起。<br>
+這應是他沒有動被抓住的手(魄)，而以魂(心意)將對方浮起的結果。</p>
+<p>3.據說開祖在大本教(註1)修行期間，能獨自撼動連幾個壯漢都推不動的樹。當時出口王仁三郎*看著向樹走去的開祖，說道：「這是『う』的言靈啊。」</p>
+<p>第二代道主吉祥丸也曾在書中看過記載(但忘了確切處)：開祖發出「うん」的一聲，便使氣運動起來。由此可見，開祖確實運用了「う」的言靈，其偉大力量也因此流傳至今。</p>
+<p>先生認為，我們必須研究並掌握這個「う」的言靈。</p>
+<p>註1：大本教(おおもときょう)：日本一個非常著名且具有影響力的新興宗教。
+創立者：主要由出口直(でぐち なお)與出口王仁三郎*(でぐち おにさぶろう)於19世紀末、20世紀初創立與發展。</p>
+<p>教義核心：宣揚神人合一、萬教同根的思想，相信世界將迎來一個新的、和平的彌勒之世，並主張改造世界。</p>
+<p>特色：高度重視藝術、詩歌、能劇等文化活動作為傳教手段。</p>
+<p>在歷史上曾因其影響力與政治主張而兩度遭到日本政府的嚴厲鎮壓(即「第一次大本事件」與「第二次大本事件」)。</p>
+<p>與世界語運動(Esperanto)有深厚淵源，並對其他新興宗教(如世界救世教)產生了重大影響。</p>
+<p><a href="https://sasaki-aiki.com/article1_458.php">https://sasaki-aiki.com/article1_458.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0466回】　教導法則的基本技之三：「十字」</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0466-cross-principle/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0466-cross-principle/</guid><description>&lt;style&gt;
 /* 1. 標題縮小 */
 .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 /* 2. 粗體變道服藍 (與暗色模式相容) */
