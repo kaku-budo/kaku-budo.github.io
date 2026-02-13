@@ -1,4 +1,195 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>呼吸 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8/</link><description>Recent content in 呼吸 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0430回】　技之鍛鍊</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0430-train-technique-soul/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0430-train-technique-soul/</guid><description>&lt;style&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>呼吸 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8/</link><description>Recent content in 呼吸 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0424回】　勝速靈(日)(かつはやひ)</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0424-speed-gravity-flow/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0424-speed-gravity-flow/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;合氣道雖然是透過技的鍛鍊來精進、提升，但鍛鍊技這件事本身卻比想像中困難。因為這&lt;strong&gt;不只是持續稽古就能上達&lt;/strong&gt;，而&lt;strong&gt;是必須以能上達的方式來稽古&lt;/strong&gt;。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>合氣道雖然是透過技的鍛鍊來精進、提升，但鍛鍊技這件事本身卻比想像中困難。因為這<strong>不只是持續稽古就能上達</strong>，而<strong>是必須以能上達的方式來稽古</strong>。</p>
+<p>要上達，就必須<strong>按部就班地做該做的事</strong>，遵守開祖的教導，<strong>並在其中融入自己的體悟與工夫，不斷地磨練</strong>。</p>
+<p>合氣道的技，乃是將宇宙的運行具體化的表現，並與顯幽神三界調和一體。換句話說，它不只是空間上的動作，更是時間性的流動。技的形並非固定不變，而是充滿生命力、流動性與多次元的廣大樣態。</p>
+<p>在相對稽古中，若技已經施出而對方卻不倒，那是因為對方尚未被說服。要讓受技者信服而順勢倒下，<strong>技中必須包含令其倒下的必要要素</strong>。</p>
+<p>其中之一，便是「速」(速度)。同樣的力量，速度愈快，威力愈強。因此，<strong>必須進行提升速度的稽古</strong>。</p>
+<p>然而，速度若慢，身體的重量就更容易落到地面，重力也更能發揮作用。若能將這份重力經由腰、肩、手串連起來運用於技中，力量就會深沉而厚實。為了高效運用這份力，<strong>緩慢動作的稽古同樣不可或缺</strong>。</p>
+<p>也就是說，技中所需的力量，可分為<strong>速度帶來的橫向力量與重力帶來的縱向力量</strong>兩種。然而，這兩者本質上是矛盾的, 一方愈快愈強，另一方則愈慢愈好。</p>
+<p><strong>平常我們大多在潛意識中，以兩者勉強平衡的速度進行稽古。但如此一來，就難以再進一步提升</strong>。</p>
+<p>若想突破現有的限制，必須先從加速著手。起初先以<strong>直線或平面的速度訓練</strong>，隨著速度漸增，節奏與韻律會自然產生，速度中也會出現拍子的感覺。</p>
+<p>當速度再進一步提昇，動作將從直線轉為圓，再從圓化為渦旋。那種速度將超越對手在時間與空間上的預期，進入異次元的境界。</p>
+<p>這是為了增強<strong>橫向</strong>之力的訓練。接著，還必須考慮如何增強<strong>縱向之力。要讓自己的體重百分之百地落到地上</strong>，必須<strong>立於天之浮橋</strong>。當立於天之浮橋時，身體彷彿浮在雲上，輕盈無比，卻又同時蘊含深重之力。想像<strong>活人會沈，死人會浮</strong>這個比喻，就能理解這種<strong>輕中有重</strong>的狀態。此時雙腳須自然靈動，不可僵立於當下。</p>
+<p>當縱的力量出現，就會與<strong>天之呼吸</strong>一致；當天之呼吸與地之呼吸合而為一，橫向的動作也會與<strong>潮之盈虧</strong>相應。</p>
+<p>依先生個人的體悟，這正是所謂的「勝速靈(日)」。一般而言，勝速靈(日)象徵榮耀與勝利，但我認為，它同時也代表<strong>凌駕於速度之上的精神與力量</strong>。也就是說，透過極限的高速與極緩的慢速，並存於同一體內，從中孕生<strong>橫與縱的完全之力</strong>。</p>
+<p>要具足這種「勝速靈(日)」之力，必須具備<strong>正勝與吾勝</strong>。也就是<strong>勝於正理、勝於己身</strong>。</p>
+<p><strong>正勝意指透過技的鍛鍊而體得宇宙的法則與條理</strong>。唯有遵循宇宙的法則，才能運用勝速靈(日)之技；若違背法則，即使技巧再精，也無法成就。</p>
+<p><strong>吾勝則是指唯有戰勝自身，方能施展勝速靈(日)</strong>。若以<strong>想要打倒對方</strong>之心來施技，那就已經偏離了勝速靈(日)的境界。</p>
+<p>此外，若要真正成為「勝速靈(日)」，呼吸與愛是不可或缺的。施技時，應懷著對對手、對萬物、對宇宙樂園建設的思念來稽古。以心、精神、氣與呼吸來驅動身體，使技自然流出。<strong>心與呼吸的速度，沒有極限，能極快，也能極慢，這正是「勝速靈(日)」的特質</strong>。</p>
+<p>在相對稽古中運用技時，必須以超越速度的勝速靈(日)來施展。也就是說，<strong>快的動作中含有慢的種子，慢的動作中蘊含快的要素。起初以慢速稽古較易體會，但即使在迅捷激烈的動作中，也能隨時靜止；同樣，極慢的動作中，也能瞬間轉為高速</strong>。</p>
+<p>即使根據對手而改變速度，<strong>呼吸仍必須時刻意識著極速與極慢</strong>的兩端。如此，速度的轉換才能自由自如。</p>
+<p>奇妙的是，當能在<strong>極慢</strong>中操作自如，便能同樣地進入<strong>極快</strong>；反之亦然。這種往復、貫通於快與慢之間的修行，正是「勝速靈(日)」的稽古所在。</p>
+<p><a href="https://sasaki-aiki.com/article3_424.php">https://sasaki-aiki.com/article3_424.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0427回】　技的運用僅及諸手取呼吸法的程度</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0427-tech-breath-limit/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0427-tech-breath-limit/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;剛入門的時候，幾乎不論是哪個時段、哪位老師，在開始形稽古之前，一定會&lt;strong&gt;練習片手取或諸手取(註1)呼吸法&lt;/strong&gt;。那時以為這只是熱身運動，或是和四方投、小手返這類技相同的稽古方式。所以也只想著「把對方摔倒就好」，靠著力氣和衝勁把對方壓倒，並自以為練得很好。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>剛入門的時候，幾乎不論是哪個時段、哪位老師，在開始形稽古之前，一定會<strong>練習片手取或諸手取(註1)呼吸法</strong>。那時以為這只是熱身運動，或是和四方投、小手返這類技相同的稽古方式。所以也只想著「把對方摔倒就好」，靠著力氣和衝勁把對方壓倒，並自以為練得很好。</p>
+<p>後來才幸運地被點醒：<strong>呼吸法與形稽古完全不同，它是一種培養呼吸力的訓練方法</strong>。而讓先生明白這點的，正如之前提過的，正是有川定輝先生。</p>
+<p>有川先生非常重視諸手取呼吸法。先生晚年時，稽古的每一堂課都圍繞著一個主題、前後貫徹，但在採用這套系統之前，每堂課也都是從片手取呼吸法或諸手取呼吸法開始，而且會花相當充足的時間。</p>
+<p>有川先生常在諸手取呼吸法的稽古中說：「技，永遠只能在你能做到諸手取呼吸法的程度上發揮。」當時完全不懂這句話的含意，只以為<strong>只要能在諸手取呼吸法把人摔出去，那四方投、小手返也能摔到那種程度吧</strong>。於是便拚命練著「把對方甩飛」的方式。</p>
+<p>可能是這種稽古方式太過粗暴，平常極少直接口頭指導的有川先生，有一天罕見地開口提醒：<strong>那樣的稽古是不行的</strong>。原本正因為把對手彈飛而心情愉快，卻突然被否定，表面上雖然說了「謝謝指導」，心裡還是難免有點不服氣。</p>
+<p>但之後我盡力動腦思考：為什麼把人彈飛的稽古不行？那麼，諸手取呼吸法究竟應該怎麼練？</p>
+<p>最後的答案，是「回到原點」。<strong>遇到瓶頸或無法解決的問題時，回到基本是最好的方法</strong>。首先看名稱「<strong>諸手取呼吸法</strong>」。這個名稱必定是前人深思熟慮後才定下的，必然包含深意。</p>
+<p>呼吸法，就是呼吸力養成法。也就是<strong>為了培養呼吸力的稽古。如果對方倒下，只是因為我用的是臂力，那就失去了呼吸法的意義</strong>。</p>
+<p>相反的，即使被對方雙手壓住，或被兩人、三人同時以諸手壓制，即使做得不順，<strong>只要能夠增長一點呼吸力，稽古就是有效的</strong>。</p>
+<p>諸手取呼吸法的<strong>諸手</strong>，指的是受方以雙手抓住我方單側的手腕；不同於一手抓一手的<strong>片手取呼吸法</strong>，也不同於對方以雙手抓我方雙手的<strong>兩手取呼吸法</strong>。</p>
+<p>諸手取呼吸法雖然與片手取、両手取同屬呼吸力養成法，但其間存在重要差異，這就是諸手取呼吸法的特色。而這個特色，正是有川先生說「<strong>技只能在你做到諸手取呼吸法的程度上發揮</strong>」的核心所在。</p>
+<p>由於對方以兩隻手(諸手)壓制我一隻手，想用一隻手的腕力去制住兩隻手，在物理上、邏輯上都不可能。這正是諸手取呼吸法最大的特徵，而能否突破這個問題，就是能否真正用好合氣道技的關鍵。</p>
+<p>換言之，透過諸手取呼吸法，我們才能培養比力(魄力)更強的力量(呼吸力)，甚至進而培養心、精神、天地相通的<strong>魂之力</strong>。而隨著呼吸力的增長，技就能以相應的程度發揮。</p>
+<p>下一回，將探討在諸手取呼吸法中最容易養成的「讓技真正發揮效用的要素」。</p>
+<p>註1：諸手取(もろてどり)：兩手抓單手。單手抓、雙手抓、兩手抓…這裏保留原文，並請記得其念法。</p>
+<p><a href="https://sasaki-aiki.com/article3_427.php">https://sasaki-aiki.com/article3_427.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0428回】　在諸手取呼吸法中最容易養成的「讓技有效的要素」與呼吸力</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0428-breath-unity-skill/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0428-breath-unity-skill/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;在上一篇 &lt;a href="https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0427-tech-breath-limit/"&gt;&lt;b&gt;第0427回&lt;/b&gt;&lt;/a&gt;第0427回中，以「技的運用僅及諸手取呼吸法的程度」為主題，說明了諸手取呼吸法為何如此重要；也提到，諸手取呼吸法是「呼吸力養成法」，不是用來投摔或壓制對方的技法，因此稽古時必須特別注意。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>在上一篇 <a href="https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0427-tech-breath-limit/"><b>第0427回</b></a>第0427回中，以「技的運用僅及諸手取呼吸法的程度」為主題，說明了諸手取呼吸法為何如此重要；也提到，諸手取呼吸法是「呼吸力養成法」，不是用來投摔或壓制對方的技法，因此稽古時必須特別注意。</p>
+<p>既然諸手取呼吸法重要，表示它能讓我們學到、並養成一些在其他稽古方法(如四方投、入身投的形稽古)中不容易獲得、甚至很難獲得的重要能力。</p>
+<p>下面就來看本題──「在諸手取呼吸法中最容易養成的『讓技有效的要素』」。</p>
+<p><strong>諸手取呼吸法的稽古，大致可分為三個階段</strong>
+每個階段能習得的內容不同(以下順序不分先後)：</p>
+<p><strong>1．鍛鍊身體、試圖把對手摔倒的階段</strong><br>
+•	若讓對手以諸手牢牢抓住並進行稽古最能鍛鍊力量(尤其臂力)<br>
+•	手臂會變得粗壯、不易被折、不易鬆散<br>
+•	腿腰透過上下、左右、螺旋方式運作，身體變得柔軟<br>
+•	全力以赴時呼吸會變深，快慢長短都能自由調整，使心肺等內臟更強健<br>
+•	想盡辦法要把對方壓倒因此會生出氣勢<br>
+等等……</p>
+<p><strong>2．呼吸力養成的前期階段，讓對手「自然而然倒下」的階段</strong><br>
+•	自己的手與腰結合，以腰帶動手<br>
+•	站在天之浮橋上<br>
+•	用與自己腰相連的手，與對手結合，與對手成為一體<br>
+•	<strong>接觸點不先動，將力量由地面傳至腰、背、肩胛骨、上臂、手臂，再到手尖，最後才動手</strong><br>
+•	手的使用是十字的螺旋<br>
+•	若一開始就以力量先動手臂，會與對手相撞，因此必須，先是心(念)、再是氣息，最後身體隨之而動<br>
+•	力量來自自身的體重，因此為有效運用體重，雙腳必須規律地移動，讓<strong>體重能確實落在腳上</strong><br>
+•	<strong>對手因為諸手被占住，又與我一體化，只要心・息・體依理合而動，他就會變得如無重力一般，之後我可自由操作；此時不需要力量，即使不刻意壓倒，對手也會自然倒下</strong><br>
+等等……</p>
+<p><strong>3．進入呼吸力養成的本格階段</strong><br>
+上述第1、2階段，只是為了進入真正呼吸力養成的準備階段。唯有在前述要素逐漸到位後，才能正式進入呼吸法，也就是培養呼吸力的核心稽古。</p>
+<p><strong>第1階段雖能鍛鍊臂力，但無法培養呼吸力。第2階段開始才能習得「讓技有效的要素」，開始產生把對手吸附住的引力</strong>。這種引力，是含有離心力加向心力的力量，也就是呼吸力。能養成這種力量，便能真正進入呼吸法的世界。
+進入這階段後：<br>
+•	無論對方抓得用力或輕飄飄，都能與其結住並移動<br>
+•	無論動作大或快，結合都不再斷裂<br>
+•	呼吸力會自然增長<br>
+•	一旦能在諸手取呼吸法做到這點，那麼在小手返、四方投等形稽古中，也能養成呼吸力<br>
+•	之後在形稽古中也會不斷增強呼吸力<br></p>
+<p>由此可見，從諸手取呼吸法能學到的非常多；反過來說，不會諸手取呼吸法，有些能力就是無法習得的。</p>
+<p>正如有川定輝先生所言：「<strong>你的技，只能在你做到諸手取呼吸法的程度上發揮</strong>。」先生深信這句話是真理。</p>
+<p><a href="https://sasaki-aiki.com/article3_428.php">https://sasaki-aiki.com/article3_428.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0430回】　技之鍛鍊</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0430-train-technique-soul/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0430-train-technique-soul/</guid><description>&lt;style&gt;
 /* 1. 標題縮小 */
 .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 /* 2. 粗體變道服藍 (與暗色模式相容) */
