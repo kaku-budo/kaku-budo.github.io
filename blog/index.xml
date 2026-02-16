@@ -1,4 +1,162 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>武道隨筆 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/blog/</link><description>Recent content in 武道隨筆 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:44:46 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0398回】 依照對手與場所而變化的受身</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0398-aiki-ukemi-change/</link><pubDate>Sun, 15 Feb 2026 22:44:46 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0398-aiki-ukemi-change/</guid><description>&lt;style&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>武道隨筆 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/blog/</link><description>Recent content in 武道隨筆 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:44:53 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0392回】 不要妨礙他人的工作</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0392-aiki-no-clash/</link><pubDate>Sun, 15 Feb 2026 22:44:53 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0392-aiki-no-clash/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;p&gt;合氣道是一門透過鍛鍊技法而精進的修行。通常的稽古是由兩人交替擔任「受」與「取(捕)」的相對稽古，在過程中同時鍛鍊技、體與心。透過一再反覆合氣道的技之形，逐漸體悟並吸收其中蘊含的「宇宙之理」，這正是修行的核心。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+</style>
+<p>合氣道是一門透過鍛鍊技法而精進的修行。通常的稽古是由兩人交替擔任「受」與「取(捕)」的相對稽古，在過程中同時鍛鍊技、體與心。透過一再反覆合氣道的技之形，逐漸體悟並吸收其中蘊含的「宇宙之理」，這正是修行的核心。</p>
+<p>合氣道的稽古並非爭勝負，也沒有勝敗之分。依照稽古的原則，取的一方施技，受的一方則負責受身。理論上，雙方應該不會有碰撞或爭執。</p>
+<p>然而，雖然不至於發生大的衝突，但小摩擦卻常常出現。這裡所說的「爭執」，並不是指用手腳互毆，而是指「受」不順從「取」的意圖，<strong>主動停下動作</strong>或反抗，導致動作停滯。</p>
+<p>不過，大多數情況下，問題的根源其實不在「受」，而是在「取」的一方。因為常有取者在施技時，方式不當，使得受無法順利受身、甚至無法動作。當「受」無法動時，即便想配合，也被卡住了。</p>
+<p>當「受」動不了時，施技者往往誤以為對方在「撐著不倒」，心中起了不滿，於是用力強行施技。但受方自然會反抗，如此便產生了衝突。</p>
+<p>在合氣道的形稽古中，目的並非「把對方打倒」，而是讓對方「自己倒下」。</p>
+<p>要做到這點，施技者必須使用<strong>自然的、無勉強的動作</strong>來引導。</p>
+<p>如同以往多次提過的，施技時應運用手腳的<strong>左右陰陽</strong>之法。更重要的是，要讓「受」也能依陰陽之理自然地動作，這才是真正的技。</p>
+<p>當施技之後，受的動作停滯、雙方僵持或互相用力，其原因往往在於：施技者破壞了受的「左右陰陽之流動」。例如，受原本應該以「右－左－右－左」的節奏移動重心、自然倒下，但若施技者讓受變成「右－左－右－右」，使最後一步無法左移重心，那受便會將重心停留在右側、被迫撐住而不倒。</p>
+<p>無論是二教裏、一教裏，或入身投等技法，若使對方動作停滯，問題多半就在於這裡。開祖常說：「<strong>不要妨礙他人的工作</strong>。」</p>
+<p>所謂「他人的工作」，指的正是「讓對方能自然地動作、完成受的角色」。要讓要讓受方能順著『左右陰陽』的法則運行(倒下)，關鍵在於施技的一方首先必須能夠運用『左右陰陽』的身體。至於施技者是否具備這種能力，從受方是能自然倒下，還是會產生抵抗與爭鬥，就能判斷出來。</p>
+<p><a href="https://sasaki-aiki.com/article3_392.php">https://sasaki-aiki.com/article3_392.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0395回】 些微的關鍵點</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0395-aiki-key-points/</link><pubDate>Sun, 15 Feb 2026 22:44:51 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0395-aiki-key-points/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;p&gt;合氣道沒有「這樣就夠了」這回事，修行是沒有盡頭的。然而，現實中卻有許多稽古人半途而廢，令人遺憾。辛苦持續了二十年、三十年的稽古，最終卻放棄了，想必他們自己也感到惋惜吧。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+</style>
+<p>合氣道沒有「這樣就夠了」這回事，修行是沒有盡頭的。然而，現實中卻有許多稽古人半途而廢，令人遺憾。辛苦持續了二十年、三十年的稽古，最終卻放棄了，想必他們自己也感到惋惜吧。</p>
+<p>停止稽古的原因或許各有不同，但最多的情況，往往是因為遇到瓶頸、無法再前進而選擇放棄。當我看到一些稽古人似乎快要因為撞上這道「牆」而退出時，往往真的會逐漸淡出，最後不再回來。</p>
+<p>對初學者而言，還不至於因為遇到牆而困擾。反正做不到是理所當然的，潛力還在；但對長年稽古者來說，如果被初學者稍微壓制就動彈不得，或是技法施展不出效果，心中難免會浮現「這些年的稽古到底算什麼？」的疑問。</p>
+<p>雖然那一刻可能會激起鬥志，但奇怪的是，一旦有過那樣的挫敗感，往往之後也會連續不順。結果愈來愈失去自信，迷惘也隨之增加。</p>
+<p>其實，只要長年稽古，誰都會累積一定的力量，也能掌握基本形。這代表之前的努力並非錯誤。
+但事實上，那只是「準備階段」，也就是所謂「真正意義上的初段」。到了這裡，才算正式進入真正的稽古之門。</p>
+<p>在這個階段，技法仍不成熟；雖然有力氣，但那只是手臂的力量，用的是「力氣在模仿形」。接下來要修養的是「呼吸力」，要讓技真正成為自己的。</p>
+<p>若在這階段仍以相同方式長年稽古，技與呼吸力都不會進步，只會依靠手臂的力量去勉強施技。然而，靠手臂和形的模仿，是無法真正使出合氣道之技的。</p>
+<p>唯有符合宇宙法則的技，以及同時具備求心力與離心力的「呼吸力」，技法才能發揮真正的效用。</p>
+<p>對那些長年稽古、陷入瓶頸的同修，要讓他們突破困境，其實並不困難。只要讓他們意識到幾個關鍵點即可。</p>
+<p>如前所述，長年稽古者多半已具備不錯的力量，但也因此容易陷入「以手施技」的習慣。多數困在瓶頸中的人，其實都是這樣。</p>
+<p>因此，要讓他們<strong>察覺手部力量的侷限</strong>，並理解「必須運用與腰相連的力量」。
+讓他們實際嘗試，親身體驗從腰帶動手的力量，那股力量會比手臂力量強上好幾倍。</p>
+<p>光是這一點，稽古就會大為不同。他們會體悟到，稽古並非只是「做就好」，而是「要做對的事」。也會明白，自己<strong>不能只是沿著過去的路走，而是該轉向新的方向</strong>。當他重新踏上「合氣之道」的正軌後，就能順著那條路持續前行。</p>
+<p>使用腰來帶動手時，必須能正確將重心移動到左右雙腳之間。若能掌握這個重心轉換的要點，就能產生更強大的力量，並進一步理解「技」必須依循的法則。而當領悟愈深，就會知道法則是無窮無盡的。</p>
+<p>此外，<strong>為了讓腰的力量傳達到手端，並順利連結到對方身上、導引其力量，手必須是「不折的手」，並且需要以「螺旋」的方式運用</strong>。</p>
+<p>當能以腰的力量形成螺旋時，就會逐漸理解「呼吸力」的本質，什麼是呼吸力，以及如何養成它。而養成呼吸力的過程，本身就是稽古，而且是沒有盡頭的修行。</p>
+<p>當能明白：合氣道的技蘊含無限的法則，而修行的目的，就是體得這些法則與呼吸力。那麼，稽古就永遠有前進的方向，永遠不會停止。</p>
+<p><a href="https://sasaki-aiki.com/article3_395.php">https://sasaki-aiki.com/article3_395.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0397回】 與任何人都能稽古</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0397-aiki-any-partner/</link><pubDate>Sun, 15 Feb 2026 22:44:49 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0397-aiki-any-partner/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;p&gt;合氣道是在相對練習中，彼此施技、互取受身而進行的。初學時，首先是從老師或指導者那裡學習，將所教的內容記進身體裡，讓身體自然記住。當掌握了一定程度的基本技(技之形)，身體逐漸成形，也能順利取受身之後，就不再只是從老師身上學習，而會開始從稽古的對手中學到東西。也就是所謂的「向前輩與同輩偷學技法」。在與前輩或同輩互為受方時偷學，然後再把學到的技試著施於前輩或同輩身上。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+</style>
+<p>合氣道是在相對練習中，彼此施技、互取受身而進行的。初學時，首先是從老師或指導者那裡學習，將所教的內容記進身體裡，讓身體自然記住。當掌握了一定程度的基本技(技之形)，身體逐漸成形，也能順利取受身之後，就不再只是從老師身上學習，而會開始從稽古的對手中學到東西。也就是所謂的「向前輩與同輩偷學技法」。在與前輩或同輩互為受方時偷學，然後再把學到的技試著施於前輩或同輩身上。</p>
+<p>然而，隨著稽古二十年、三十年過去，前輩會愈來愈少。能夠「偷學」的對象，也就是能直接教導自己的人，便漸漸不在。當沒有能教自己的人時，就只能靠自己練習。當然，也能與同輩或夥伴一起練，但光靠這樣，成長會有侷限。因此，應該考慮進入下一個階段。</p>
+<p>從這裡開始，才是<strong>真正的稽古。必須自己思考、嘗試、修正錯誤</strong>，進入真正的「試行錯誤」階段。若只是延續以往的方式，將無法再進步，因此必須改變過去的稽古與思考方式。不過，大多數人在與同輩繼續稽古時，往往還是停留在原有的延長線上。</p>
+<p>即使明白這一點，也不可能立刻進步。在<strong>技變得更好的之前，通常會先變得「更糟」</strong>。奇妙的是，凡是嘗試新事物，總會有一段時期技術變得笨拙。</p>
+<p>若要為了更進一步的提升而在稽古上進行大轉變，第一步應該是「回到原點」，也就是「回到初心」。</p>
+<p>就先生個人而言，嘗試改變稽古的對手，讓自己能與任何人稽古。以往常與前輩或同輩互相全力投技、壓制；但後來刻意選擇與比自己弱、技之形尚未熟練的對手一起練習。這些對手，以前總會以力量與氣勢壓制，讓對方氣喘吁吁，心裡暗自得意。</p>
+<p>但這次不同，下了決心：<strong>稽古不僅要讓自己滿意，更要讓「對方」也感到滿意</strong>。</p>
+<p>這說來簡單，其實相當困難。例如，與體力衰退、足腰無力的年長者一同練上一小時，不僅要顧慮對方的氣力，也需要自己消耗相當多的體力。要避免對方氣喘或足腰疼痛而中途休息，(施技者)必須配合對手的心情和氣息來運用技法。而當(受方)要進行受身時，也必須配合對手(施技者)的心情，並揣摩其心意，才能做出受身。</p>
+<p>若對手是尚未學會基本技的初學者，則應以盡量基本的方式投技或壓制。即使是在進行受方時，也必須引導對手，讓他們能順利地做出動作。就算是被施予二教或三教(壓制技)，我們這邊也不該去抵抗或硬撐，而是要讓對手盡情地施展。</p>
+<p>無論對方是年長者或初學者，為了讓對方能順暢動作，取受時都必須依照「理合」行動。若腳的陰陽運用(左右交替)不正確，就會阻斷對方的動作，那樣既不是對方的稽古，也不是自己的稽古。</p>
+<p>與兒童、初學者或年長者稽古時，更能深刻體會「受方的重要性與困難」。無論對方是小孩還是老人，能讓對方覺得「投得好、壓得好」的滿足感，就是我們應該回應的。</p>
+<p>也就是說，即使是要做受方時，要能隨時變化，身體要能輕盈、有時高飛、有時小收，能自由自如地變換。根據道場擁擠的情況，不僅投技時要調整，當受方也必須靈活應變。</p>
+<p>當投(摔)技的對手是年長者或初學者時，要注意引導、避免受傷，並依對方的程度調整投與壓制。這雖不難，但在當受方時，卻是意外的極具深度，要真正做好其實相當不易。</p>
+<p>當前輩漸漸不在，接下來我們就成為前輩。而成為前輩並不代表修行結束，反而要更了解後輩與新進者。既然合氣道是彼此施技、互當取、受雙方的相對稽古，
+那麼，能「與任何人稽古」才是關鍵。這樣一來，不僅能學到以往未曾學到的事，更能獲得新的領悟與進步。</p>
+<p><a href="https://sasaki-aiki.com/article3_397.php">https://sasaki-aiki.com/article3_397.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0398回】 依照對手與場所而變化的受身</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0398-aiki-ukemi-change/</link><pubDate>Sun, 15 Feb 2026 22:44:46 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0398-aiki-ukemi-change/</guid><description>&lt;style&gt;
 /* 1. 標題縮小 */
 .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 /* 2. 粗體變道服藍 (與暗色模式相容) */
@@ -54,6 +212,111 @@ margin-bottom: 20px;
 <p>等到能熟練之後，前輩又會指導我們「在一張榻榻米的範圍內取受身」，並親自示範。能在一張榻榻米內完成受身後，不僅能做出小受身，也能掌握大受身，甚至能在木地板上安全受身。</p>
 <p>如今雖不確定自己是否還能做到，但為了提醒自己不要偷懶，很想再一次挑戰「榻榻米一張大小」的受身稽古。</p>
 <p><a href="https://sasaki-aiki.com/article3_398.php">https://sasaki-aiki.com/article3_398.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0390回】 按正確順序修行應做之事</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-yin-hand/</link><pubDate>Sun, 15 Feb 2026 22:44:44 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-yin-hand/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;h2 id="draft-false"&gt;date: 2026-01-11T19:29:00+08:00
+showToc: true   # 開啟目錄
+TocOpen: true   # 預設直接展開目錄，方便閱讀
+tags:
+draft: false&lt;/h2&gt;
+&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+ 
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;合氣道是透過技的鍛鍊來精進的。合氣道的技遵循宇宙的法則，而進行技的鍛鍊之身體，被稱為「小宇宙」。因此，不論是技還是身體，都必須依循宇宙的法則來運作，並且應讓其依此法則而發揮功能。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+</style>
+<h2 id="draft-false">date: 2026-01-11T19:29:00+08:00
+showToc: true   # 開啟目錄
+TocOpen: true   # 預設直接展開目錄，方便閱讀
+tags:
+draft: false</h2>
+<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>合氣道是透過技的鍛鍊來精進的。合氣道的技遵循宇宙的法則，而進行技的鍛鍊之身體，被稱為「小宇宙」。因此，不論是技還是身體，都必須依循宇宙的法則來運作，並且應讓其依此法則而發揮功能。</p>
+<p>技的鍛鍊，是透過正面打一教等「技之形」的反覆稽古而進行。然而，「技」本身卻往往難以理解，這正是問題所在。開祖當年示範過技的真義，但如今，已經沒有人能明確指出「這就是技」了。不過，有一點是可以確信的：「技」確實蘊藏在我們透過形稽古所鍛鍊的「技之形」之中；同時，它也存在於圓的運動交錯之中，因為開祖曾親口如此說過。</p>
+<p>「技」雖然難以捉摸，但既然「技」中存在法則性，那麼找到這個法則、並將其融會於身，這正是「技之鍛鍊」的真正意義。</p>
+<p>因此，即使是透過凝縮了技之精髓的「技之形」，也就是「形稽古」，來進行技的鍛鍊，也同樣存在其法則性。也就是說，修行者必須知道應該做什麼，並且依正確的順序去做。</p>
+<p>一般而言，在技之形或呼吸法的稽古中，「應做的事」與「進行的順序」大致如下。</p>
+<p>但為了說明方便，這些步驟在實際操作中有時會同時進行，或前後交錯：<br>
+○當對方不論是抓手、抓胸，或以手刀打來時，在雙方接觸的那一瞬間，必須與對方「結合」。兩人應成為一體。這個「結」極為重要，若沒有結，對方便能自由行動，使後續動作陷入困難。無論是哪一種技之形的稽古，這個「<strong>接觸瞬間的結</strong>」都是不可或缺的。</p>
+<p>○為了與對方結合，首先，自己的手先或身體末端必須與身體的中心，也就是腰腹，結合。如果手臂彎曲，是不可能與對方結得上的。同樣地，若身體僵硬用力，力量與氣的流動會被阻斷，也無法達成結。手應如「天之浮橋」般輕盈懸浮，這是第一要務。為了結合，在伸手的同時必須吐氣。雖說是伸手讓對方抓住，但手的動作並非從手本身開始，而是應從腰腹發出。而且，出手時必須朝向對方的正中線，否則無法形成結。</p>
+<p>○四肢的末端(如手)不應單獨活動，而要由腰腹帶動。當手被抓住時，接觸點就是結的所在，因此應保持該點不動、不移，由腰腹先動，手再隨之而動。</p>
+<p>○手應以縱橫十字的方式運用，雙腳亦如撞木般形成十字，身體(相對於雙腳)也必須保持十字運動。呼吸也要成為十字的節奏。而且，首先必須從「縱」開始，這似乎是宇宙的法則。</p>
+<p>○呼吸上，<strong>在初次結合時應吐氣；施技時吸氣；在投擲或壓制對方時再吐氣</strong>。這便是所謂的「生產結(イクムスビ)(註1)」，若不依此節奏，動作就會中斷，力量也會中途斷裂。</p>
+<p>既然有該做的事，就必須確實去做；否則既不能成為技，也無法成為鍛鍊。若錯誤了該做之事的順序，同樣無法成技，對方也不會被制伏。唯有依循應有的步驟與順序，一步步正確實踐，才能達成真正的「技」。</p>
+<p>註：イクムスビ：是指「生命力、生長力、和源源不絕的創造力。</p>
+<p><a href="https://sasaki-aiki.com/article3_390.php">https://sasaki-aiki.com/article3_390.php</a></p>
 ]]></content:encoded></item><item><title>合氣道進步的秘訣【第0399回】 文武雙修</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0399-aikido-bunbu-ryodo/</link><pubDate>Sun, 15 Feb 2026 22:44:42 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0399-aikido-bunbu-ryodo/</guid><description>&lt;style&gt;
 /* 1. 標題縮小 */
 .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
@@ -861,6 +1124,243 @@ margin-bottom: 20px;
 <p>「響動」有大有小，也有極微細的層次。最微細的響動，是宇宙的響動、言霊的響動。而較大的響動，則來自呼吸帶動身體左、右、左之循環時的擺動。正是這種大的響動，使自身的心身(魂魄)得以結合，也能與對方的心身(魂魄)相互結合，並由此生出「武」。換言之，<strong>大的響動、小的響動與微細的響動之間，必然會互相共鳴</strong>。</p>
 <p>註1：阿吽の呼吸：<strong>阿</strong>代表<strong>起始</strong>、是<strong>吸氣</strong>或<strong>開始</strong>的象徵。<strong>吽</strong>代表終結、是<strong>吐氣</strong>或<strong>結束</strong>的象徵。「阿吽」連在一起，象徵著<strong>從開始到結束的整個過程、宇宙的全部、一吸一吐的完整循環</strong>。達成「阿吽の呼吸」是極高的境界，意味著你與對手的動作和意圖在<strong>節奏上完全融合</strong>，從而能夠輕鬆引導或化解對方的力量。</p>
 <p><a href="https://sasaki-aiki.com/article1_496.php">https://sasaki-aiki.com/article1_496.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0391回】　反側之手的重要性</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0391-aiki-hand-yin-yang/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0391-aiki-hand-yin-yang/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;合氣道的技雖是以「手」為主來發動，但手的運用並不容易。因為合氣道的技是遵循宇宙法則而生的，要使技正確發揮，手的使用方式也必須符合這一法則。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>合氣道的技雖是以「手」為主來發動，但手的運用並不容易。因為合氣道的技是遵循宇宙法則而生的，要使技正確發揮，手的使用方式也必須符合這一法則。</p>
+<p>初學者常犯的錯誤之一，是被抓住手時亂揮亂扯，或急於將對方打倒、摔出，結果雙手的運用成為「陽陽」相對，而非「陰陽」互補。</p>
+<p>在與對方接觸，或正在施技、出力的那一側手，稱為「用之手」，這是陽手。接著，這隻手必須從「陽 → 陰 → 陽」的變化中運作，才能符合法則。</p>
+<p>若雙手皆為陽，或用之手先行動作，便是錯誤，因為這違背了自然法則。
+例如，法則上有以下幾點：<br>
+1.手與腳都必須左右交替、陰陽互用，若一味偏陽或偏陰，動作便會停滯。<br>
+2.不可先動與對方接觸的那一點，否則會與對方力量正面衝突。<br>
+3.不可從身體末端(手)開始動作，否則無法發出大力量。<br>
+4.若雙手皆為陽手，會將對方彈開，而無法「結」或成為一體。<br>
+5.即使手為陰，若不發揮作用，也等於只用到身體的一半，力量便不足。<br></p>
+<p>由此可知，「出手」並非簡單之事。手的動作涉及身體多個部位，並非單純由手獨立動作。尤其在武道中，應該思考「如何出手」，這點尤為重要。</p>
+<p>以片手取為例，當向前伸出手時，這隻手是陽手。然而，若之後僅以這隻陽手動作，就難以精確調整力量，多半會太強或太弱。那麼，該如何是好？答案是：不要讓與之相對的反側的手閒置，而要同時使用。</p>
+<p>也就是說，要運用位於陽手反方向後面的「陰手」。透過陰手、肩膀與腰腹的開合，使陰側腰腹的力量傳導到陽手，於是兩者相結，成為一體。</p>
+<p>雙手應作為一對、一體，以陰陽之理運用。為此，必須讓手先與腰腹連結，並貫通肩部。若做不到這點，手就會彎曲，腰腹的力量會停在肩膀處，無法貫通到手。</p>
+<p>手的陰陽運用，應與呼吸相合。也就是說，依「吐氣 → 吸氣 → 吐氣」的「生產結(イクムスビ)」呼吸節奏進行。</p>
+<p>此外，雙手合一如同翹翹板的運作也是理想狀態。當<strong>用之手與同側的腳承受力量與重心時，反側的陰手自然會上升；而當陰側變為用手時，它下沉，另一側則上升</strong>。技之所以能發揮作用，正是因為這樣的「上升」存在，因此這個「翹翹板感」極為重要。</p>
+<p>最能體會這感覺的例子，是「四股踏」：當地面一側的手下沉時，另一側的手從肩膀開始上升，兩手形成一體貫通的感覺。</p>
+<p>一般而言，「陽」代表主動、外顯、活躍；「陰」則指被動、內隱、靜止，因此往往被輕視或忽略。</p>
+<p>然而，在合氣道中，陰陽同等重要，且必須合而為一。尤其身為武道，陰是那尚未顯現、靜靜待發出的力量，才是真正關鍵所在。</p>
+<p>例如，在「入身投」中，那隱於後方的陰手，正是等待轉為陽的瞬間，用來擊碎或制壓對方側腹的重要力量；又如「正面打一教」的陰手，也負責破壞對方的平衡。換言之，<strong>武道的節奏是：先以陽手導引，再以陰手完成收斂與制敵</strong>。</p>
+<p>不過，這稍稍超出本次主題，讓我們回到正題。</p>
+<p>以「片手取呼吸法(右半身)」為例，說明用手(陽)與反側之手(陰)的運用：<br>
+○當向前一步伸出右手時，左手應順勢下垂，不違抗重力，藉由這隻手、肩膀與身體的開合來調整對方的壓力。身體開展得越大，前方的右手便越能靠近對方；透過開合角度的控制，調整與對方的間合(註1)與壓力，並形成結合。若僅靠前方陽手單動，是難以結合的。<br>
+○當與對方結合後，反側(陰)的手、肩與腰應同時向外作十字旋轉，重心移至左腳。此時，右手應從縱向轉為橫向，並與腰腹同轉，使對方全身被引出，納入自己的圓中。真正使對方動作的，不是前方被抓的陽手，而是另一側的手、肩與腰。<br>
+○此時，重心轉換後，原本的陽手成為陰而上浮，另一手成為陽而下沉。再以前方的陽手壓住對方胸部，變換重心與腳勢，使對方橫向移動；同時，反側的手、肩與腰向內作十字旋轉，對方便會倒下。若試圖僅以陽手壓制對方胸部而使之倒下，力量反而會對撞，使對方不動，或被硬生生彈飛。</p>
+<p>看來，「陰」之中蘊含著吸收力、不可測的深沉力量，以及與對方結合成一體的能力。這份看不見卻深具包容的力量，正是合氣道之陰的真意。</p>
+<p>註1：間合：指<strong>時間、空間</strong>與精神上的間距。</p>
+<p><a href="https://sasaki-aiki.com/article3_391.php">https://sasaki-aiki.com/article3_391.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0393回】　基本準備動作</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0393-form-logic-aiki/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0393-form-logic-aiki/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;最近常常看到一些稽古陷入瓶頸的稽古人。他們長年努力，體力也足、身體也鍛鍊得不錯，但卻覺得技法無法順利運用，進步停滯，看不到未來的提升方向，因而感到苦惱。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>最近常常看到一些稽古陷入瓶頸的稽古人。他們長年努力，體力也足、身體也鍛鍊得不錯，但卻覺得技法無法順利運用，進步停滯，看不到未來的提升方向，因而感到苦惱。</p>
+<p>實際上，只要對方稍微用力抓住手，就會動彈不得，或是手脫離對方掌握、腳停住、手僵住，導致對方無法如預期倒下。</p>
+<p>如今的合氣道稽古，大多時間都用在<strong>兩人相對施技</strong>上。先生剛開始稽古的時候，開祖還在世。當時在進入技的練習之前，或結束時(註1)，必定會進行一些基本準備動作，例如：身體的進退動作(繼足(註2)、步法)、膝行、身形變換、一教運動、呼吸轉換法、後方雙手取的手之返動作、手腕關節柔軟法(回轉法、反手法)等，這些都是以單獨或相對方式進行的基本訓練。</p>
+<p>如今回想起來，這些練習實在非常有幫助。也就是說，這些基本準備動作的稽古，會在施技的各個關鍵處發揮作用。若沒有這些基本動作的鍛鍊，在關鍵時刻便容易出現問題。</p>
+<p>《合氣道技法》中提到：「<strong>基本準備動作，是進入技法之前的動作</strong>。」在那個年代，不論哪位老師，雖然時間長短不一，但都一定會進行基本準備動作。有的老師甚至會在一小時的課程中，花二十分鐘專門進行這部分。當時我們年輕的稽古人，總是迫不及待想練技，心裡暗暗希望準備運動能快點結束。即便如此，我們仍會認真地完成準備動作，休息時間也常被學長叫去陪練，或彼此切磋、研究。</p>
+<p>所謂「基本準備動作」，在合氣道中與所有武道一樣，都是<strong>極為重要的基本動作</strong>之一。</p>
+<p>基本動作包括：
+「禮」、「構え(姿勢)(註3)」、「間合(距離)」、「捌き(閃避、轉換)」、「氣的流動」、「先(主動)」、「力量的運用」、「坐法」、「受身」，以及「基本準備法(動作)」等。</p>
+<p>這些皆被視為「所有武道修行過程中最重要的部分」。《合氣道》中指出：「<strong>在合氣道中，基本動作的鍛鍊是最重要的課題。若缺乏此鍛鍊，不僅技術無法進步，精神也無法提升</strong>。」</p>
+<p>因此，若忽視了基本動作中的基本準備法與動作，就不可能進步，甚至會提早走入停滯或退步的狀態。</p>
+<p>現在雖然仍有部分道場在練習「轉換」或「手腕柔軟法」等相對動作，但與當時相比，似乎已被明顯輕視了。</p>
+<p>為了培育後進，先生認為我們必須重新研究由<strong>開祖監修、植芝吉祥丸二代目道主</strong>所著的《合氣道》與《合氣道技法》，並將稽古方向回歸到<strong>基本準備法、基本動作</strong>的鍛鍊上。</p>
+<p>真心希望後進們，能在仍有老師與前輩傳承的現在，確實承接這些基本準備法與動作。否則，將來可能會逐漸變形、甚至消失。這與其他文化一樣，一旦失傳，再想復原，便極為困難。</p>
+<p>註1：練習前前的熱身大家都會做，但<strong>稽古</strong>結束後的「收功」也不能少！收功操(Cool-down)是讓<strong>身體和精神狀態恢復與休養</strong>的關鍵。如果平常沒時間，但請至少從5-10分鐘的身體關節按摩開始，這是對自己努力的獎勵。</p>
+<p>註2：繼足：(Tsugi Ashi)是指當前腳往前移動後(不論距離多少)，後腳立即收攏跟上，維持重心穩定，確保身體隨時處於下一步攻擊或防禦的最佳準備狀態。</p>
+<p>註3：構え：(KAMAE)，身體正確的站姿與重心，更要求心理的穩定狀態，心中沒有『(恐)懼、懷(疑)、(驚)慌、迷(惑)』等雜念，能夠沉著面對所有情況。</p>
+<p><a href="https://sasaki-aiki.com/article3_393.php">https://sasaki-aiki.com/article3_393.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0394回】　每個動作與形都有其意義</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0394-form-meaning-aiki/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0394-form-meaning-aiki/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;合氣道是透過「技」的鍛鍊與「氣之形」的稽古而進步的。它的攻擊方式，與其他武道相比，顯得特別多樣。有以手刀擊來的，也有以片(單)手、雙手(雙手對雙手)、諸手(雙手對單手)抓住的；有以拳打擊過來的，還有以劍或杖刺擊、打擊而來的。
+在以手抓取的情況下，不僅抓手腕，也可能抓肘、肩、甚至胸。而且不只單手，雙手也會同時出手，不僅從正面，甚至從背後抓來。在這種情況下，一手抓住對方手腕，另一手可能同時勒住頸部。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>合氣道是透過「技」的鍛鍊與「氣之形」的稽古而進步的。它的攻擊方式，與其他武道相比，顯得特別多樣。有以手刀擊來的，也有以片(單)手、雙手(雙手對雙手)、諸手(雙手對單手)抓住的；有以拳打擊過來的，還有以劍或杖刺擊、打擊而來的。
+在以手抓取的情況下，不僅抓手腕，也可能抓肘、肩、甚至胸。而且不只單手，雙手也會同時出手，不僅從正面，甚至從背後抓來。在這種情況下，一手抓住對方手腕，另一手可能同時勒住頸部。</p>
+<p>合氣道的「形稽古(氣形の稽古)(註1)」是為了習得技法。然而，若要真正使技發揮作用，就必須鍛鍊身體，使身體各部位的動作能依循宇宙的法則自然運行。</p>
+<p>據說，合氣道的「形」正是依此原理構成的。特別是一教、二教、三教、四方投げ、入身投げ等基本形(一般稱為基本技)，在這個意義上極為重要。</p>
+<p>這些形的重要性，也可從它們過去的名稱看出。早期，<strong>一教稱為「腕抑え」(壓臂)、二教稱為「小手まわし」(轉前臂)、三教稱為「小手ひねり」（扭前臂）、四方投げ即「向四方投擲」，入身投げ則是「入身投」</strong>。每個名稱本身都揭示了該形的要點。因此，若不抓住這些要點去深入稽古，那稽古就失去了真正的意義。</p>
+<p>至於攻擊法，取的動作本身，也各有其意義。例如，<strong>正面打</strong>的稽古要點在於：不輸給對方打下來的「氣勢」與「身體」，要能制止對方。這是一種以<strong>氣與體</strong>直接對應的稽古。</p>
+<p><strong>両手取り(雙手雙手抓)<strong>的重點在於「兩手要陰陽並用」。也就是說，左右手與左右腳要能陰陽交替、協調運作。當能熟練掌握此要領後，即使在</strong>片手取り</strong>時，也能像両手取り一樣運用全身的陰陽平衡。<strong>諸手取り(雙手單手抓)<strong>時，使用的力量不應只來自手先，而是要從</strong>腰腹與肩胛骨</strong>發出。</p>
+<p>此外，諸手取り不僅是技(形)，還有「呼吸鍛鍊法」中的諸手取り。若將此呼吸法誤認為是技，以「把對方打倒」為目的，那就失去了本來的意義。呼吸法的目的，是<strong>培養呼吸力</strong>。極端來說，即使對方沒有倒下，只要自己的呼吸力增強了，就算達成目的。這在<strong>片手取り</strong>與<strong>坐技呼吸法</strong>中，亦是同樣的道理。</p>
+<p>不僅形稽古、呼吸法如此，即使是<strong>準備運動或準備動作</strong>，只要是有「形」的動作，就一定有其稽古的意義與要點。因此，每一個動作都必須確實地完成。</p>
+<p>例如，在進行「抬臂伸展體側運動」時，要配合呼吸，將身體兩側<strong>伸展到極限</strong>。不論是伸肘或伸肩，都要盡力達到極限。</p>
+<p>又如「手腕鍛鍊運動」，要在吸氣時縱向運動，然後吐氣時橫向、交叉運動，並全力擰緊，以此鍛鍊腕力。</p>
+<p>不論是形稽古還是準備動作，每一個動作都必須注入「氣」與「力」。若只是機械地做，而沒有投入精神與力量，那麼，不僅形無法掌握，力量也不會養成，最終只是徒然浪費時間而已。</p>
+<p>註1：「<strong>気形の稽古</strong>」：(きぎょうのけいこ / Kigyō no Keiko)是合氣道或一些與合氣哲學相關武道中，一個用來描述<strong>進階修煉階段</strong>的術語。<br>
+它將「形」(招式、外在形式)和「氣」(內在能量、法則)結合起來，強調兩者的統一。它不是單純的練動作，而是<strong>以動作為載體</strong>，來鍛鍊和體現合氣道中「氣」的運行和控制力。在修行階段上，它通常位於只練形之後，是走向「<strong>氣</strong>」之極致(即完全由心靈與法則引導)的中間階段。</p>
+<p><a href="https://sasaki-aiki.com/article3_394.php">https://sasaki-aiki.com/article3_394.php</a></p>
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0396回】　時間與螺旋</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0396-time-spiral-aiki/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0396-time-spiral-aiki/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;在合氣道的相對稽古中，要讓技法真正發揮作用，必須確實做到應該做的事。
+這包括讓技產生的法則、形成技的結構要素，以及依循該法則的身體運用方式等。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p>在合氣道的相對稽古中，要讓技法真正發揮作用，必須確實做到應該做的事。
+這包括讓技產生的法則、形成技的結構要素，以及依循該法則的身體運用方式等。</p>
+<p>例如，身體，無論是手或軀幹，若不用「螺旋」的方式運動，就無法產生力量，也難以將對手黏住、投出或壓制。至於身體螺旋運用的重要性與方法，先前已多次提過；而這次要談的，是「<strong>時間的螺旋</strong>」。因為「時間也具有螺旋性」這個觀點。</p>
+<p>螺旋的對立面，是直線。若將手或身體的「直線運用」與「螺旋運用」相比，無論視覺或感覺上，都能明顯分辨其差異。但「時間的螺旋」就比較難理解了。</p>
+<p>時間的螺旋可分為兩種。第一種，是「渦旋式的時間流動」。也就是從緩慢開始，逐漸向中心加速的時間節奏。例如「<strong>交差取二教</strong>(註1)」的動作，就屬於這種時間流向。</p>
+<p>另一種，則是相反的，從中心向外逐漸加速的渦旋，例如「四方投」就是這樣。</p>
+<p>這兩種渦旋較容易體會；若還無法感覺出來，可以透過不斷稽古交差取二教與四方投，直到身體明白為止。</p>
+<p>第二種，是「時間的錯位(Time Lag)」。若沒有這種時間上的錯位螺旋，技法往往難以生效。</p>
+<p>若不使用時間的螺旋，等同於「直線地使用時間」。當時間被直線地運用時，就像手以直線運動一樣，容易與對手的力正面衝突，導致自身的力量無法順利傳遞。例如在「三教」中，若對手稍有鍛鍊，直線時間的用法往往難以奏效。</p>
+<p><strong>要形成時間的螺旋，腳、手與軀幹(腰腹)之間必須產生些微的動作時間差</strong>。當然，手與腳必須與腰腹相連，並以「左右合一(ナンバ)」的方式連動，右與左要能規律地運作。若這部分做不到，時間的螺旋就難以成立。</p>
+<p><strong>動作的順序應是，腰腹先動，接著是腳，最後是手</strong>。以三教為例，若腰、腳、手依序充分反轉，再等待對手繞身靠近、壓力密度逐漸充滿的那一刻，從那時起再以腰、腳、手依序反轉，就能發出極大的力量。而這個「<strong>等待對手回轉</strong>」<strong>並「再反轉」的瞬間，就是時間螺旋所在之處</strong>。</p>
+<p>初學者往往不懂這個等待的過程，急著用手直線出技，因此缺乏時間的螺旋，使技難以奏效。</p>
+<p>三教是最容易理解「時間螺旋」的例子，但像四方投、小手返等技法(形)也都<strong>應以此原理為基礎去稽古，讓時間的螺旋能自然地融入一切技之中</strong>。</p>
+<p>註1：交差取二教：受方以用與你不同側的手來抓握你的手腕。</p>
+<p><a href="https://sasaki-aiki.com/article3_396.php">https://sasaki-aiki.com/article3_396.php</a></p>
 ]]></content:encoded></item><item><title>合氣道進步的秘訣【第0400回】　全力以赴</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0400-full-out-effort/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0400-full-out-effort/</guid><description>&lt;style&gt;
 /* 1. 標題縮小 */
 .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
