@@ -41,45 +41,45 @@ margin-bottom: 20px;
 <p>根據《大辭林》的定義：「禮儀，是為了維持社會秩序、圓滿與他人交往，而人應當遵守的行為規範。」另外，「禮」亦被定義為「為維持社會秩序與人際關係順暢所應遵守的習俗」，或「蘊含敬意的態度、舉止與行為」。因此，本文將「禮」與「禮儀」視為同等概念。</p>
 <p>我們合氣道人，同樣生活在合氣道與武道的社會中。若要維持這個社群的秩序，並於其中互動交流，就不能忽視「武道社會中的禮儀」。</p>
 <p>禮儀既是「維持社會秩序的作法」，那麼它必然有其所面對的對象。在合氣道的稽古中，可大致分為以下幾類，而其形式與意義則隨對象而變：</p>
-<div class="aiki-table-container" style="overflow-x: auto; margin: 20px 0;">
-  <table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; line-height: 1.6;">
+<div style="display: flex; justify-content: flex-start; background: transparent; overflow-x: auto;">
+  <table style="border-collapse: collapse; border: 2.5px solid currentColor; margin: 20px 0; width: auto; table-layout: auto;">
     <thead>
-      <tr style="background-color: #f5f5f5; text-align: left;">
-        <th style="padding: 12px; border: 1px solid #ddd;">禮儀的對象</th>
-        <th style="padding: 12px; border: 1px solid #ddd;">形式</th>
-        <th style="padding: 12px; border: 1px solid #ddd;">禮儀的意義</th>
+      <tr style="background-color: rgba(128, 128, 128, 0.2);">
+        <th style="min-width: 150px; padding: 15px 30px; border: 2px solid currentColor; font-size: 1.25em; font-weight: bold; text-align: center;">禮儀的對象</th>
+        <th style="min-width: 150px; padding: 15px 30px; border: 2px solid currentColor; font-size: 1.25em; font-weight: bold; text-align: center;">形式</th>
+        <th style="min-width: 250px; padding: 15px 30px; border: 2px solid currentColor; font-size: 1.25em; font-weight: bold; text-align: center;">禮儀的意義</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 12px; border: 1px solid #ddd;"><strong>神</strong></td>
-        <td style="padding: 12px; border: 1px solid #ddd;">拜禮、禮拜</td>
-        <td style="padding: 12px; border: 1px solid #ddd;">從俗界(凡間)進入神界的儀式，與神明、先賢融為一體</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">神</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">拜禮、禮拜</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">從俗界(凡間)進入神界的儀式，與神明、先賢融為一體</td>
       </tr>
       <tr>
-        <td style="padding: 12px; border: 1px solid #ddd;"><strong>師範</strong></td>
-        <td style="padding: 12px; border: 1px solid #ddd;">敬禮</td>
-        <td style="padding: 12px; border: 1px solid #ddd;">表達對神意傳承者的敬意，祈求指導</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">師範</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">敬禮</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">表達對神意傳承者的敬意，祈求指導</td>
       </tr>
       <tr>
-        <td style="padding: 12px; border: 1px solid #ddd;"><strong>前輩、上位者</strong></td>
-        <td style="padding: 12px; border: 1px solid #ddd;">敬禮</td>
-        <td style="padding: 12px; border: 1px solid #ddd;">請求教誨，借其胸懷磨鍊自己</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">前輩、上位者</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">敬禮</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">請求教誨，借其胸懷磨鍊自己</td>
       </tr>
       <tr>
-        <td style="padding: 12px; border: 1px solid #ddd;"><strong>同輩</strong></td>
-        <td style="padding: 12px; border: 1px solid #ddd;">簡禮、略禮</td>
-        <td style="padding: 12px; border: 1px solid #ddd;">彼此勉勵，共同精進</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">同輩</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">簡禮、略禮</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">彼此勉勵，共同精進</td>
       </tr>
       <tr>
-        <td style="padding: 12px; border: 1px solid #ddd;"><strong>後輩</strong></td>
-        <td style="padding: 12px; border: 1px solid #ddd;">回禮、答禮、略禮</td>
-        <td style="padding: 12px; border: 1px solid #ddd;">鼓勵、嘉許「加油」之意</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">後輩</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">回禮、答禮、略禮</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">鼓勵、嘉許「加油」之意</td>
       </tr>
       <tr>
-        <td style="padding: 12px; border: 1px solid #ddd;"><strong>陌生者</strong></td>
-        <td style="padding: 12px; border: 1px solid #ddd;">目禮</td>
-        <td style="padding: 12px; border: 1px solid #ddd;">表示無敵意、不為敵</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">陌生者</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">目禮</td>
+        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">表示無敵意、不為敵</td>
       </tr>
     </tbody>
   </table>
