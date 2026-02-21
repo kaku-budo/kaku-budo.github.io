@@ -1,80 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>重心轉換 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E8%BD%89%E6%8F%9B/</link><description>Recent content in 重心轉換 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:44:44 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E8%BD%89%E6%8F%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0390回】 按正確順序修行應做之事</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-yin-hand/</link><pubDate>Sun, 15 Feb 2026 22:44:44 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-yin-hand/</guid><description>&lt;p&gt;style&amp;gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>重心轉換 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E8%BD%89%E6%8F%9B/</link><description>Recent content in 重心轉換 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E8%BD%89%E6%8F%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0230回】　蓄勢(ため)</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0230-store-and-flow/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0230-store-and-flow/</guid><description>&lt;style&gt;
 /* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }&lt;/p&gt;
-&lt;p&gt;/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }&lt;/p&gt;
-&lt;p&gt;/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }&lt;/p&gt;
-&lt;p&gt;/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }&lt;/p&gt;
-&lt;p&gt;/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 &lt;em&gt;/
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
 .toc {
 background: #f9f9f9;
 padding: 15px;
 border-radius: 8px;
 margin-bottom: 20px;
 }
-.dark .toc { background: #333; } /&lt;/em&gt; 暗色模式下的目錄背景 */
-&lt;/style&gt;&lt;/p&gt;</description><content:encoded><![CDATA[<p>style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }</p>
-<p>/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }</p>
-<p>/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }</p>
-<p>/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }</p>
-<p>/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 <em>/
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /</em> 暗色模式下的目錄背景 */
-</style></p>
-<h2 id="draft-false">date: 2026-01-11T19:29:00+08:00
-showToc: true   # 開啟目錄
-TocOpen: true   # 預設直接展開目錄，方便閱讀
-tags:
-draft: false</h2>
-<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;當社會變得富裕，人們似乎也變得日益忙碌。忙碌或許是富足的代償，兩者總是成對出現。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
-  .dark strong, .dark b { color: #5dade2 !important; }
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
 
-  /* 3. 文章末尾橫線 */
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
 
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 </style>
-<p>合氣道是透過技的鍛鍊來精進的。合氣道的技遵循宇宙的法則，而進行技的鍛鍊之身體，被稱為「小宇宙」。因此，不論是技還是身體，都必須依循宇宙的法則來運作，並且應讓其依此法則而發揮功能。</p>
-<p>技的鍛鍊，是透過正面打一教等「技之形」的反覆稽古而進行。然而，「技」本身卻往往難以理解，這正是問題所在。開祖當年示範過技的真義，但如今，已經沒有人能明確指出「這就是技」了。不過，有一點是可以確信的：「技」確實蘊藏在我們透過形稽古所鍛鍊的「技之形」之中；同時，它也存在於圓的運動交錯之中，因為開祖曾親口如此說過。</p>
-<p>「技」雖然難以捉摸，但既然「技」中存在法則性，那麼找到這個法則、並將其融會於身，這正是「技之鍛鍊」的真正意義。</p>
-<p>因此，即使是透過凝縮了技之精髓的「技之形」，也就是「形稽古」，來進行技的鍛鍊，也同樣存在其法則性。也就是說，修行者必須知道應該做什麼，並且依正確的順序去做。</p>
-<p>一般而言，在技之形或呼吸法的稽古中，「應做的事」與「進行的順序」大致如下。</p>
-<p>但為了說明方便，這些步驟在實際操作中有時會同時進行，或前後交錯：<br>
-○當對方不論是抓手、抓胸，或以手刀打來時，在雙方接觸的那一瞬間，必須與對方「結合」。兩人應成為一體。這個「結」極為重要，若沒有結，對方便能自由行動，使後續動作陷入困難。無論是哪一種技之形的稽古，這個「<strong>接觸瞬間的結</strong>」都是不可或缺的。</p>
-<p>○為了與對方結合，首先，自己的手先或身體末端必須與身體的中心，也就是腰腹，結合。如果手臂彎曲，是不可能與對方結得上的。同樣地，若身體僵硬用力，力量與氣的流動會被阻斷，也無法達成結。手應如「天之浮橋」般輕盈懸浮，這是第一要務。為了結合，在伸手的同時必須吐氣。雖說是伸手讓對方抓住，但手的動作並非從手本身開始，而是應從腰腹發出。而且，出手時必須朝向對方的正中線，否則無法形成結。</p>
-<p>○四肢的末端(如手)不應單獨活動，而要由腰腹帶動。當手被抓住時，接觸點就是結的所在，因此應保持該點不動、不移，由腰腹先動，手再隨之而動。</p>
-<p>○手應以縱橫十字的方式運用，雙腳亦如撞木般形成十字，身體(相對於雙腳)也必須保持十字運動。呼吸也要成為十字的節奏。而且，首先必須從「縱」開始，這似乎是宇宙的法則。</p>
-<p>○呼吸上，<strong>在初次結合時應吐氣；施技時吸氣；在投擲或壓制對方時再吐氣</strong>。這便是所謂的「生產結(イクムスビ)(註1)」，若不依此節奏，動作就會中斷，力量也會中途斷裂。</p>
-<p>既然有該做的事，就必須確實去做；否則既不能成為技，也無法成為鍛鍊。若錯誤了該做之事的順序，同樣無法成技，對方也不會被制伏。唯有依循應有的步驟與順序，一步步正確實踐，才能達成真正的「技」。</p>
-<p>註：イクムスビ：是指「生命力、生長力、和源源不絕的創造力。</p>
-<p><a href="https://sasaki-aiki.com/article3_390.php">https://sasaki-aiki.com/article3_390.php</a></p>
+<p>當社會變得富裕，人們似乎也變得日益忙碌。忙碌或許是富足的代償，兩者總是成對出現。</p>
+<p>為了逃離這份忙碌，人們嘗試各種途徑：禪坐、聆聽音樂會、看展或培養嗜好。<strong>想必也有許多人是為了脫離日常瑣碎的喧囂，渴望在合氣道中找回身為人最原始的時間</strong>。</p>
+<p>然而，令人遺憾的是，不少人將日常的急躁帶進了道場。在稽古中只顧自己，不顧對手，一味地求快、慌張，最終陷入僅靠蠻力施技的惡性循環。</p>
+<p>合氣道的核心在於「技」。我們必須與技法對話，思考如何使其奏效。而在技法成立的諸多條件中，「<strong>蓄勢(ため)</strong>」是不可或缺的一環。</p>
+<p>所謂「蓄勢」，是為了使下一個動作或作業更具效率，而在發動前一瞬間所做的力量與能量的「凝聚」。這種狀態會使動作的軌跡在時間軸上產生若干的濃縮。例如棒球投手為了投出更快速、更沉重的球，極其重視放球前的蓄勢。</p>
+<p>在合氣道中，哪些環節需要「蓄勢」？</p>
+<p>首先，是<strong>與對手接觸並連結(結び)的瞬間</strong>。透過入身接觸對手時，對方必然會產生抗力；此時應等待那一瞬間的抗力傳來，並將其蓄積。若不等待便急於移動，就無法利用對方的力量，只能靠自己的體力硬拚，且無法與對手連結，對方也不會隨之律動。</p>
+<p>其次，在<strong>摔出或壓制前</strong>也必須有「蓄勢」。將對手的能量與自己的能量在瞬間交匯、凝聚，再運用這股爆發力完成動作。若缺乏蓄勢，動作會變得直線化，演變成力量的對抗；一旦對手力氣更大，技法便會失效。</p>
+<p>以下是因缺乏「蓄勢」導致對手抵抗而失敗的典型案例及其解方：<br>
+•	<strong>三教</strong>： 壓制後不要立刻急著旋轉手腕取標，應先將對手的手(臂)向外引導，待對手產生「想把手拉回來」的意圖(即蓄勢)後，再順勢旋轉。許多人感到三教難做，往往就是缺了這一瞬間。<br>
+•	<strong>四方摔</strong>： 最後切下摔出時，不要單調地直接往下按。應一瞬間將抓握的力量向上引導，誘導出對方「想往下沉」的抗力，待力量蓄積飽滿後再切下。若直接切下，強壯的對手會用肩與腿鎖死力量，導致技法卡死。<br>
+•	<strong>天地摔</strong>： 許多人苦惱天側的手舉不起來，原因也是缺乏蓄勢。不要急著動手，應將腰部旋轉產生的能量蓄積於手部後，再順勢向上揚起。<br></p>
+<p>「蓄勢」不僅限於手部，<strong>足部的蓄勢</strong>同樣關鍵：<br>
+•	<strong>四方摔(步法)</strong>： 投擲前的轉換動作中，若從前足移向後足的重心蓄勢充分，便能輕鬆帶動對手。<br>
+•	<strong>入身摔</strong>： 將手置於對手後頸或頸部準備切下時，不要急著用近側的腳投擲，應將重心移至外側足並蓄積體重，再行切下。<br>
+•	<strong>二教(裏)</strong>： 重心若一直掛在前腳，無論手部如何用力，對手稍微抵抗便難以奏效。應將重心後移至後足蓄勢，並將這份蓄積的重量透過全身(而非僅靠指尖)撞擊進去，如此必能見效。<br></p>
+<p>要掌握「蓄勢」，必須體認到它是在一連串動作的時間與空間軌跡中完成的，因此<strong>體態、呼吸與感官</strong>三者至關重要。在身體方面，特別是作為中心的<strong>腰部</strong>，透過腰部的螺旋運作，能讓手足產生蓄勢的空間。</p>
+<p>此外，修煉者必須研磨感官，隨時察覺自己是否已完成蓄勢、對手的狀態為何。這需要極高度的專注力。</p>
+<p>最後，連結自己與對手、並精準控制動作的關鍵，始終是<strong>呼吸</strong>。透過「蓄勢」來研磨呼吸的稽古，將是通往高深境界的重要課題。</p>
+<p><a href="http://sasaki-aiki.com/article3_230.php">http://sasaki-aiki.com/article3_230.php</a></p>
 ]]></content:encoded></item></channel></rss>
