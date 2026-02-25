@@ -1,0 +1,31 @@
+<div class="sidebar">
+  <h3>分類導覽</h3>
+
+  {{ $categories := .Site.Taxonomies.categories }}
+  {{ range $catName, $catPages := $categories }}
+  <div class="sidebar-category">
+    <a href="{{ "/categories/" | relURL }}{{ $catName | urlize }}/">
+      ▶ {{ $catName }}
+    </a>
+
+    {{/* 列出該分類下的 series */}}
+    {{ $seriesInCat := slice }}
+    {{ range $catPages }}
+      {{ range .Page.Params.series }}
+        {{ $seriesInCat = $seriesInCat | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $seriesInCat = $seriesInCat | uniq }}
+
+    <ul class="sidebar-series">
+      {{ range $seriesInCat }}
+      <li>
+        <a href="{{ "/series/" | relURL }}{{ . | urlize }}/">
+          {{ . }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+</div>
