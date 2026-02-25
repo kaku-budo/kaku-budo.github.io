@@ -240,23 +240,26 @@
 
   </div>
 </article><div id="martial-toc" class="martial-sidebar">
-    <div class="m-label" onclick="toggleMartialMenu()">
-        [進步的秘訣] 列表 
-        <span id="m-arrow-icon">▼</span>
+    <div class="sidebar-header">
+        <input type="text" id="martialSearch" placeholder="搜尋..." onkeyup="doMartialSearch()">
     </div>
-    <div id="martial-content-area" class="m-content">
-        <input type="text" id="martialSearch" placeholder="搜尋標題..." onkeyup="filterMartialMenu()">
-        <ul class="m-tier-3">
-            
-            
-            
-                
-            
-            
-            
-        </ul>
-    </div>
+    <nav class="martial-nav"> 
+        <div class="m-tier-1">
+            <div class="m-label" onclick="mToggle(this)">
+                武道隨筆 <span class="m-count">(4)</span> <span class="m-arrow">▼</span>
+            </div>
+            <div class="m-content">
+                <ul class="m-tier-3">
+                    <li><a href="/blog/aikido/tips/" class="">合氣道進步的秘訣</a></li>
+                    <li><a href="/blog/aikido/philosophy/" class="">合氣道の思想と技</a></li>
+                    <li><a href="/blog/aikido/body/" class="">合氣道體態與素質養成</a></li>
+                    <li><a href="/blog/aikido/senior/" class="">高齡者適用的合氣道</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 </div>
+
 
 <style>
 body #martial-toc.martial-sidebar { 
