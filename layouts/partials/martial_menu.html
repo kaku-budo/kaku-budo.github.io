@@ -1,111 +1,90 @@
-{{- /* 邏輯控制：僅在一般文章頁顯示 */ -}}
-{{- if and (eq .Kind "page") (ne .Type "about") (ne .Layout "about") (ne .Title "關於我") -}}
-
 <div id="martial-toc" class="martial-sidebar">
     <div class="sidebar-header">
-        <input type="text" id="martialSearch" placeholder="" onkeyup="doMartialSearch()">
+        <input type="text" id="martialSearch" placeholder="搜尋(如:0199)..." onkeyup="doMartialSearch()">
     </div>
     <nav class="martial-nav">
-        {{- /* 修正標題重複：直接抓取一級 Section */ -}}
-        {{- range .Site.Sections -}}
-            {{- template "render-section-fixed" . -}}
-        {{- end -}}
+        {{ range (where .Site.Sections "Section" "blog") }}
+            {{ range .Sections }}
+            <div class="m-tier-1">
+                <div class="m-label" onclick="mToggle(this)">
+                    {{ .Title }} <span class="m-count">({{ len .Pages }})</span> <span class="m-arrow">▼</span>
+                </div>
+                <div class="m-content">
+                    <ul class="m-tier-3">
+                        {{ range .Pages.ByDate.Reverse }} <li><a href="{{ .RelPermalink }}" class="martial-link">{{ .Title }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+            {{ end }}
+        {{ end }}
     </nav>
 </div>
 
 <style>
-/* 1. 主框架：寬度加寬，位置設為 45px */
+/* 1. 側邊欄背景：維持 0.2 透明度，看清後方文字 */
 body #martial-toc.martial-sidebar { 
-    position: fixed !important; 
-    right: 15px !important; 
-    top: 45px !important; /* 回歸 45px 精準對齊 */
-    width: 252px !important; 
-    max-height: 85vh !important; 
-    z-index: 999999 !important; 
-    background: rgba(35, 35, 35, 0.95) !important; 
-    border: 1px solid rgba(0, 150, 255, 0.5) !important; /* 邊框改為偏藍系 */
-    padding: 12px !important;
-    border-radius: 8px !important;
-    box-shadow: 0 4px 25px rgba(0,0,0,0.6) !important;
+    position: fixed !important; right: 15px !important; top: 45px !important; 
+    width: 235px !important; max-height: 85vh !important; z-index: 999999 !important; 
+    background: rgba(00, 00, 00, 0.2) !important; 
+    border: 1px solid rgba(0, 255, 255, 0.4) !important; 
+    padding: 15px !important; border-radius: 12px !important;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5) !important;
+    overflow-y: auto !important;
 }
 
-/* 2. 顏色強制修正：亮電光藍 (#0096FF) */
-/* 使用 body #martial-toc 確保權限高於主題所有 CSS */
-
-body #martial-toc .m-label,
-body #martial-toc .m-label span,
-body #martial-toc .m-arrow { 
-    color: #0096FF !important; /* 亮電光藍：偏藍系的亮色 */
-    font-weight: 800 !important;
-    font-size: 1.1em !important;
-    opacity: 1 !important;
-}
-
-/* 文章標題：純白色 */
-body #martial-toc .m-tier-3 li a {
-    color: #ffffff !important; 
-    text-decoration: none !important;
-    display: block !important;
-    padding: 6px 0 !important;
-    opacity: 1 !important;
-}
-
-/* 懸停與選中：亮紅色 */
-body #martial-toc a:hover, 
-body #martial-toc a.is-active { 
-    color: #ff3333 !important; 
-    font-weight: 900 !important; 
-}
-
-/* 3. 搜尋框修正 */
+/* 2. 搜尋框樣式 */
 #martialSearch { 
-    width: 100% !important;
-    background: rgba(255, 255, 255, 0.1) !important;
-    border: 1.5px solid #0096FF !important;
-    color: #ffffff !important;
-    padding: 8px !important;
-    margin-bottom: 12px !important;
-    border-radius: 4px !important;
-    outline: none !important;
+    width: 100%; background: rgba(0, 0, 0, 0.2); border: 2px solid #00FFFF; 
+    color: #00FFFF; padding: 5px; margin-bottom: 10px; border-radius: 6px; 
+    font-weight: bold;
 }
 
-/* 結構微調 */
-.martial-nav { overflow-y: auto !important; max-height: calc(85vh - 70px) !important; }
-.m-label { cursor: pointer; padding: 8px 0; border-bottom: 1px solid rgba(0, 150, 255, 0.2); display: flex; justify-content: space-between; align-items: center; }
-.m-content { display: none; padding-left: 12px; border-left: 1px solid rgba(0, 150, 255, 0.3); }
-.active > .m-content { display: block !important; }
-.m-tier-3 { list-style: none !important; padding: 0 !important; margin: 5px 0 !important; }
+/* 3. 亮青色文章連結：專為數千篇文章設計的顯眼色 */
+.martial-link {
+    color: #00FFFF !important; /* 亮青色 */
+    text-shadow: 1px 1px 3px rgba(0,0,0,1) !important; /* 加重陰影確保在淺底也清晰 */
+    text-decoration: none !important;
+    font-size: 0.9em !important;
+    display: block;
+    padding: 4px 0;
+    transition: 0.2s;
+}
+.martial-link:hover { color: #FFFFFF !important; background: rgba(0, 255, 255, 0.2); }
+
+/* 4. 分類標題樣式 */
+body #martial-toc .m-label { 
+    color: #00CCFF !important; font-weight: 800 !important; cursor: pointer; 
+    display: flex; justify-content: space-between; padding: 10px 0;
+    border-bottom: 1px solid rgba(0, 255, 255, 0.2);
+}
+
+.m-content { display: none; }
+.m-content.is-active { display: block !important; }
+.m-tier-3 { list-style: disc !important; padding-left: 20px !important; margin: 5px 0 !important; }
+.m-tier-3 li { color: #00FFFF; margin-bottom: 5px; }
 </style>
 
 <script>
-function mToggle(el) { event.stopPropagation(); el.parentElement.classList.toggle('active'); }
+function mToggle(element) {
+    const content = element.nextElementSibling;
+    const arrow = element.querySelector('.m-arrow');
+    content.classList.toggle('is-active');
+    arrow.innerHTML = content.classList.contains('is-active') ? '▲' : '▼';
+}
+
 function doMartialSearch() {
-    let k = document.getElementById('martialSearch').value.toLowerCase();
-    let items = document.querySelectorAll('.m-tier-3 li');
-    if (k.length > 0) { document.querySelectorAll('.m-tier, .m-content').forEach(n => n.classList.add('active')); }
-    items.forEach(li => {
-        let text = li.textContent.toLowerCase();
-        li.style.display = text.includes(k) ? "block" : "none";
+    const input = document.getElementById('martialSearch').value.toUpperCase();
+    const listItems = document.querySelectorAll('.m-tier-3 li');
+    listItems.forEach(li => {
+        const text = li.textContent || li.innerText;
+        if (text.toUpperCase().indexOf(input) > -1) {
+            li.style.display = "";
+            // 搜尋時自動展開分類
+            li.closest('.m-content').classList.add('is-active');
+        } else {
+            li.style.display = "none";
+        }
     });
 }
 </script>
-
-{{- end -}}
-
-{{- define "render-section-fixed" -}}
-    <div class="m-tier">
-        <div class="m-label" onclick="mToggle(this)">
-            {{ .Title }} <span class="m-arrow">▼</span>
-        </div>
-        <div class="m-content">
-            {{- range .Sections -}}
-                {{- template "render-section-fixed" . -}}
-            {{- end -}}
-            <ul class="m-tier-3">
-                {{- range .RegularPages -}}
-                <li><a href="{{ .RelPermalink }}" class="{{ if eq $.RelPermalink .RelPermalink }}is-active{{ end }}">{{ .Title }}</a></li>
-                {{- end -}}
-            </ul>
-        </div>
-    </div>
-{{- end -}}
