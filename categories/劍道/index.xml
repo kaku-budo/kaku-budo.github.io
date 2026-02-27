@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>劍道 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/categories/%E5%8A%8D%E9%81%93/</link>
+    <description>Recent content in 劍道 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/categories/%E5%8A%8D%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不當刺擊技法(突き技)可能導致之重大事故</title>
+      <link>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://kaku-budo.github.io/images/kendo/k-01-0001-20260224_AJKF-notice.webp&#34; alt=&#34;置中圖片&#34; width=&#34;200&#34;&gt;
+&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+</style>
+<p align="center">
+  <img src="/images/kendo/k-01-0001-20260224_AJKF-notice.webp" alt="置中圖片" width="200">
+</p>
+<h1 id="不當刺擊技法突き技可能導致之重大事故--全日本剣道連盟医科学委員会-編輯">不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯</h1>
+<h3 id="i-刺擊技法的特性">I. 刺擊技法的特性</h3>
+<p>刺擊技法造成的外傷與其他招式不同，具有以下特徵：</p>
+<ol>
+<li><strong>打突點承載力量極大</strong> <br>
+刺擊是使用竹刀尖端(先革)的技法，力量集中在極小的面積上。因此，相較於面、小手、胴的打擊，其單位面積的衝擊力極強，一旦偏離護具保護區域，受傷風險極高。<br></li>
+<li><strong>頭部可能受到劇烈晃動</strong><br>
+在預料之外的時機遭受刺擊，可能導致頭部強烈震盪，引發腦震盪風險。此外，若竹刀勾住面金，頸部可能因強烈旋轉而承載負荷。此時不僅會造成挫傷，還可能因頸部被「拉伸」而導致神經及其周邊組織受損。<br></li>
+<li><strong>打突部周邊分布重要器官</strong><br>
+刺擊的目標是頸部或胸部，這是人體最重要的要害。了解頸部的器官構造，對於理解刺擊技法的注意事項至關重要。<br></li>
+</ol>
+<hr>
+<h3 id="ii-頸部的重要器官-圖-1">II. 頸部的重要器官 (圖 1)</h3>
+<p>頸部包含頸動脈、甲狀軟骨(喉結)、聲帶、脊髓等重要器官。</p>
+<ul>
+<li><strong>頸動脈：</strong> 位於頸部兩側前方稍高處，位置相當淺層。</li>
+<li><strong>聲帶：</strong> 位於喉結正後方。若聲帶受阻，不僅無法發聲，更會導致呼吸困難。</li>
+<li><strong>脊髓：</strong> 位於頸部後方，是控制手腳運動的核心神經束。</li>
+</ul>
+<h2 id="左側圖片"><strong>【圖 1：頸部解剖圖】</strong> <br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_1.webp"></h2>
+<h3 id="iii-胸部與腋下的重要器官">III. 胸部與腋下的重要器官</h3>
+<ul>
+<li><strong>胸部：</strong> 包含心臟、肺部等器官，由肋骨與厚實肌肉包圍保護。</li>
+<li><strong>腋下：</strong> 佈滿通往手臂的血管與神經束 (臂神經叢)。</li>
+</ul>
+<h2 id="左側圖片-1"><strong>【圖 2：腋下與手臂解剖圖】</strong> <br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_2.webp"></h2>
+<h3 id="iv-偏離打突部位時可能發生的重大事故與注意點">IV. 偏離打突部位時可能發生的重大事故與注意點</h3>
+<h4 id="1-頸動脈-可能引發動脈剝離腦栓塞">1. 頸動脈 (可能引發：動脈剝離、腦栓塞) <br></h4>
+<ul>
+<li><strong>說明：</strong> 在頸部，名為頸動脈的粗大血管運行於相對淺層的位置。雖然大部分區域受到「胸鎖乳突肌」的保護，但在中段以上的部位，仍有部分血管未被肌肉覆蓋。若竹刀從面部的縫隙刺入此部位，可能會形成稱為血栓的血塊，隨血流進入大腦引發腦栓塞，或造成血管壁裂開的「動脈剝離」(圖 3)。</li>
+</ul>
+<p><strong>【圖 3：頸動脈血栓與剝離】</strong> <br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_3.webp"> <br>
+<strong>注意點：</strong> 若頸部側面遭受刺擊後，出現劇烈頸痛或手腳無法動彈，請勿移動頸部，立即就醫。</p>
+<p><strong>【圖 4：可能傷害頸動脈的刺擊】</strong> <br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_4.webp"></p>
+<h4 id="2-甲狀軟骨-喉結-與聲帶-可能引發聲帶麻痺聲帶水腫">2. 甲狀軟骨 (喉結) 與聲帶 (可能引發：聲帶麻痺、聲帶水腫) <br></h4>
+<ul>
+<li><strong>說明：</strong>
+•在靠近頸部中心的位置，有名為「聲帶」的發聲器官。聲帶不僅對發聲至關重要，它同時也是空氣進入肺部的「入口」，一旦此處受阻，將會導致無法呼吸。保護著聲帶的是俗稱「喉結」的甲狀軟骨。喉結位於頸部正前方，平時雖有護具妥善保護，但當竹刀從面部護具下方滑入(圖5)，或是刺擊入位後仍持續加力(即所謂的「刺擊不收單手推」或「持續推進」)，導致頸部正面承受極大壓力時，甲狀軟骨及深層的聲帶便可能受傷。<br>
+•若聲帶受損，或周邊組織因腫脹(水腫)壓迫聲帶，可能會導致聲音沙啞甚至完全無法發聲。當聲帶水腫嚴重時，甚至可能出現吸氣困難、呼吸窘迫的狀況。此外，若受傷程度嚴重，空氣可能從氣道漏出，進而引發下文所述的「縱隔氣腫」<br></li>
+<li><strong>注意點：</strong> 若刺擊後出現聲音沙啞或呼吸困難，切勿勉強說話，應立即接受檢查。</li>
+</ul>
+<p><strong>【圖 5：可能損傷聲帶之刺擊】</strong> <br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_5.webp"></p>
+<h4 id="3-咽喉與氣管-可能引發皮下氣腫縱隔氣腫">3. 咽喉與氣管 (可能引發：皮下氣腫、縱隔氣腫) <br></h4>
+<ul>
+<li><strong>說明：</strong>
+•	由於由下往上的刺擊或是力道過猛的刺擊，極少數情況下竹刀可能會滑入頸部上方深處(如圖4、圖5左側等處)。從下顎下方到頸部上方的組織相對柔軟，若在此處遭受刺擊，作為空氣通道的喉嚨或氣管黏膜可能會受損。<br>
+•	在粘膜受損的狀態下若持續大聲喊叫(發出氣合)，空氣壓力可能會導致空氣進入粘膜下方，進而引發「皮下氣腫」或「縱隔氣腫」等病症(如圖6)。若漏出的空氣過多，甚至有阻塞原本呼吸通道的危險。此外，若唾液隨同空氣一併進入皮下組織，可能引發細菌感染，導致更為嚴重的後果。</li>
+</ul>
+<p><strong>【圖 6：皮下氣腫與縱隔氣腫】</strong><br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_6.webp"></p>
+<ul>
+<li><strong>注意點：</strong>
+•	當竹刀從面部護具下方滑入，導致頸部上方或下顎等部位遭受刺擊時，若隨後出現吞嚥困難、發聲疼痛，或感覺皮膚下方有「劈啪」的空氣擠壓感等症狀，請務必立即停止發聲並保持安靜休息。<br>
+•	若出現無法吞嚥的情況，請立即就醫。即便尚能吞嚥，但若症狀在經過半天至一天後仍持續惡化，或是伴隨發燒現象，也請務必前往醫療機構接受檢查。</li>
+</ul>
+<h4 id="4-腦與脊髓-可能引發腦震盪脊髓損傷腦脊髓液滲漏">4. 腦與脊髓 (可能引發：腦震盪、脊髓損傷、腦脊髓液滲漏)</h4>
+<p>頸部是支撐大腦的重要部位。此外，頸部後方有著名為「脊髓」的神經束，負責主宰人體所有的運動與感覺功能。雖然這些神經受到堅硬的骨骼(頸椎)保護，但若頸部受到劇烈的拉伸或頭部遭到強力晃動，仍可能導致神經及其包覆膜受損，進而引發嚴重的事故。</p>
+<ul>
+<li><strong>說明：</strong> 所謂的腦震盪，是指頭部受到劇烈晃動，導致大腦出現細微損傷，進而產生意識模糊或步履蹣跚(搖晃)的狀態。關於此部分，全日本劍道連盟(全劍連)已有詳細的解說，請參閱相關資料(※)。不僅是大腦，脊髓也可能因受到過度拉伸而受傷，即一般俗稱的「揮鞭效應」(頸部扭傷)。此外，在受傷經過一段時間後，也可能出現名為「腦脊髓液滲漏」的症狀；這是由於包覆神經的膜(硬脊膜)受損，導致原本流動於脊髓周圍、負責保護神經的液體外流所造成的病態(如圖7)。</li>
+</ul>
+<p><strong>【圖 7：腦脊髓液滲漏】</strong><br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_7.webp"></p>
+<ul>
+<li><strong>注意點：</strong> 當遭受刺擊導致頸部劇烈拉伸或扭轉(如圖8)後，若出現劇烈頸痛、暈眩或噁心感，請立即停止練習並前往醫療機構就醫。此外，在遭受強烈刺擊數日後，若出現「長時間站立時會劇烈頭痛」等症狀，極有可能是腦脊髓液滲漏，建議前往專科醫療機構進行診斷。</li>
+</ul>
+<p><strong>【圖 8：可能引發腦震盪或腦脊髓液滲漏之刺擊】</strong>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_8.webp"></p>
+<h4 id="5-肋骨與鎖骨-可能引發骨折裂傷">5. 肋骨與鎖骨 (可能引發：骨折、裂傷)</h4>
+<ul>
+<li>
+<p><strong>說明：</strong>
+•	當竹刀滑向胴部外側並強力撞擊肋骨或鎖骨時，可能會導致骨裂或包覆骨骼的膜(骨膜)受損。腫脹或骨裂的症狀有時會逐漸惡化，甚至在遭受刺擊數日後才突然開始劇烈疼痛。<br>
+•	雖然大多數的肋骨骨折只要保持安靜休息即可痊癒，但若骨折程度較嚴重，隨著身體活動或呼吸起伏，骨折部位仍有可能逐漸發生位移。</p>
+</li>
+<li>
+<p><strong>注意點：</strong> 在刺擊偏離目標後，或是接下來的數日內，若在吸氣或做出「大動作揮刀」時，胸部同一位置會感到疼痛，就有可能是肋骨骨折或鎖骨骨折。</p>
+</li>
+</ul>
+<h4 id="6-肺部外傷">6. 肺部外傷</h4>
+<ul>
+<li>**說明：**肺部是由肋骨、胸大肌及背肌所嚴密保護的器官，單憑「刺擊」技法本身，並不會導致肺部穿孔或受損。</li>
+</ul>
+<h4 id="7-神經損傷-腋下部位">7. 神經損傷 (腋下部位)</h4>
+<ul>
+<li><strong>說明：</strong> 在腋下部位，有通往手臂的神經束經過(如圖2)。若刺擊深入腋下深處，便有可能傷及這些神經。此外，腋下也有粗大的血管運行。即便刺擊沒有直接觸碰到神經，也可能因皮下出血形成血塊(血腫)並壓迫神經，導致整隻手臂出現麻木或疼痛感。</li>
+<li><strong>注意點：</strong> 在刺擊偏向腋下後，或是在接下來的數日內，若出現手臂麻木(症狀通常侷限於手臂或手部的外側或內側等特定區域)，則有可能是神經受損。如果麻木感逐漸惡化，或是出現手指或手臂難以活動、握力喪失等症狀時，請務必立即前往醫療機構就醫。。</li>
+</ul>
+<h4 id="8-其他風險">8. 其他風險</h4>
+<ul>
+<li>當刺擊偏離目標，且沿著頸部、手臂或腋下表面摩擦而過時，可能會導致皮膚擦傷。若竹刀保養不當，甚至可能導致竹劍纖維的裂渣刺入皮膚。由於受傷部位多處於自己無法看見的死角，若傷口持續疼痛，請務必請他人協助檢查，確認是否有傷口化膿或裂渣殘留。竹刀保養不當，裂渣可能刺入皮膚造成化膿。請務必落實檢刃，並請他人協助檢查無法自視的受傷部位。</li>
+</ul>
+<hr>
+<p>※ 關於「腦震盪」的詳細資訊，請參考此處。</p>
+<p><strong>譯後註記：</strong>
+劍道練習中的刺擊 (Tsuki) 是一項高階且具風險的技術。希望透過此文，能讓同好更深刻理解「安全防護」與「精準控刀」的重要性。</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
