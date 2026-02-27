@@ -32,7 +32,7 @@ series: ["進步的秘訣"]
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 </style>
 
-合氣道被開祖稱為「十字道」，可說「十字」便是其生命核心。能夠完成技法的圓形運行，是由十字所產生的。這就是圓「{{< aiki c >}}」加上十字「十」所形成的「 <img src="/images/t-0151_1.jpg" style="height: 1.5em; vertical-align: middle; display: inline; margin: 0 2px;"> 」。
+合氣道被開祖稱為「十字道」，可說「十字」便是其生命核心。能夠完成技法的圓形運行，是由十字所產生的。這就是圓「{{< aiki c >}}」加上十字「十」所形成的「 <img src="/images/aikido/t-0151_1.jpg" style="height: 1.5em; vertical-align: middle; display: inline; margin: 0 2px;"> 」。
 
 在日常的稽古中，多數人都曾經有過這樣的經驗：當手腕被對方用強大的力量抓住時，自己會瞬間無法動彈。這是因為我們面對力量時，習慣用力量去推或拉，與之正面對抗。若要避免爭力，並且能夠制住那股力量，就必須使用「十字」的技法。
 
@@ -50,7 +50,7 @@ o	由此產生的，是對方反抗的心思消失。<br>
 這些因素，正是十字技法得以生效的原因。
 
 <p align="center">
-  <img src="/images/t-0323-03.jpg" alt="置中圖片" width="400">
+  <img src="/images/aikido/t-0323-03.jpg" alt="置中圖片" width="400">
 </p>
 
 首先，可以先用「片手取呼吸法(單手抓呼吸法」來嘗試看看。你應該會發現，如果不將手做縱橫十字的翻轉，是無法順利完成的。

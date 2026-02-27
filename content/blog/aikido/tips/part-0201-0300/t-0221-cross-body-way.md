@@ -31,7 +31,7 @@ series: ["進步的秘訣"]
   .dark .toc { background: #333; }
 </style>
 
-<img src="/images/t-0221_3.jpg " alt="右側圖片" style="float:right; margin:10px; width:200px;">
+<img src="/images/aikido/t-0221_3.jpg " alt="右側圖片" style="float:right; margin:10px; width:200px;">
 
 延續前一回的內容，本篇將介紹在法國土魯斯講習會中，以「十字身法」為主題的稽古安排。
 

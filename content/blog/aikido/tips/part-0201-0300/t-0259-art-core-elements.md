@@ -40,7 +40,7 @@ series: ["進步的秘訣"]
 能成為技法來看，開祖曾說「技法生成的各個基本組成要素」這種技法要素一定要應用在技法裏面。
   
 例如「單手抓四方摔」有<br>
-<img src="/images/t-0259_3.jpg" alt="公切線" style="float:right; margin:10px; width:130px;">
+<img src="/images/aikido/t-0259_3.jpg" alt="公切線" style="float:right; margin:10px; width:130px;">
 
 ○要透過手的抓取與對方結成一體。(拉力)<br>
 ○被抓的手由垂直轉為橫向，(十字)<br>

@@ -43,10 +43,10 @@ series: ["進步的秘訣"]
 在日本，也有一位能潛入百公尺以上的職業自由潛水員，篠宮龍三先生。他的紀錄是在2010年創下的115公尺。
 
 <p align="center">
-  <img src="/images/209_3a.jpg " alt="置中圖片" width="300">
+  <img src="/images/aikido/209_3a.jpg " alt="置中圖片" width="300">
 </p>
 
-<img src="/images/209_3b.jpg " alt="右側圖片" style="float:right; margin:10px; width:100px;">
+<img src="/images/aikido/209_3b.jpg " alt="右側圖片" style="float:right; margin:10px; width:100px;">
 篠宮潛水員表示，潛入深海時，首先必須讓自己進入「無心」的狀態。不能心懷勝負之念，也不能執著於刷新紀錄，而是全力以赴之後，靜靜等待「那個境界」自然到來。換言之，這是一場與自我極限的對話與搏鬥。這種態度，正與合氣道的稽古精神如出一轍。
 
 

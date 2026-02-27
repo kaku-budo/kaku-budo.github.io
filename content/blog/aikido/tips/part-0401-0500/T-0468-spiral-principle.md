@@ -37,7 +37,7 @@ series: ["進步的秘訣"]
 宇宙是以螺旋構成的，這點從馬哲蘭星雲等天體(見照片)便可得到佐證。
 
 <div style="float: right; width: 280px; margin: 0 0 15px 20px; text-align: center;">
-  <img src="/images/T-0468_03.jpg" style="width: 100%; border-radius: 8px;">
+  <img src="/images/aikido/T-0468_03.jpg" style="width: 100%; border-radius: 8px;">
   <p style="font-size: 0.8em; color: #666;">馬哲蘭星雲</p>
 </div>
 

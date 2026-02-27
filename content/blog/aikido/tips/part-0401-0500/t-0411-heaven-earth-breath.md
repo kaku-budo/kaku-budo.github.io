@@ -45,8 +45,8 @@ series: ["進步的秘訣"]
 •	承受地之呼吸與天之呼吸，以此「氣息」創造陰陽，並使陰陽相互結合，萬物由此而生。人亦藉由陰陽的結合，創造出技法。<br>
 •	由天之息與地之息所成之陰陽，經由陰陽的交流，而生出萬物(亦即技)。<br>
 
-＊理之呼吸：呼出的氣是〈<img src="/images/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉。吸入的氣是〈<img src="/images/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉。
-將〈<img src="/images/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉納入腹中，並以自身的呼吸，將〈<img src="/images/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉安置於〈<img src="/images/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉之上。
+＊理之呼吸：呼出的氣是〈<img src="/images/aikido/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉。吸入的氣是〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉。
+將〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉納入腹中，並以自身的呼吸，將〈<img src="/images/aikido/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉安置於〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉之上。
 
 總而言之，若要生出「技」，就必須運用「天之氣」所帶來的「天地之呼吸」，並使其化為陰陽的運行。
 
@@ -58,9 +58,9 @@ series: ["進步的秘訣"]
 
 2.	接著，從腹中吐氣，將氣息下沉至地，同時伸出手讓對方抓住。(**這是「以天之氣使天之呼吸與地之呼吸相合」的狀態**)
 
-到此為止，皆運用縱向的腹式呼吸，因此氣息要〈<img src="/images/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉地圓融運用。
+到此為止，皆運用縱向的腹式呼吸，因此氣息要〈<img src="/images/aikido/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉地圓融運用。
 
-3.	當對方抓住手之後，一邊以橫向的胸式呼吸吸氣，一邊施技。**(此時氣息由縱向的腹式呼吸，轉為橫向的胸式呼吸，形成「十字之息」。氣息要以〈<img src="/images/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉運用。當然，手、腳與身體也必須以十字的陰陽方式運用。**）
+3.	當對方抓住手之後，一邊以橫向的胸式呼吸吸氣，一邊施技。**(此時氣息由縱向的腹式呼吸，轉為橫向的胸式呼吸，形成「十字之息」。氣息要以〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉運用。當然，手、腳與身體也必須以十字的陰陽方式運用。**）
 
 4.	當施技之手(手臂)接觸到對方的頸部或胸口時，接著再以縱向的腹式呼吸，不移動接觸點，配合重心的移動，讓身體與大地相結，將氣息落於地。如此一來，對方便會順勢自行倒地。(**因為與地之呼吸相合**)
 

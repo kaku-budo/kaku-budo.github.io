@@ -55,7 +55,7 @@ series: ["進步的秘訣"]
 十字的特徵大致可分為三點：<br>
 首先，十字象徵對應、對立的兩面，如精神與物質的關係。
 
-其次，縱與橫的交錯能動而成圓，正如開祖所言：「圓中有十的<img src="/images/t-0151_1.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">」。
+其次，縱與橫的交錯能動而成圓，正如開祖所言：「圓中有十的<img src="/images/aikido/t-0151_1.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">」。
 
 第三，動作須由縱開始，縱為主、橫為從，亦即「**縱主橫從**」之理。
 

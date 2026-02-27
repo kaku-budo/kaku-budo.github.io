@@ -47,7 +47,7 @@ series: ["思想と技"]
 要使出「潮的干滿」的呼吸，手、足、軀幹等身體必須以陰陽來使用，尤其是腳。比如，**重心在左足時吸氣，然後將重心移到右足的同時，再吸入第二段的氣**。也就是說，隨著重心的移動而進行**二段式吸氣**。
 
 先生認為，合氣道的所有基本形與呼吸法，其實都是以「潮的干滿」為基礎的，只要使用它，就會順利許多。以先生自身的經驗來說，因為「潮的干滿」而劇烈改變的技，首先是四方投，其次是入身投(表技)。**以兩次吸引對方的方式，能更緊密地黏住、合一，因此效果截然不同**。
-運用「潮的干滿」之後，接下來的縱向腹式呼吸也能更順暢地吐氣，同時不會與當受け的對手發生碰撞，對手甚至會自然地、心服口服地倒下。心想，這也應是開祖所說：「(以潮的干滿)將其納入<img src="/images/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">腹中，再以自己的呼吸<img src="/images/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">把其收於<img src="/images/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">上的意涵。」
+運用「潮的干滿」之後，接下來的縱向腹式呼吸也能更順暢地吐氣，同時不會與當受け的對手發生碰撞，對手甚至會自然地、心服口服地倒下。心想，這也應是開祖所說：「(以潮的干滿)將其納入<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">腹中，再以自己的呼吸<img src="/images/aikido/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">把其收於<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">上的意涵。」
 
 然而，開祖也說：「潮的滿干是天地呼吸交流所生之息。地因天之呼吸而呼吸。」因此，要能使出潮的干滿(地之呼吸)，就必須研究、掌握能產生地之呼吸的天之呼吸。這部分，將作為下一回的主題。
 
