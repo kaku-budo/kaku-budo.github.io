@@ -6,7 +6,7 @@ TocOpen: true  # 預設直接展開目錄，方便閱讀
 tags: ["劍道安全", "醫學常識", "刺擊技術", "announcements"]
 draft: false
 categories: ["劍道"]
-series: "announcement"
+series: "announcements"
 ---
 
 <style>
@@ -32,12 +32,8 @@ series: "announcement"
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 </style>
 
-
-<p align="center">
-  <img src="/images/kendo/k-01-0001-20260224_AJKF-notice.webp" alt="置中圖片" width="200">
-</p>
-
-# 不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯
+![置中圖片](/images/kendo/k-01-0001-20260224_AJKF-notice.webp)
+不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯
 
 
 ### I. 刺擊技法的特性
