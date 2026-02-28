@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>形態 on icqkaku 的武道筆記</title>
+    <title>形態 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E5%BD%A2%E6%85%8B/</link>
-    <description>Recent content in 形態 on icqkaku 的武道筆記</description>
+    <description>Recent content in 形態 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,41 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是透過彼此施展技法來鍛鍊、精進，但所施展的技，往往不會如受け所想像般順利奏效。如果雙方力量差距相當大，被施技的一方自然會倒下；然而若雙方程度相當，只要對方稍微用點力、或心裡不想被倒下，就不會那麼輕易倒下。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是透過彼此施展技法來鍛鍊、精進，但所施展的技，往往不會如受け所想像般順利奏效。如果雙方力量差距相當大，被施技的一方自然會倒下；然而若雙方程度相當，只要對方稍微用點力、或心裡不想被倒下，就不會那麼輕易倒下。</p>
-<p>把<strong>受け會倒下</strong>當成前提，是屬於初學者的階段。撇開初學者不說，若是<strong>有段者</strong>，就必須以<strong>受け不會輕易倒下</strong>作為前提來進行稽古。也就是說，要思考：面對不倒的受け，要如何讓他倒？然而，<strong>能思考與能做的事情，其實非常多</strong>。</p>
-<p>其中一項，就是讓<strong>對手進入自己的形、自己的動作之中</strong>。合氣道的技，是圓的運行所結合而成；而受け攻擊時，也同樣以圓的運行來接近，因此雙方會各自形成一個圓的運行基點。更何況，受け是主動攻擊的一方，於是，取り(施技者)與受け(攻擊者)往往就會產生衝突、碰撞。</p>
-<p>若要避免碰撞，就必須把受け納入自己的形之中。也就是，把對手吸納進自己的圓之運行軌跡裡。</p>
-<p>為了做到這一點，自己的形必須扎實、穩固。<strong>扎實</strong>指的是合乎理法，也就是與宇宙的條理、法則一致，沒有違逆。換句話說，就是要符合陰陽、十字、天之氣、天地之呼吸。</p>
-<p>一般所稱的形，多半是指在相對練習中進行的一教、入身投等技法。任何人都會在相對中練習。除了剛入門時，大多數人都以為自己能把形做得沒有問題。然而，在形稽古達到一定程度後，最好檢視一下：自己是否真的掌握了那個形。</p>
-<p>判斷自己是否掌握形的其中一個方法是：那個<strong>形能不能在沒有對手的情況下，以一個人的方式完成</strong>。不論是一教、二教或入身投，都嘗試單獨做做看。雙人相對時能做出形相對容易，但<strong>單獨做時，多半會非常困難</strong>。</p>
-<p>但仍建議試著讓自己<strong>一個人也能把形做好</strong>。這裡所說的做好，是指自己做起來能心服口服，動作不違理法，不多不少，自然、流暢且具美感。</p>
-<p>回想過去，有川定輝師範曾以單獨的方式示範一教與四方投。因為那樣的示範，比起面對實際對手時的技，更能清楚看出形應有的姿態、動作軌跡，以及重要的關鍵點。</p>
-<p>即便能在雙人中完成形，一個人做依然可能很難。然而，如果連一個人都無法做出合於理法的形，那顯然仍未真正掌握。</p>
-<p><strong>只有在能一人清楚做出形之後，才能真正把對手納入自己的形中，將對方導入自己的圓之運行，使彼此不再碰撞，並能圓滿地化解攻擊</strong>。</p>
-<p><a href="https://sasaki-aiki.com/article3_446.php">https://sasaki-aiki.com/article3_446.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

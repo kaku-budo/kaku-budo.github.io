@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>普遍檢驗 on icqkaku 的武道筆記</title>
+    <title>普遍檢驗 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%99%AE%E9%81%8D%E6%AA%A2%E9%A9%97/</link>
-    <description>Recent content in 普遍檢驗 on icqkaku 的武道筆記</description>
+    <description>Recent content in 普遍檢驗 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,42 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;延續上次「將自己嵌入形之中」的主題，這次我們進一步探討與其相關的實踐。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>延續上次「將自己嵌入形之中」的主題，這次我們進一步探討與其相關的實踐。</p>
-<p>在合氣道中，若想圓滿運用技法，僅止於「記住招式輪廓」是遠遠不夠的。那種程度的小聰明(小手先)無法讓你真正掌握技法。你必須將自己徹底嵌入技法應有的「理法之形」中，使自身與技法合而為一。</p>
-<p>然而，要將自己嵌入形中並非易事。即便修煉多年，也難以達到完美的契合。正因如此，我們才需要跨越漫長的歲月，反覆不斷地磨練同一支技法，只為了將自己精準地嵌入其中。</p>
-<p>當修煉到一定程度，或許會感覺自己終於進入了那個「形」。這裡所謂的「形」，指的是由多個「技之要因」所構成的動態軌跡。但問題在於：如何判定自己是否真的「嵌入」了？這不像體育比賽有裁判，也不會有人跳出來對你說「你成功嵌入了」。你只能自我判斷。然而，若單憑主觀認定，往往缺乏客觀性，連自己都難以全然信服。因此，我們需要一套客觀的判斷標準：</p>
-<p><strong>標準一：技法間的「普遍性」</strong><br>
-你在某個技法中發現並內化的「技之要因」，是否在其他技法中也能發揮作用？若答案是肯定的，則代表該要因是正確的。例如，你在「單手抓四方摔」中體悟到了「十字」的轉手要領，若這個「十字手」在單手抓呼吸法、正面打一教、橫面打二教中都能同樣奏效，那便證明你已真正進入了「十字」這個法則之形中。</p>
-<p><strong>標準二：負荷增加後的「抗壓性」</strong><br>
-以「單手抓呼吸法」為例，若你覺得自己已經掌握了，那就換成「諸手抓(雙手抓我一隻手)」來試試。若你能以同樣的身法化解諸手抓的壓力，說明你的動作是合乎自然、毫不勉強且具備理法支撐的。</p>
-<p>若想進一步確認，可以挑戰「二人掛諸手抓」，由兩個人、共四隻手死死壓住你的一隻手臂。在這種情況下，單憑蠻力絕無可能動彈，唯有依賴「形」所蘊含的技之要素才能突圍。若能在二人掛中運轉自如，那便足以證明你的單手抓呼吸法已真正嵌入了形。</p>
-<p><strong>標準三：攻擊形式的「多樣性」</strong><br>
-這與標準二類似。檢驗自己的「四方摔」是否進入了形，方法就是更換對方的攻擊方式(取り)。若能以單手抓的體感，同樣完成兩手抓、諸手抓、後抓、正面打等攻擊下的四方摔，便代表你已契合。若僅在擅長的攻擊法下才能施技，面對其他抓法便捉襟見肘，則說明你與形的磨合還不夠深入。</p>
-<p>我們應致力於將自己嵌入由「技之要因」構成的法度之中，並透過嚴謹的客觀判斷，由廣度與深度兩個面向不斷研磨，最終達到與宇宙運行合而為一的境界。</p>
-<p><a href="http://sasaki-aiki.com/article3_243.php">http://sasaki-aiki.com/article3_243.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

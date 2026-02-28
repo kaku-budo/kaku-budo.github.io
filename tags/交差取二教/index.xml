@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>交差取二教 on icqkaku 的武道筆記</title>
+    <title>交差取二教 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E4%BA%A4%E5%B7%AE%E5%8F%96%E4%BA%8C%E6%95%99/</link>
-    <description>Recent content in 交差取二教 on icqkaku 的武道筆記</description>
+    <description>Recent content in 交差取二教 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,46 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;這次要探討的是：宇宙以螺旋方式運行的法則，應該透過哪些基本技、以及如何練習，才能真正學會。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>這次要探討的是：宇宙以螺旋方式運行的法則，應該透過哪些基本技、以及如何練習，才能真正學會。</p>
-<p>宇宙是以螺旋構成的，這點從馬哲蘭星雲等天體(見照片)便可得到佐證。</p>
-<div style="float: right; width: 280px; margin: 0 0 15px 20px; text-align: center;">
-  <img src="/images/aikido/T-0468_03.jpg" style="width: 100%; border-radius: 8px;">
-  <p style="font-size: 0.8em; color: #666;">馬哲蘭星雲</p>
-</div>
-<p>開祖曾說：「獲得御造化之德，<strong>呼吸向右螺旋上升，向左螺旋下降</strong>，於是產生水火之結合，並生出摩擦連行作用。水火之結合，構成宇宙萬有一切現象的根源，無量無邊。」</p>
-<p>其意即是：宇宙萬物透過螺旋生出陰陽，並從摩擦連行作用中不斷創化、永無止境。</p>
-<p>確實，世上許多事物都是以螺旋方式構成，並以螺旋方式運作。藤蔓纏繞樹木時是螺旋上升的，被纏繞的植物本身，其枝葉的排列也呈螺旋。人的身體也是以螺旋構成與運作的：頭上的髮旋、骨頭上附著的深層肌肉，都說明著這點。</p>
-<p>此外，人的身體是以陰陽與十字構造而成，可自由彎折，使用方便。然而在合氣道施技時，必須連手的運作也以螺旋來使用。為了避免折傷，必須使其<strong>鎖定</strong>。若沒有鎖定，就不能成為技，力量也無法傳遞。若只是「ギンギンギラギラ」那樣把手亂轉，不但會折到手，力量也無法產生。</p>
-<p>既然同樣是轉動，「ギンギンギラギラ(Gin-Gin Gira-Gira)」不行，那麼問題就來了：為何不行？為何一定要螺旋？ <strong>「ギンギンギラギラ」是圓的動作，是平面的二次元曲線，一圈之後會回到同一位置。這類動作是等速、同心圓，力量只會減退，不會增強</strong>。</p>
-<p>相反地，螺旋是立體的三次元曲線，即使轉一圈，上下、左右、縱橫軸的位置都會不同，因此形狀、速度、力量都會增強，能產生更大的力。開祖所說「<strong>進入渦旋之中，便會湧現無限力量</strong>」正是此意。</p>
-<p>那麼，要如何透過基本技來掌握這個法則？果然還是以「交差取(註1)二教」最為適合。只要手與腳以陰陽、十字方式運用，身體重量隨著呼吸配合左、右、左地移動，就自然形成螺旋的動作。當技有效時，就會產生 <strong>摩擦連行作用</strong>(註2)。</p>
-<p>要能夠使這種摩擦連行作用產生，是極為重要的。開祖說過：「唯有能產生此摩擦連行作用，方能掌握合氣的真髓。」而這摩擦連行作用源於螺旋，而螺旋最適合透過「交差取二教」來學習，先生是這樣認為的。</p>
-<p>註1：交差取り：攻擊者是用右手去抓握防守者的左手腕。</p>
-<p>註2：摩擦連行作用(まさつれんこうさよう)：摩擦曳引效應。這是一種描述<strong>流體</strong> (氣體或液體)與<strong>固體</strong>表面之間，由於相對運動和黏性(Viscosity)的影響，流體被固體表面「拖著走」的現象。</p>
-<p><a href="https://sasaki-aiki.com/article3_468.php">https://sasaki-aiki.com/article3_468.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

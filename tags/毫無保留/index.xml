@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>毫無保留 on icqkaku 的武道筆記</title>
+    <title>毫無保留 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%AF%AB%E7%84%A1%E4%BF%9D%E7%95%99/</link>
-    <description>Recent content in 毫無保留 on icqkaku 的武道筆記</description>
+    <description>Recent content in 毫無保留 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 15 Feb 2026 22:45:46 +0800</lastBuildDate>
@@ -34,37 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道是一種透過相對稽古來鍛鍊技術、精進心志的修行方式，因此稽古的進行方式，會隨著對手的不同而略有變化。面對尚未能穩當受身的對手，不會用盡全力去投擲；而在與女性或高齡者稽古時，最重要的是避免讓對方受傷。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道是一種透過相對稽古來鍛鍊技術、精進心志的修行方式，因此稽古的進行方式，會隨著對手的不同而略有變化。面對尚未能穩當受身的對手，不會用盡全力去投擲；而在與女性或高齡者稽古時，最重要的是避免讓對方受傷。</p>
-<p>然而，即使在顧及對方安全、希望對方也能有所精進的同時，若自己沒有在稽古中同樣提升，那麼稽古就失去了意義。</p>
-<p>稽古的對手，總有容易應對的，也有困難的。隨著稽古年數增長，有段者通常覺得容易相合的，是比自己稍晚入門的後輩或同輩；而難以應對的，往往是前輩。</p>
-<p>但真正難對付的對手，其實是那些連受身都還不穩的初心者，或是容易疲憊的高齡者。若能與這樣的對手連續一小時不間斷地稽古，已經可說是相當高的水準。更難得的是，若在其中仍能獲得自我鍛鍊的機會，發現新的課題與解法，那就更為可貴。</p>
-<p><strong>稽古時，無論對手是誰、地點何處、時間何時，每一瞬間都應該全力展現出自己最好的狀態。即使對方是初心者，也不應鬆懈或保留，更不應把技藏起來不用，而是要毫不吝惜地不斷展現出來</strong>。</p>
-<p>在稽古中，應當時刻把自己最好的東西拿出來。因為唯有在全力釋放之後，新的養分、新的靈感、新的技法才會流入心中。這正是進步與上達的根本道理。再好的東西，若被藏起來不用，終究會腐壞、失去光彩。唯有不斷地釋放、不斷地更新，才能維持活力。</p>
-<p>無論是受到世人推崇的藝術家、科學家、研究者、表演者或運動員，無不在每一瞬間努力展現出自己當下的最高狀態。若有所保留，就無法創造出優秀的成果，也得不到世人的讚賞。</p>
-<p>當人能夠全力發揮出當下的最高境界時，下一個更高的境界自然會隨之出現。人們也正期待著那「下一次的最高」。重複舊作、複製過去的成功，是無法讓人持續感動的。最高之後，再追求下一個最高。這，正是宇宙生成與進化的法則。</p>
-<p>在合氣道的稽古中，也應如此，不要把珍貴的技法藏起來，每一次稽古都要全力以赴，毫無保留地展現出自己當下最好的技。</p>
-<p><a href="https://sasaki-aiki.com/article3_362.php">https://sasaki-aiki.com/article3_362.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

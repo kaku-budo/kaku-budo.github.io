@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>設定目標 on icqkaku 的武道筆記</title>
+    <title>設定目標 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E8%A8%AD%E5%AE%9A%E7%9B%AE%E6%A8%99/</link>
-    <description>Recent content in 設定目標 on icqkaku 的武道筆記</description>
+    <description>Recent content in 設定目標 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 21 Feb 2026 23:52:15 +0800</lastBuildDate>
@@ -34,40 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道是經過磨練的過程達到精進的。精進指的是要離目標更近一點。因此精進是要有目標的。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道是經過磨練的過程達到精進的。精進指的是要離目標更近一點。因此精進是要有目標的。</p>
-<p>進步的目標應不是只有一個。不同的人，因為不同的時間點有著不同程度，其目標也會有所不同。也就是說沒有目標的練習，是不會有所進步的，就算練習也沒什麼意義。</p>
-<p>人不在有意識下，或其潛意識下，都會想要進步，最少也會抱持著這樣的想法。在白帶時期，也會想要盡心盡力的做得好一點，多懂一點。有時會做錯了，但最少知道錯在那裏，較會正直的面對問題。簡言之，白帶的初學者其練習目標可以說是，達到和周遭一同練習的人有一樣的動作水準。程度上有差異，所以較容易看得出來是否有進步。</p>
-<p>但，當會了一點「技法外形」動作時，就會比較難以再進步。到目前為止的目標裏較難以找得到可相對比了。例如，就算模仿了較會的人的動作後，如果動作沒真正做到位的話，因為模仿沒到位，就像沒有學會一樣。其結果是造成老師教的也沒學成。</p>
-<p>相對練習中，先確立自己的目標，與自己奮戰的練習絕對是正確的練習。如果沒有將重心放在此，目標是不會出現的。</p>
-<p>把自己當成練習的主體，這是練習進步的本質，因此必先設定目標再朝著目標攻略努力。</p>
-<p>與宇宙一體化相比，初始目標就顯得有一點小了。最初的目標就放在練習時，所出現的問題吧。解決了問題，就算是目標達成。例如：四方摔或二教做不出來，對方被抓到的手，可以輕易脫離了、力量放不手指尖端、對手可以逃得開等等。這些都是問題，同時也是練習的目標。因此，解決這些阻擋進步的問題時，才有可能會進步。</p>
-<p>進步的路上，有著各種不同的阻礙。進步的第一步，在於對問題的自覺。要是無視問題或是逃避問題，確定是不會進步。先發現問題，發現問題不難。從自己做不到的地方，先冷靜思考與仔細的分析就行了。但，對於問題先要多注意一下。起初可能可以容易的解決，但之後就會愈來愈難解決。其解決的方法誰都無法教給我們，最終還是要由自己來解決。</p>
-<p>練習是為了解決問題。因為練習時，是不會沒有任何問題出現的，要能解決練習的問題，才能有所進步。</p>
-<p>合氣道的練習有相對練習，先練習指導老師所示範的技法(外形動作)，一種技法的問題，基本上也是其他技法的共同的問題，在這裏解決了問題，在別的地方同樣也解決了。當然，技法有容易也有較難的。先用容易的技法先解決問題之後．再將難以解決的技法放在自主練習時，試著解決。</p>
-<p>練習是為著解決問題，為了解決問題，先有自己的假設，在練習時，實驗出其正確與否。就像科學家的實驗一樣，先證明自己的假設是否成立。開祖曾說：「合氣道是科學的」「用科學學合氣」，說不定指的就是這些事情。請相信，發現問題，設立解決的假設，練習確定這些假設成立與否，這些都是與進步與否相聯繫的方法。</p>
-<p> </p>
-<p><a href="http://sasaki-aiki.com/article3_194.php">http://sasaki-aiki.com/article3_194.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

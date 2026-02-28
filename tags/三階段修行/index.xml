@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>三階段修行 on icqkaku 的武道筆記</title>
+    <title>三階段修行 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E4%B8%89%E9%9A%8E%E6%AE%B5%E4%BF%AE%E8%A1%8C/</link>
-    <description>Recent content in 三階段修行 on icqkaku 的武道筆記</description>
+    <description>Recent content in 三階段修行 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,52 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是一門在不斷錘鍊技法中精進的武道。一般來說，技的錘鍊是透過相對練習，彼此施技、彼此被摔，在攻防互動中磨練技法。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是一門在不斷錘鍊技法中精進的武道。一般來說，技的錘鍊是透過相對練習，彼此施技、彼此被摔，在攻防互動中磨練技法。</p>
-<p>當技真正有效時，受け的對手自然會倒下。如果自己感到滿意，對方也心服口服，那就算是施展了好技。然而，能讓自己也讓對方都納得的技，其實非常不容易。尤其對初學者來說，自己覺得有做出技，但受け的對手往往不太能認同。</p>
-<p>要能施展出雙方都心服的技，先生認為修行的各階段有其應當完成的要務。</p>
-<p>① 剛入門的這一段時間，必須先鍛鍊身體、累積力量，因此施技時只能用盡全力，依靠力量與衝勁，讓對方不得不同意你的技。</p>
-<p>在這個階段，仍然是以自我為中心，沒有餘裕去顧慮對方，還無法做到為對方著想的稽古。所以最重要的目標是：<strong>至少不要讓對方受傷</strong>。</p>
-<p>這時期的稽古，本質上就是以自我為中心的力量與體力訓練。</p>
-<p>然而，即使在這階段，也必須開始為下一階段做準備。例如：鍛鍊不會被折斷的手(不僵硬、不死力)、讓腰腹與手部連動，使力量能正確傳導、鍛鍊關節，使身體能自由運作。若怠於鍛鍊，或鍛鍊不足，便無法順利進入下一階段，即使進入，也會吃足苦頭。</p>
-<p>②在第一階段中，雖然依靠力量與體力施技，但這樣的技很容易在對方稍微加力時就失效，使自己無法動作、技法用不出來。因此，在累積了身體力量與基本素養後，接下來必須<strong>配合呼吸</strong>來運用身體與力量。</p>
-<p>這裡所說的「息」，是 <strong>イクムスビ的呼吸法</strong>：「イ」(I)吐氣、「ク」(ku)吸氣、「ム」(mu)吐氣</p>
-<p>基本上，<strong>吐氣是縱向的腹式呼吸，吸氣是橫向的胸式呼吸</strong>。運用這種十字式的呼吸來施技時，就會產生引力，讓對方被吸附過來，與受け自然合為一體。到了這個階段，對方能夠接受並認可你的技。這是以<strong>呼吸為主體</strong>的技法階段。</p>
-<p>從前一階段的<strong>以自己為中心，進展到感受對方、看透對方、與對方一體</strong>的稽古。這部分先前也多次提過。而修行還會再往下一階段推進。</p>
-<p>③進入下一階段後，就是心所主導的技。
-即使在第二階段以呼吸施技，效果已不同以往，但仍可能有技不生效的時候。在合氣道中，技是否真正奏效，是看受け是否<strong>自願地、心服地倒下</strong>。</p>
-<p>只要還存有<strong>我要把對方摔倒</strong>的念頭，就仍是未成熟的階段。真正的技，是施技後對方會自己倒下。</p>
-<p>要讓受け心服而倒下，固然需要：對方接點上的力量要夠；自己的身體、呼吸與技法符合原理法則。這些屬於前兩階段的內容。</p>
-<p>然而，要讓受け完全心服，還缺一件事，<strong>心</strong>。心的運用會使技生效，也會讓技失效。例如：若你抱著<strong>我要打倒他、我要壓制他</strong>的心去施技，那技並不會有效，對方不會服氣，甚至可能反抗。因為心與心必然互相反應，對方的心會警覺，並讓身體做出防禦與反擊。</p>
-<p>要以<strong>心引導呼吸與身體</strong>，使技能自然成立，就必須避免以己心干擾對方的心。</p>
-<p>為此，施技時必須具備<strong>愛的心</strong>。例如：把對方視為在<strong>地球、宇宙的家人</strong>，視為和自己一起為宇宙樂園建設而努力的伙伴，帶著感恩的心態去施技。</p>
-<p>開祖稱合氣道為<strong>愛的武道</strong>，大概就是這個意思。若能以這樣的心情施技，技的成熟度會提升許多。</p>
-<p>上述是為面對對方的心理層面，但還有另一種心，可說是合氣道<strong>對宇宙的心</strong>。</p>
-<p>也就是：<strong>讓自己的呼吸與心，與宇宙的呼吸相合，再施技</strong>。不是用手去操作，而是以呼吸與心去引導。這樣一來，就算不用手去提、拉對方，也會因呼吸與心的引導而自然而然升起。特別是在呼吸法、天地投、入身投等技中，這樣的方式更容易展現。</p>
-<p>當能以這樣的心去施技時，多數受け都能心服口服地倒下。</p>
-<p><a href="https://sasaki-aiki.com/article3_454.php">https://sasaki-aiki.com/article3_454.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

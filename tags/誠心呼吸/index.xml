@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>誠心呼吸 on icqkaku 的武道筆記</title>
+    <title>誠心呼吸 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E8%AA%A0%E5%BF%83%E5%91%BC%E5%90%B8/</link>
-    <description>Recent content in 誠心呼吸 on icqkaku 的武道筆記</description>
+    <description>Recent content in 誠心呼吸 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 15 Feb 2026 22:46:28 +0800</lastBuildDate>
@@ -34,85 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;在武道中，禮儀被極為重視。所謂「以禮始、以禮終」，正說明禮的重要性。武道的孩子們自幼便在嚴格的禮儀教育中成長。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>在武道中，禮儀被極為重視。所謂「以禮始、以禮終」，正說明禮的重要性。武道的孩子們自幼便在嚴格的禮儀教育中成長。</p>
-<p>然而，雖然多數人理解禮儀的重要與其存在的價值，卻未必真正明白其內涵。因此，許多修行者的禮儀流於形式，只剩外表的動作。</p>
-<p>禮儀的意義與形式，會隨時代、社會制度、國家與地域而異。本文想從現代武道家的立場，談談何謂「禮儀」。</p>
-<p>根據《大辭林》的定義：「禮儀，是為了維持社會秩序、圓滿與他人交往，而人應當遵守的行為規範。」另外，「禮」亦被定義為「為維持社會秩序與人際關係順暢所應遵守的習俗」，或「蘊含敬意的態度、舉止與行為」。因此，本文將「禮」與「禮儀」視為同等概念。</p>
-<p>我們合氣道人，同樣生活在合氣道與武道的社會中。若要維持這個社群的秩序，並於其中互動交流，就不能忽視「武道社會中的禮儀」。</p>
-<p>禮儀既是「維持社會秩序的作法」，那麼它必然有其所面對的對象。在合氣道的稽古中，可大致分為以下幾類，而其形式與意義則隨對象而變：</p>
-<div style="display: flex; justify-content: flex-start; background: transparent; overflow-x: auto;">
-  <table style="border-collapse: collapse; border: 2.5px solid currentColor; margin: 20px 0; width: auto; table-layout: auto;">
-    <thead>
-      <tr style="background-color: rgba(128, 128, 128, 0.2);">
-        <th style="min-width: 150px; padding: 15px 30px; border: 2px solid currentColor; font-size: 1.25em; font-weight: bold; text-align: center;">禮儀的對象</th>
-        <th style="min-width: 150px; padding: 15px 30px; border: 2px solid currentColor; font-size: 1.25em; font-weight: bold; text-align: center;">形式</th>
-        <th style="min-width: 250px; padding: 15px 30px; border: 2px solid currentColor; font-size: 1.25em; font-weight: bold; text-align: center;">禮儀的意義</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">神</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">拜禮、禮拜</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">從俗界(凡間)進入神界的儀式，與神明、先賢融為一體</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">師範</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">敬禮</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">表達對神意傳承者的敬意，祈求指導</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">前輩、上位者</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">敬禮</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">請求教誨，借其胸懷磨鍊自己</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">同輩</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">簡禮、略禮</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">彼此勉勵，共同精進</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">後輩</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">回禮、答禮、略禮</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">鼓勵、嘉許「加油」之意</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap; font-weight: bold;">陌生者</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left; white-space: nowrap;">目禮</td>
-        <td style="padding: 12px 20px; border: 1.5px solid currentColor; text-align: left;">表示無敵意、不為敵</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<p>在禮儀中，最重要的是「誠心」。若只是低頭敷衍，或口中喊得鏗鏘卻無真心，不僅令人不悅，甚至可能引來危險。</p>
-<p>禮儀應當「莊嚴而美」。要達此境界，必須以正確姿勢、自然呼吸、無多餘動作來進行。當對方感受到你真摯而美的禮意，敵意自然不起，這正是武道的本源精神。</p>
-<p>曾任本部道場師範的有川定輝師範說過：「禮儀，是不造敵的手段。」
-他總是以誠懇的態度回應每一位初學者的敬禮，這句話讓人明白他何以如此重視禮儀——這不僅是修養，更是武道家不露破綻、常存警覺的體現。</p>
-<p>禮儀若只停留在形式，就失去了意義。若不能正確行禮，便難以使出穩健的技。典型的例子是「半座半立的四方投」——若在被抓手時能端正行禮，就能與對手結合、順利施技；但缺乏正確禮儀者，往往做不到。若只是像在膜拜異教神明般地比畫，便無法與對手「結合」。</p>
-<p>禮儀端正者，呼吸自然通順，技法亦能圓活發揮；反之，禮儀不當者，往往呼吸不協，技法也無法運用。</p>
-<p>行禮時，應在「吸氣」的同時彎腰低頭，停下時吐氣，起身時再吸氣。若不懂這種呼吸法，技法自然也難以純熟。</p>
-<p>作為武道家，禮儀極為重要。唯有以正確的呼吸，做出莊重而美的敬禮，才能真正展現武道之心。因此，稽古「禮」本身，也是修行中不可或缺的一環。</p>
-<p><a href="https://sasaki-aiki.com/article3_330.php">https://sasaki-aiki.com/article3_330.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

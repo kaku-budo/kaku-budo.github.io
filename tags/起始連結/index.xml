@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>起始連結 on icqkaku 的武道筆記</title>
+    <title>起始連結 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E8%B5%B7%E5%A7%8B%E9%80%A3%E7%B5%90/</link>
-    <description>Recent content in 起始連結 on icqkaku 的武道筆記</description>
+    <description>Recent content in 起始連結 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,38 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;或許是因為現代生活節奏日益繁忙，人們往往只看重結果，對過程毫無興趣，甚至直接無視。雖然對他人的過程不感興趣尚可理解，但若這種心態影響到自身，問題就大了。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>或許是因為現代生活節奏日益繁忙，人們往往只看重結果，對過程毫無興趣，甚至直接無視。雖然對他人的過程不感興趣尚可理解，但若這種心態影響到自身，問題就大了。</p>
-<p>在磨練技法的合氣道稽古中，若認為只要把對方摔倒就好，將「放倒對手」視為目的，就會忽略倒下前的過程。如此一來，便會墮入依靠臂力或絆腿等投機取巧的「外道」之中。</p>
-<p>若過程正確，對手自然會隨之倒下。因此，與其拚命想著摔人，不如在稽古中珍惜並重視每一個過程。</p>
-<p>在重視過程的同時，先生認為「起始點」尤為重要。那便是與對手接觸的瞬間，當對方打過來或抓過來，觸碰到我方身體的那一刻。</p>
-<p>稽古的劇本設定是對方試圖打敗我方，因此不被對方擊中固然重要，但既然是武道技法的修煉，理想狀態不應是長久的爭鬥，而是<strong>在接觸的瞬間就讓對手感到「輸得心服口服」</strong>。是以，若在接觸時被對手的手壓制住、或是彈開對手的手、甚至讓對手逃脫，都無法讓對方折服，這便是不理想的狀態。</p>
-<p>為了在接觸瞬間就讓對方感到滿足與折服，必須在接點處與對手的手「連結(結ぶ)」。簡言之，就是讓雙方吸附在一起。一旦吸附，對手就成了我方身體的一部分，兩者合為一體，對方自然會隨著我的意念律動。反之，若未能在起始處吸附，對方就能自由行動，進而發動二次攻擊。例如在「後兩手抓」中，若雙手未能與對方連結而分離，瞬間就會被鎖喉或向後拽倒。</p>
-<p>不僅是後方兩手抓，無論是讓對方抓手，或是應對正面打、橫面打的攻擊，<strong>若在觸碰瞬間未能連結，對方就依然保有自由活動的生命力，技法便難以施展</strong>。在對方仍能自由行動時強行摔人，便無法運用技法，只能求助於臂力。即便如此放倒了對手，也不能稱之為合氣道，因為合氣道的技法本質並非「打倒對手」，而是讓對手「自發性地倒下」。</p>
-<p>德語中有一句諺語：「結局好，一切都好(Ende Gut, Alles Gut)」。這象徵著西方文明與物質文明的傾向，而現今包括日本在內的全世界似乎都趨向於此。合氣道則恰恰相反，講求的是「起始若錯，滿盤皆輸」。我們必須在稽古中時刻提醒自己：<strong>重視起始</strong>。</p>
-<p><a href="http://sasaki-aiki.com/article3_215.php">http://sasaki-aiki.com/article3_215.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

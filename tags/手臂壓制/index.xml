@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>手臂壓制 on icqkaku 的武道筆記</title>
+    <title>手臂壓制 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%89%8B%E8%87%82%E5%A3%93%E5%88%B6/</link>
-    <description>Recent content in 手臂壓制 on icqkaku 的武道筆記</description>
+    <description>Recent content in 手臂壓制 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,44 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;進入合氣道之門後，最先學習的想必就是「一教」。它是合氣道技法中最容易記憶、也最容易上手的動作。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>進入合氣道之門後，最先學習的想必就是「一教」。它是合氣道技法中最容易記憶、也最容易上手的動作。</p>
-<p>一教對於孩童而言也很安全且易於操作。相較之下，入身摔或四方摔等基本技，若由孩童或初學者施展，往往顯得力不從心且難度較高；看著孩子們練習這兩招，總不免擔心受傷，但看著他們練習一教則能感到安心。</p>
-<p>一教是「一教至五教」基本技中的第一號技法。但我認為，這個「一」字背後蘊含著極為重要的意義：
-首先，「一」代表了<strong>入門之技</strong>，即修行者最初接觸的招式。</p>
-<p>其次，一教也被稱為「<strong>手臂壓制</strong>(腕抑え)」。這意味著它是制服對手最基礎的手段，壓制手臂。不同於二教或三教是針對手腕進行鎖定，一教是直接透過壓制對手的手臂來達成控制。即便是在過去武士的時代，下意識的首要行動恐怕也是先制住對手的手臂。此外，透過一教的稽古，能比其他技法更有效地鍛鍊出強健的手臂、使腹部與手臂連結，並讓指尖的力量更為紮實，就此意義而言，它可謂是「<strong>第一(Best &amp; Basic)</strong>」的練習。</p>
-<p>第三，<strong>若無法純熟掌握一教，便無法真正施展二教、三教或小手摔等技法</strong>。 精確地說，一個人的所有技法水準，僅能達到與其一教相當的程度。因此，一教堪稱是技法中「基礎中的基礎」。</p>
-<p>過去，在 M 老師指導的課程中，大家正練習著「胸抓二教」。突然，大先生(開祖)走進道場，詢問 M 老師正在練習什麼技法。我們這群學生原本理所當然地以為 M 老師會回答：「報告，正在練習二教。」沒想到 M 老師卻恭敬地回答：「報告，正在練習一教。」大先生聽聞後，便笑咪咪地離開了道場。</p>
-<p>這讓我們感到非常不可思議。稽古結束後向資深前輩請教，前輩說那樣回答才是對的。據說以前曾發生過類似情況，有人回答「正在練二教」，結果大先生勃然大怒道：「渾小子！我根本還沒開始教二教呢！」 這番話的真意，應是告誡我們要先對一教進行極為充分的稽古，待根基穩固後，才能進一步跨入二教或三教的世界。</p>
-<img src="/images/aikido/t-0223_3.jpg " alt="右側圖片" style="float:right; margin:10px; width:150px;">
-<p>第四，<strong>一教其實是最難的技法</strong>。 其他技法或許還能勉強做出輪廓，但一教卻極難精通。尤其是「正面打一教」，要能施展出符合理則、精煉無贅、優美且力道強勁的招式，世上能做到的人寥寥無幾。</p>
-<p>第五，<strong>一教本身即是最高境界的「奧義技」</strong>。 若能真正掌握一教，或許就等同於精通了所有技法。如同其他武道一般，入門時最初學習的招式，往往就是最終的極意。</p>
-<p>由於一教極其重要，我們必須透徹地將其內化。在鍛鍊過程中，若發現某些技法無法奏效，多半是因為你的一教功夫尚不成熟。與其在行不通的招式上鑽牛角尖，不如回歸一教重新體悟。</p>
-<p>除了回歸一教的基礎練習外，還有一種不同的「一教稽古法」：即<strong>以一教的理則來操作其他技法</strong>。 例如：<strong>施展二教時，不依賴扭轉關節產生的痛覺來崩壞對手，而是像「擰乾抹布」般透過絞入手臂來壓制</strong>；施展<strong>三教時，不針對手腕，而是攻向對方的手臂；小手摔(反手摔)時不抓手腕，而是扣住手臂來翻轉；四方摔亦同</strong>。</p>
-<p>若能以一教的原理成功施展各項技法，那麼回頭去操作常規的二教、三教、小手摔或四方摔時，必能感到游刃有餘。</p>
-<p><a href="http://sasaki-aiki.com/article3_223.php">http://sasaki-aiki.com/article3_223.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

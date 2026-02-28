@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>技法共鳴 on icqkaku 的武道筆記</title>
+    <title>技法共鳴 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E5%85%B1%E9%B3%B4/</link>
-    <description>Recent content in 技法共鳴 on icqkaku 的武道筆記</description>
+    <description>Recent content in 技法共鳴 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 20 Feb 2026 19:03:51 +0800</lastBuildDate>
@@ -34,35 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道極其重視技法的磨練，因此身體的應用方法就顯得至關重要。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道極其重視技法的磨練，因此身體的應用方法就顯得至關重要。</p>
-<p>原則上，合氣道的技法絕非僅靠雙手運作。手部動作若要精妙，必須仰賴全身各個部位共同參與，且每個部位的動作還得互相協調配合。這種運作模式，就像是一支編制嚴謹的管弦樂團。</p>
-<p>在交響樂團中，包含了指揮家與約百位演奏家。每位演奏家並非只顧著將自己的部分練到最完美，更重要的是必須將心思放在樂曲整體的調和上。這種細微的調整，全賴指揮家適時指示強弱與節奏，才能呈現出完美的樂章。</p>
-<p>施展合氣道技法時，手、腳、軀幹都必須全體動員。如同管弦樂團區分為管樂、弦樂與打擊樂，且各類樂器中還有小提琴、長笛、定音鼓等細緻的分工，人類的身體構造也同樣精密：手部包含手掌、前臂、上臂與肩胛骨；腳部則分腳踝、脛骨、膝蓋與大腿；軀幹亦有背、胸、腹、腰之別。這些部位，就如同樂團中各司其職的樂器。</p>
-<p>首先，手、腳、軀體必須先具備各自靈活運動的能力。接著，更需要練習各部位之間的協調與共鳴，這便是作技法的核心原理。因此，鍛鍊必須從基礎開始，讓手掌、前臂、上臂到肩胛骨都能達成有效的連動。</p>
-<p>在樂團中，哪怕只有一個小單位或任何一名成員失誤，演奏出的樂曲水準就會大打折扣。同樣地，施展技法時，若手、腳、軀幹沒有合宜的配合，技法一定無法成立。手部的動作只要有一絲偏差，就無法完成好的技法；甚至僅僅是一支手指的動作不到位，整體表現就會受到影響。</p>
-<p>若想作好技法，身體各部位都必須進行最高標的動作鍛鍊。而這全身上下無數部位的協調一致，最終必須依靠「心」來擔任指揮，下達最確實的指令。</p>
-<p><a href="http://sasaki-aiki.com/article3_275.php">http://sasaki-aiki.com/article3_275.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

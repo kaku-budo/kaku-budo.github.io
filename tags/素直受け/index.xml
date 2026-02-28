@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>素直受け on icqkaku 的武道筆記</title>
+    <title>素直受け on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E7%B4%A0%E7%9B%B4%E5%8F%97%E3%81%91/</link>
-    <description>Recent content in 素直受け on icqkaku 的武道筆記</description>
+    <description>Recent content in 素直受け on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,42 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道的稽古方法是民主、平等、和平的，這是被認為非常了不起。在相對稽古中，彼此互相施技、互相擔任受け，無論是資深或新入門、前輩或後輩，都會公平地以左、右、表、裏各四次進行技法的施展與受身。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道的稽古方法是民主、平等、和平的，這是被認為非常了不起。在相對稽古中，彼此互相施技、互相擔任受け，無論是資深或新入門、前輩或後輩，都會公平地以左、右、表、裏各四次進行技法的施展與受身。</p>
-<p>剛入門時，因為還不熟悉形，因此常透過受身來記住形。其實，這同時也是在<strong>透過受身建立合氣的身體</strong>。因此，初學階段受身越多，日後越能派上用場，所以受身極為重要。</p>
-<p>於受身的方法上，最重要的是 <strong>盡可能「素直」地成為受け。「素直地的受け」的意思，是在對方施技時不要過度逆抗，而是順著對方的技法來當受身</strong>。即使是四方投、小手返等投技，或二教、三教等壓制技，只要不是非常粗暴的前輩，都應<strong>盡量跟上對方的引導。將身體放到極限讓對方拉開角度</strong>。經過數個月的鍛鍊，二教、三教自然就不會痛了。</p>
-<p>成為不逞強、不用力、以素直的方式承擔受身，便能逐漸理解前輩的動作，從而熟悉基本形。在<strong>被投的同時仔細觀察前輩的身體運轉</strong>，輪到自己施技時，就能模仿他的動作。</p>
-<p>在初學階段，大家都會重視受身，也會素直地做好受身。然而隨著段位提升，稽古的重心逐漸偏向施技的一方，使得受身不再被重視。</p>
-<p>其中原因有許多。第一，儘管受け與取り雙方都已掌握一教、四方投等基本形，但取り開始想方設法把對方壓倒。然而僅靠形本身是無法讓對方倒下的，於是他們會與受け硬碰硬，用力起來。受け的一方因此無法順利擔任受身，也逐漸失去想要受身的心態。</p>
-<p>第二，是人的習性，想要省力。尤其是上了年紀之後，這傾向會更加明顯。<strong>受身相當消耗體力</strong>，因此面對實力強的大前輩時會乖乖當受身，但遇到後輩或力量較弱的對象時，反而會偷懶沒有切實擔任受身。</p>
-<p>無論稽古多少年、或多少個幾十年，受身始終重要，必須被珍惜。對於初學者的取り，更要以受け的身分用身體默默示範技的運用方式、身體的帶動方式，並引導他們。為了讓對方能使出更好的技，應當好<strong>合乎理合的受身</strong>。</p>
-<p>受身對自己也很重要。技是依循法則而生的，因此身體的使用方式也必須符合法則；然而依循法則施技並不容易。因此<strong>首先應該在受身中遵循技法的法則</strong>。</p>
-<p>例如，<strong>以右、左、右的陰陽節奏規則使用雙腳。對取り而言可能困難，但在受け卻比較容易做到</strong>。當腳掌握後，再學手，接著將手與腳連動起來。也就是<strong>先從受身中學會理合理法的動作</strong>。</p>
-<p>既然技是永無止境的錬磨，那麼受身也必須一同錬磨。<strong>合氣道中施技的取り與當受身的受け比例各半，只專注於施技的一方，等於浪費了稽古的一半</strong>。</p>
-<p>尤其是年紀增長、段位提高、開始教人之後，容易出現不再當受身的傾向。只要持續稽古，就應當一直珍惜受け與受身。</p>
-<p><a href="https://sasaki-aiki.com/article3_498.php">https://sasaki-aiki.com/article3_498.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

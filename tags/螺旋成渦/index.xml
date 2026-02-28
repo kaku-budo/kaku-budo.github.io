@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>螺旋成渦 on icqkaku 的武道筆記</title>
+    <title>螺旋成渦 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E8%9E%BA%E6%97%8B%E6%88%90%E6%B8%A6/</link>
-    <description>Recent content in 螺旋成渦 on icqkaku 的武道筆記</description>
+    <description>Recent content in 螺旋成渦 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 01 Feb 2026 18:01:00 +0800</lastBuildDate>
@@ -36,58 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是透過技的形來習得技法。由取り與受け互相交替出技、取受的相對練習中，逐漸掌握技的形。當記住技的形，受け也能做到一定程度時，便開始能夠將受け放倒、或控制住對方。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是透過技的形來習得技法。由取り與受け互相交替出技、取受的相對練習中，逐漸掌握技的形。當記住技的形，受け也能做到一定程度時，便開始能夠將受け放倒、或控制住對方。</p>
-<p>一旦能把受け放倒或抑制住，心中便會產生一種滿足感。反之，若被受け抵住、技不見效，就會失去冷靜，開始用力、硬把受け壓倒。這不只是先生自己的經驗，觀察後進也是一樣，在稽古中很容易發生。</p>
-<p>雖然常說，一教、四方投等合氣道技的形稽古，並不是為了把對方放倒，但對初學者而言，這實在是很難理解的。合氣道的形稽古，不是為了把受け打倒，也不是為了讓技變得有效。技一旦出手，受け確實得倒下，被施加的技也確實應當有效，<strong>但那只是結果，不應成為目的</strong>。</p>
-<p>要得到結果，過程極為重要。所謂過程，就是確實<strong>做到該做的事</strong>。而該做的事，就是依循法則運用身體、按理合使用技法。只要<strong>把該做的事做好</strong>，結果自然會是對方倒下、技自然生效。</p>
-<p>在許多<strong>想讓技有效反而失效</strong>的形當中，「諸手・交差取二教」(逆雙手抓單手二教)是典型例子。因為想讓技有效，便站在面對受け的位置，開始轉動被抓住的手，但正因為這樣做，它反而不會有效。尤其這個形，即使稍微有些力量、或用力也沒用，靠蠻力是不會成功的。</p>
-<p>要讓這個技有效，<strong>必須做到許多該做的事</strong>。恐怕多到數不清，以下只寫一些先生自己已掌握的部分。</p>
-<p><strong>1.首先，是腳。</strong>
-受け以諸(雙手抓單手)手抓住我方手腕時，通常力量落在被抓同側的腳上，因此必須把重心移到反側的腳，再移回原本的反側腳，再移回另一側腳，總共需要四次重心移動。
-若是右半身讓對方抓手，步伐便是：右足陽 → 左足陰 → 右足陽 → 左足陰。
-也就是說，雙腳必須按 右、左 的規律，以陰陽循環方式使用。</p>
-<p><strong>2.其次，是手。</strong>
-手必須當作「刀」來使用。手指先張開，使手掌垂直朝向地面。讓對方抓住這個縱向的手掌後，在重心由右移到左的同時，以<strong>切向對方腹部</strong>的意念，將手掌橫向使用。重心移過去後再立起手掌，接著重心回到右足時再度橫向使用。
-再把重心移到左足時，把手掌立起，並以手刀切下對方的手腕，讓對方與自己的重量都落到自己的腹部與左腳上。
-這就是手的<strong>縱橫十字</strong>的使用法則。
-特別是最後<strong>切下對方手腕</strong>的關鍵動作中，手若沒有與對方手腕形成十字，是不會有效的。
-<strong>腰也必須十字使用。</strong>
-腰的位置必須與腳尖方向呈直角，亦即腰也要十字使用。在此例中，腰至少會有左右兩次十字變換。</p>
-<p><strong>3.呼吸法也很重要。</strong>
-呼吸法若不正確，技就不會有效。
-呼吸為「イクムスビ」：「イ(i)」吐息，讓對方抓手；「ク(ku)」吸息，引導對方；「ム(mu)」再以手刀往下切手腕。</p>
-<p><strong>4.支點從頭到尾不能移動。</strong>
-特別須注意的是：在「イ」吐氣讓對方抓手時、在「ク」吸氣引導對方時、在切下手腕時，都不可主動去動被抓的手，而是要用腰腹帶動手。切下時，被抓住的接點不能移動，以那裡為支點，以手刀包覆般地切下。</p>
-<p><strong>5.在諸手・交差取二教中特別重要的，是「拍子」。</strong>
-從開始到最後的關鍵・收尾，時間上、空間上不能有斷點，而且這些動作必須成為「螺旋」。
-要形成「拍子」，心意、呼吸都很重要。但最關鍵的是，動作必須是合氣道的「圓」，並讓那個圓成為「螺旋」，最終形成擁有巨大能量的「渦」。
-做到以上這些，結果上，諸手・交差取二教自然會有效。其他形(技)也同樣，只要加上上述原則，也會變得更有效。</p>
-<p><strong>總結：</strong>
-<strong>用「想讓技生效」的心態去出技，是絕對不行的。</strong></p>
-<p><a href="https://sasaki-aiki.com/article3_502.php">https://sasaki-aiki.com/article3_502.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

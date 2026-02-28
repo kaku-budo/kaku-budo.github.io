@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>核心傳導 on icqkaku 的武道筆記</title>
+    <title>核心傳導 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83%E5%82%B3%E5%B0%8E/</link>
-    <description>Recent content in 核心傳導 on icqkaku 的武道筆記</description>
+    <description>Recent content in 核心傳導 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 20 Feb 2026 19:03:12 +0800</lastBuildDate>
@@ -34,37 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道被視為透過技法的磨練，去認知宇宙並與之達成一體化的修行之道。所謂「技」，集結了開祖所言「產出技法之機制」的各項&lt;strong&gt;技之要素&lt;/strong&gt;。若不運用這些要素來施技，便稱不上是真正的技術，在實戰中也無法奏效。既然技之要素無窮無盡，這條修行之路便永無止境。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道被視為透過技法的磨練，去認知宇宙並與之達成一體化的修行之道。所謂「技」，集結了開祖所言「產出技法之機制」的各項<strong>技之要素</strong>。若不運用這些要素來施技，便稱不上是真正的技術，在實戰中也無法奏效。既然技之要素無窮無盡，這條修行之路便永無止境。</p>
-<p>通常在學習合氣道兩、三年後，修習者會開始覺得自己「掌握了基本技」。這時技法的名稱能與外型對應，能精準模仿招式的輪廓，也學會了受身。我當年也是如此，想必大家亦然。但嚴格來說，這個階段還稱不上是真正的合氣道，應被視為修行前的準備階段。</p>
-<p>從這點開始，本格的合氣道修行才正要展開，而這絕非易事。因為在合氣之道的前方，有一扇沉重的門阻擋了去路。我們雖然知道門後就是真理，卻始終無法踏入。許多人為了推開這扇門，開始拼命鍛鍊力量或重訓，但那並非正確的開啟方式。</p>
-<p>這扇門是有鎖孔的。而<strong>技之要素」就是那把鑰匙</strong>。</p>
-<p>你必須運用鑰匙來開門。哪怕只有一個要素也行，只要深信它就是關鍵並實踐於技法中。例如：「將手足末端與身體核心(腰腹)連結，以核心操作末端」，或是「以共同圓心運動將對手納入自己的圓」等等。</p>
-<p>最近有個例子：在稽古結束後的自由練習時間，觀察到一位同伴在練習「正面打一教」。當時他習慣性地彎曲手臂發力，於是提醒他：「不要折彎手臂，試著將腰腹的力量傳導至指尖。」就在他修正的瞬間，原本阻滯的動作變得圓滿順暢，他驚訝地發現這與過往的體感全然不同。</p>
-<p>恐怕這份前所未有的全新感官體驗，就是開啟他那扇門的鑰匙。非常期待他能憑藉這把鑰匙正式踏入合氣之道。</p>
-<p><strong>無論過去多麼賣力施技都無法奏效，如今僅因運用了正確的技之要素便產生實效，這份驚喜與感動，正是推開那扇門的最強動力。</strong></p>
-<p>只要推開了門，合氣之道就在眼前。剩下的，就是沿著這條路不斷前行。</p>
-<p><a href="http://sasaki-aiki.com/article3_249.php">http://sasaki-aiki.com/article3_249.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

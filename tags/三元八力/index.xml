@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>三元八力 on icqkaku 的武道筆記</title>
+    <title>三元八力 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E4%B8%89%E5%85%83%E5%85%AB%E5%8A%9B/</link>
-    <description>Recent content in 三元八力 on icqkaku 的武道筆記</description>
+    <description>Recent content in 三元八力 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,75 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是一種透過錘鍊技法來精進的武道。因此，通常由兩人一組，輪流扮演「取方」(施技者)與「受方」(被施技者)進行稽古。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是一種透過錘鍊技法來精進的武道。因此，通常由兩人一組，輪流扮演「取方」(施技者)與「受方」(被施技者)進行稽古。</p>
-<p>然而，技法並非總能如人所願地作用於對方。有時對某些對手能順利施展，但對於體力或臂力較強的對手，就往往難以如願。</p>
-<p>我們必須思考：衡量技藝高低(上手與否)的標準是什麼？將受方狠狠地摔出去、俐落地壓制住，並不一定就代表「上手」；而技法對對手無效，也不一定就是「下手」。這並非評判高低的標準，因為這只是一種取方與受方之間的相對結果。</p>
-<p>合氣道的技法被認為是宇宙運作的具象化，其中蘊含著宇宙的法則。即使不說是宇宙，其中也必然存在著法則。例如：左右交替運用的陰與陽、心與體的十字、身體的十字與圓、能夠使手臂不彎折或將對方捲入的螺旋、圓的運行之奧妙結合、離心力與向心力、三元的剛柔流(註1)、八力(註2)與引力(註3)的養成等等。</p>
-<p>因此，技藝的優劣，就在於<strong>是否遵循了這些宇宙的法則</strong>。</p>
-<p>我們必須逐一掌握這些法則，但若要能順利運用技法，就不能單獨運用，而必須讓所有的法則總結集、協同作用。只要其中一項法則未能發揮作用，技法就不能算是真正地發揮了效果。</p>
-<p>從宇宙的運作、歷史和規模來看，宇宙的法則應該是無限的。要掌握並運用所有的法則是不可能的。因此，我們能做的，就是一個一個地掌握盡可能多的法則。</p>
-<p>技法能否奏效，取決於所掌握的法則多寡，因此或許可以建立以下這個「技法的方程式」：</p>
-<p><strong>技藝的精湛度＝技法的效果＝（身體的完成度）ｘ（身體的運用方式）ｘ（氣息的運用方式）ｘ（心靈的運用方式）ｘ…</strong></p>
-<p>如果將其進一步細分，則為：<br>
-＝（強韌性ｘ柔軟性ｘ雜質清除）ｘ（十字ｘ陰陽ｘ圓ｘ螺旋etc.）ｘ（縱橫十字ｘ生み出し(註)）ｘ（以心導引※）</p>
-<p>註：「生み出し」意為生成、化育、產生新事物之意，此處指氣息的運用能夠產生技法或引導氣機。</p>
-<p>※：請參閱思想與技法的<a href="https://kaku-budo.github.io/blog/aikido/philosophy/part-0301-0400/p-0347-heart-lead-love/"><b>第0347回</b></a>：「以心導引」。</p>
-<p>想要有效地施展技法、制伏對手，取決於這個方程式中的各個要素具備多少，以及它們處於什麼樣的水平。同時，這也意味著要進一步提升自己擅長的要素水平，並消除自己不擅長的弱項。</p>
-<p>為了能夠順利施展技法，更重要的事情是：<strong>不斷增加(身體的完成度)、(身體的運用方式)、(氣息的運用方式)、(心靈的運用方式)中的各個要素</strong>。為此，我們在相對<strong>稽古</strong>中尋找宇宙的法則，掌握這些法則，並將其運用於技法之中。</p>
-<p>以上就是技法的錘鍊。</p>
-<p>註1：三元的剛柔流：<br>
-<strong>合氣道修行必須透過「剛、柔、流」這三種維度的綜合鍛鍊，來將身體鍛造成具備「剛、柔、流」三元特性的理想狀態，最終達到「魂駕馭魄」的境界</strong>。<br>
-換言之，修行者要擁有：<br></p>
-<ol>
-<li><strong>剛</strong>：鋼鐵般的強韌和力量(魄力)。<br></li>
-<li><strong>柔</strong>：麻糬般的柔軟和彈性。<br></li>
-<li><strong>流</strong>：流水般的順暢和無所不包。<br>
-只有當這三者完美融合時，才能產生出合氣道所追求的、超越單純肉體力量的<strong>呼吸力</strong>。</li>
-</ol>
-<p>註2：<strong>八力：八種力量</strong><br>
-「八力」是指構成宇宙萬物、生命，乃至合氣道技法的八種基本動態力量或原理。它是「三元」要素（氣、流、剛柔）進一步運作的結果。</p>
-<p>雖然具體的分類和名稱在不同文獻中可能略有差異，但在合氣道中，最核心的解釋是這八種力量<strong>同時作用，構成了一個完整的圓形力量體系</strong>，能讓取方(施技者)與宇宙的運行同步，達到「無敵」的狀態。
-這些力量在技法中體現為：<br>
-•	<strong>推、引</strong>：身體的前後力量。<br>
-•	<strong>上、下</strong>：身體的垂直力量，如運用重力或提升的力量。<br>
-•	<strong>左、右</strong>：身體的水平力量。<br>
-•	<strong>締</strong>(しめ / SHIME，收緊、絞鎖)、<strong>解</strong>(ほどき / HODOKI，鬆解、解放)：控制關節或氣的收放力量。<br>
-<strong>總結來說</strong>：<br>
-「八力」強調的是身體與心靈在施展技法時，必須能夠<strong>無偏頗、全面性地運用所有方向和型態的力量</strong>，使力量成為一個渾圓、無缺陷的整體。</p>
-<p>註3：<strong>引力：吸附力</strong><br>
-「引力」在合氣道的語境中，特指<strong>呼吸力達到極致時，所產生的一種能將對手吸附、貼合於自身的力量</strong>。<br>
-在一般物理學中，「引力」是指萬有引力，但在合氣道哲學中，它是指：<br>
-•	<strong>離心力</strong>：技法中的圓形運作所產生的將對手甩出去或拉開的力量。<br>
-•	<strong>向心力</strong>：技法中的中心軸穩固所產生的將對手拉回、吸附到自身中心的力量。</p>
-<p>當這兩種力量<strong>平衡和諧</strong>地結合時，就會在取方與受方之間形成一種<strong>特殊的磁性或吸附力</strong>，這就是合氣道所追求的「引力」。<br>
-<strong>總結來說</strong>：<br>
-•	<strong>引力</strong>：是呼吸力、離心力和向心力<strong>完美協調</strong>的結果。<br>
-•	<strong>作用</strong>：一旦取方發出引力並與受方貼合，對手就會感到自己像被膠水黏住或被磁鐵吸住一樣，無法逃脫或抵抗。此時對手的一切抵抗力(魄力)都會失效，技法便能輕鬆施展。</p>
-<p>因此，<strong>「八力」是構成整體的力量要素，「引力」是這些要素高度協同作用後，所產生的終極效果</strong>。</p>
-<p><a href="https://sasaki-aiki.com/article3_347.php">https://sasaki-aiki.com/article3_347.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

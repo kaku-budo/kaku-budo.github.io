@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>不推不彈 on icqkaku 的武道筆記</title>
+    <title>不推不彈 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E4%B8%8D%E6%8E%A8%E4%B8%8D%E5%BD%88/</link>
-    <description>Recent content in 不推不彈 on icqkaku 的武道筆記</description>
+    <description>Recent content in 不推不彈 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,44 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是一門透過「對手練習」來磨練技法的武道。在訓練過程中，施技者(取り)與承受技法者(受け)會輪流交換角色，這種公平且互動的訓練方式極為優秀。然而，在實際稽古時，我們常常不自覺地把注意力集中在「如何將對方摔出去」這件事上，卻忽略了更為根本的重要課題。這正是合氣道修練中常見的盲點。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是一門透過「對手練習」來磨練技法的武道。在訓練過程中，施技者(取り)與承受技法者(受け)會輪流交換角色，這種公平且互動的訓練方式極為優秀。然而，在實際稽古時，我們常常不自覺地把注意力集中在「如何將對方摔出去」這件事上，卻忽略了更為根本的重要課題。這正是合氣道修練中常見的盲點。</p>
-<p>當我們以「想要把對方摔出去或壓制」為目標來動作時，對方很容易察覺到我們的意圖，而這種感受往往令人不舒服。這是因為這股力量本質上屬於「推」或「彈」，也就是一種對抗的力量。</p>
-<p>為什麼推或拉會讓「受け」感到不舒服呢？原因很明確：<span style="color: #c0392b; font-size: 1.0em; font-weight: bold;"> 核心在於培養「引力」，並與對方合而為一</span>。如果只是推開或彈開對方，彼此就無法合一，而是變成兩個分離的個體。一旦成為「兩體」，對方就不會成為自己的延伸，自然也無法順利制敵；甚至可能引發對方的反抗，產生對立與衝突，這就偏離了合氣道的精神。</p>
-<p>當我們用手施技時，若出現推或彈的情況，通常是因為與對方接觸的那隻手動作不當。造成這種情況的主要原因包括：</p>
-<p>•	手與腰腹未能連結<br>
-•	手與腰腹的連動中斷<br>
-•	雙腳無法移動(停滯)，只有手在動<br>
-•	重心無法順暢轉移到左右腳<br>
-•	只用手施力，沒將重心轉移到另一腳<br>
-•	改變了與對手接觸處的支點位置<br>
-•	只用單手，未能雙手協調<br>
-•	應吸氣時卻用力吐氣</p>
-<p>只要針對上述問題加以改善，就能有效避免推或彈對方。不過，還有一個非常關鍵的要點——那就是「從形的稽古，進入技的稽古」。如果一直停留在「形」的練習階段，難免會依賴外在的力量(如手臂)，進而出現推或彈的現象。</p>
-<p>而當你進入「技」的練習時，對方不再是敵人，而是與自己合而為一，成為身體的一部分。既然對方已經是自己的延伸，自然無需推或彈，因為根本不存在分離的對象。</p>
-<p><a href="https://sasaki-aiki.com/article3_301.php">https://sasaki-aiki.com/article3_301.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

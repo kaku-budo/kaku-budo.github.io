@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>古武術 on icqkaku 的武道筆記</title>
+    <title>古武術 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E5%8F%A4%E6%AD%A6%E8%A1%93/</link>
-    <description>Recent content in 古武術 on icqkaku 的武道筆記</description>
+    <description>Recent content in 古武術 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,42 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;現今世上的事物，並不是憑空突然出現，而是與過去有著延續性的連結。先人們所思考、累積、改良的一切，才造就了我們今日所擁有的事物。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>現今世上的事物，並不是憑空突然出現，而是與過去有著延續性的連結。先人們所思考、累積、改良的一切，才造就了我們今日所擁有的事物。</p>
-<p>合氣道雖然是由開祖植芝盛平翁所創，但其中與過去的武術、柔術、槍術、劍術等，也就是所謂「古武道」之間，有著極深的淵源。開祖曾修行多種古武道並加以會得，因此合氣道的形(技之形)之中，從一教到五教，乃至於劍、短刀等武器取的技法，都以古武道為基礎。</p>
-<p>此外，武家社會時期，在殿中遭受攻擊時又不能失禮於殿様或上司，為了能在這些條件下制敵，便發展出<strong>坐技</strong>與<strong>半座半立ち</strong>等技法。這些技法，在現代已難以自行想像與創造，是非常特殊的稽古法。</p>
-<p>先人們創造出當時所能想到的一切技法，並設計稽古方式，不斷磨練與改良。例如，被稱作日本最古老的古武道・古武術之一的「竹之內流柔術」，擁有 480 年以上的歷史，至今仍然活躍地傳承著。植芝盛平開祖亦曾稽古過的大東流柔術，透過對人體的徹底研究，創造出深奧的技法與稽古法，並持續傳承至今，可說是「<strong>人類的文化遺產</strong>」。</p>
-<p>古武術與古武道的稽古目的，是為了能制伏敵人的攻擊、獲得擊倒敵人的術(技巧)，因此在目標上與合氣道並不完全一致。古武術中，一旦失敗便可能失去性命，非贏不可。但在合氣道中，即使現在做不到、即使現在很弱，也沒有關係。只要走在正確的道上，總有一天能做到，也能變得更強。</p>
-<p>然而，儘管合氣道的理念與稽古目的與古武術、古武道不同，並不代表合氣道可以隨心所欲、隨便地練習。先生認為，合氣道仍必須與過去的古武術、古武道相連結，並延續那份脈絡。</p>
-<p>開祖亦曾說過，必須以先人們所累積的古武術、古武道為基礎，進而在其上修行，使合氣道得以展現於世。他並未否定古武術、古武道，反而應該向其學習。</p>
-<p>事實上，若不理解古武術，便無法知道敵人的攻擊方式，也無從理解先人是如何處理這些攻擊的。若不了解這些，合氣道的技法便容易流於隨意、脫離本質。</p>
-<p>以「<strong>半身半立ち四方投</strong>」為例，在古武道中，對座著的人會從側面接近並按住手，使其無法使用刀。因此，必須從座者不易察覺的側面、隱蔽地靠近。而要化解這種情況的，就是<strong>片手取四方投</strong>。</p>
-<p>若是正面接近的情境，則是端持酒肴的膳盤從正面靠近，在到達對方面前的瞬間放下膳盤，進而制住對方的雙手。這便是<strong>両手取四方投的情景設定</strong>。</p>
-<p><strong>仔細思考這些技法的差異便能理解：從側面去抓住坐著者的雙手是不可能的；而若在正面，只去抓對方的一隻手也是不合情理的</strong>。</p>
-<p>合氣道必須與過去相結。若做出違背先人所建立的古武術、古武道的應有的合理之事，就是背離脈絡。與過去無法連結的事物，也不會延續至未來，終將消失，甚至使身體受傷。先生認為，應透過觀摩古武道演武會等方式，向先人們大力學習。</p>
-<p><a href="https://sasaki-aiki.com/article3_503.php">https://sasaki-aiki.com/article3_503.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

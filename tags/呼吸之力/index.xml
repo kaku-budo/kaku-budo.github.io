@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>呼吸之力 on icqkaku 的武道筆記</title>
+    <title>呼吸之力 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E4%B9%8B%E5%8A%9B/</link>
-    <description>Recent content in 呼吸之力 on icqkaku 的武道筆記</description>
+    <description>Recent content in 呼吸之力 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,40 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;在相對稽古或自由時間的稽古中，總會有一些事情無法順利完成，這幾乎是必然的。例如二教或三教不起作用，入身投或一教時對方沒有倒下，甚至被對方反制等等。尤其是第一次一起稽古的對象，技往往更難奏效；即使如此，若仍想勉強把對方摔倒而用力硬上，反而只會讓對方更加用力抵抗。其中最具代表性的技(形)，大概就是二教裏了。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>在相對稽古或自由時間的稽古中，總會有一些事情無法順利完成，這幾乎是必然的。例如二教或三教不起作用，入身投或一教時對方沒有倒下，甚至被對方反制等等。尤其是第一次一起稽古的對象，技往往更難奏效；即使如此，若仍想勉強把對方摔倒而用力硬上，反而只會讓對方更加用力抵抗。其中最具代表性的技(形)，大概就是二教裏了。</p>
-<p>在合氣道的稽古過程中，最重要的事情之一，就是<strong>研究在稽古中無法做到的事</strong>。如果把無法做到的事情放著不管，那就到此為止了，自然也談不上進步。</p>
-<p>為了進行研究，<strong>首先應該感謝那位讓自己發現做不到這件事的對手</strong>。正如先生經常所說的，<strong>解決問題固然重要，但提出問題其實更加困難</strong>。</p>
-<p>例如，在稽古中二教裏無法奏效，這本身就是一個事實。重要的是，必須坦然承認這個做不到，並清楚意識到自己的未熟之處；同時，也要深切體認到，自己仍需要進一步的稽古。</p>
-<p>接著，為了克服這個問題，關鍵在於找出<strong>理</strong>。也就是說，無法做到的問題究竟出在哪裡？又該如何才能解決？這些，都必須以合氣道的方式來加以解決。</p>
-<p>所謂以合氣道的方式來解決，就是將其加以科學化。所謂科學化，指的是找出其中的法則性；而這裡所說的法則，當然是宇宙的法則。是否讓手腳以陰陽的方式規律運用？是否讓身體與呼吸形成十字？是否以「イクムスビ(i-ku-mu-du-bi)」來運用呼吸？**是否在與對方結合之後才施技？是否不是以心與呼吸，而是以力量優先來施技？**等等，都是必須檢視的要點。</p>
-<p>另外，無法做到的事情，多半可歸因於所謂的力量不足，因此也必須重新認識自身力量的不足。當然，合氣道所說的「力量」，是兼具離心力與向心力，並帶有引力的呼吸力。一般而言，<strong>呼吸力愈是充實</strong>，這類「<strong>無法做到的事</strong>」自然就會愈來愈少。</p>
-<p>合氣道稽古了幾年之後，對形理應已經有所了解。當受け的對方同樣也清楚形，因此只要他有意，就可以用力抵抗，也能避免被摔倒。正因如此，一旦受け刻意不倒，要將對方摔倒或壓制，就不再是一件容易的事。</p>
-<p>本來，要將對方摔倒或制伏，就不是那麼簡單的事情；因此，失敗其實是理所當然的。</p>
-<p><strong>真正重要的是，即使那件做不到的事情無法立刻做到，也沒有關係。只要找出理，依循理來運用心與身體，並以呼吸力持續不斷地實踐下去，終有一天一定能夠做到</strong>。相信這一點，相信合氣道，也相信自己，持續研究那些曾經做不到的事，讓它們最終都能夠做到，這樣就足夠了。</p>
-<p><a href="https://sasaki-aiki.com/article3_515.php">https://sasaki-aiki.com/article3_515.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

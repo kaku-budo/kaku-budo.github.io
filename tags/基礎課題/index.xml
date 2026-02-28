@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>基礎課題 on icqkaku 的武道筆記</title>
+    <title>基礎課題 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E5%9F%BA%E7%A4%8E%E8%AA%B2%E9%A1%8C/</link>
-    <description>Recent content in 基礎課題 on icqkaku 的武道筆記</description>
+    <description>Recent content in 基礎課題 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,43 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道固然是透過反覆磨練技法來提升的，但在真正進入技的鍛鍊之前，有些「事情」是必須先完成的。換句話說，如果這些基礎沒有打好，那麼要深入技的層面將會困難重重。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道固然是透過反覆磨練技法來提升的，但在真正進入技的鍛鍊之前，有些「事情」是必須先完成的。換句話說，如果這些基礎沒有打好，那麼要深入技的層面將會困難重重。</p>
-<p>首先，我們必須理解並深入探究「技」與「形」之間的差異。合氣道的「技」，是將宇宙運行之理具體化的表現形式，因此它並不容易被發現，也不可能輕易掌握。正因如此，合氣道才需要用一生的時間來持續精進。而要踏上這條道路，便必須完成許多應做的準備工作。如果跳過了這些必要的步驟，就無法真正進入技的修練領域。</p>
-<p>以下列出幾項必須(MUST)實踐的課題：<br>
-•	鍛鍊腰腹與末端手腳連結的練習。<br>
-•	建立「不折斷之手」。<br>
-•	鍛鍊身體「正面」的運用方式。<br>
-•	動作不先動身體末端的手，而是從身體中心出發來帶動。<br>
-•	練習正確的呼吸（透過吸氣使身體柔軟，並與對手連結）。<br>
-•	與對手「結合」，並在結合之後再施展技法。</p>
-<p>為了掌握這些主題，我們會不斷進行「基本技的形稽古」。然而，在實際操作中，常常不自覺地把重點放在「把對手摔倒、擊倒」上，以致忘記了原本該學習的核心。</p>
-<p>因此，我們應該採用更適合上述主題的練習方法。那就是「雙手抓呼吸法」(諸手取り呼吸法)。不過，若誤將此法當成「技」來練習，便無法真正獲得訓練的成效。顧名思義，這是「法」，而非「技」。從武術角度來說，「技」是能夠擊倒或控制對手的手段；而「呼吸法」則是鍛鍊呼吸力的訓練方式，它是合氣道中所有技法的「命脈」。比起單純用臂力讓對方倒下，更重要的是，即使對方沒被摔倒，也要透過這個方法確實培養出呼吸力。</p>
-<p>這項「雙手抓呼吸法」被認為是極其重要的訓練內容。過去，本部道場的有川師範就經常說：「你的技法表現，僅到『雙手抓呼吸法』所能做到的邊緣。」如果連這個方法都無法正確地執行，那麼在合氣道上的技法根本無法派上用場。當時還不太理解這句話的意思，但最近，深刻地體會到：確實如此。</p>
-<p>當然，還有其他許多該做的事。不過，剩下的就可以透過進入「技的練磨」過程中漸漸吸收與體會。一旦能開始真正的技法練習時，就算踏上了「合氣之道」的起點。接下來的修行，只需不偏離正道、不墮入旁門左道，持續往前精進即可。然而，若想要走上這條道路，就必須先完成「該做的事」。這些「應做之事」就像是通往合氣之道的「階梯」，必須一層一層地踏上去，才能真正進入「道」中。</p>
-<p><a href="https://sasaki-aiki.com/article3_303.php">https://sasaki-aiki.com/article3_303.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

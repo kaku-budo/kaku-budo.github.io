@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>控制演進 on icqkaku 的武道筆記</title>
+    <title>控制演進 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%8E%A7%E5%88%B6%E6%BC%94%E9%80%B2/</link>
-    <description>Recent content in 控制演進 on icqkaku 的武道筆記</description>
+    <description>Recent content in 控制演進 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 20 Feb 2026 19:02:07 +0800</lastBuildDate>
@@ -34,42 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道的技法命名可分為兩類：一類如四方摔、入身摔、天地摔等，名稱與動作型態相近，即便未學過的人也能憑名稱想像其動作；另一類則是「一教」至「五教」，將數字當成技法名稱，對門外漢而言顯得神祕莫測。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道的技法命名可分為兩類：一類如四方摔、入身摔、天地摔等，名稱與動作型態相近，即便未學過的人也能憑名稱想像其動作；另一類則是「一教」至「五教」，將數字當成技法名稱，對門外漢而言顯得神祕莫測。</p>
-<p>事實上，使用 1 到 5 這些數字作為技法名稱，蘊含著深刻的含意。</p>
-<p>第一層含意是「順序與根基」。從一教開始，經過二、三、四到五，代表了修煉的層次。一教是最基本的根基，若一教做不好，二教自然難以圓滿；二教若不純熟，三教也難以鎖定對手的關節。</p>
-<p>在實踐中，若二教至五教遇到瓶頸，問題往往出在一教。一教無法徹底控制對手的手臂，便難以在二教中翻轉腕部，或在三教中扭轉肘部。因此，當練習二教或三教感到挫折時，請務必回過頭重新審視一教的基礎。在一教尚未上手前，力道過猛或過鬆都是不對的，應先將其練至精熟，再行前進。</p>
-<p>第二層含意則在於「控制點的演進」與「破壞平衡的位置」：</p>
-<p>一教：臂部控制。 二教：前臂翻轉。 三教：前臂扭轉。 四教：腕部控制(脈動點壓制)。 五教：臂部的拉伸與奪刀應用。</p>
-<p>一教雖是基本中的基本，卻也是極難精通的技法。僅靠手臂力量去壓制強壯的對手往往徒勞無功，必須將腰腹的力量與手臂配合，整體連動，才能達成完全控制。</p>
-<p>二教建立在一教的基礎上，強調對腕部的掌控。要達到完全掌控，必須將對手的手腕與手臂形成「十字」直角，這需要運用從一教習得的身體力量集中於腕部。若腕部無法徹底掌握，即代表一教的根基不穩。</p>
-<p>三教則是透過扭轉對手從腕部到肘部的區間來進行控制。相較於容易逃脫的腕部攻擊，攻擊肘部更接近身體中心線，更容易達到「崩壞體形」的目的。二教與三教互為表裡，當對手欲逃脫二教的控制時，可轉化為三教；反之亦然。</p>
-<p>四教是三教的延伸，若無三教的扭轉基礎，四教的壓制便難以奏效。四教透過對手腕特定點的壓制，傳導至肘與肩，進而控制全身。這要求極高的嚴謹度，稍有偏差便會失效。</p>
-<p>五教則是針對「奪刀」情境設計的技法。與前四教相比，五教更強調心理壓力的抗衡。將對手持短刀的手往下切切，並將其手臂伸直，這要求動作必須極致確實。五教的重點最終仍回歸到對手臂的控制，這與一教如出一轍。</p>
-<p>透過這 1 到 5 的編名與順序，我們不難發現這是一套循序漸進且環環相扣的體系。從一教出發，歷經各關節的探究，最終在五教又回歸到一教的本質，形成一個無止境的修行循環。</p>
-<p> 
- </p>
-<p><a href="http://sasaki-aiki.com/article3_206.php">http://sasaki-aiki.com/article3_206.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

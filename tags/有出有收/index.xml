@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>有出有收 on icqkaku 的武道筆記</title>
+    <title>有出有收 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%9C%89%E5%87%BA%E6%9C%89%E6%94%B6/</link>
-    <description>Recent content in 有出有收 on icqkaku 的武道筆記</description>
+    <description>Recent content in 有出有收 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,40 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;在合氣道的基本技中，最難的莫過於「正面打一教」。這支技法先生已修練了數十年，卻仍感到未能全然領悟。雖然其他基本技也稱不上徹底掌握，但總覺得持續稽古便能漸入佳境；唯獨這「一教」，究竟這樣做對不對？缺陷在哪？該如何改進？至今仍有許多未解之處。雖在自主練習中多方嘗試，卻尚未找到所謂的終極解答。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>在合氣道的基本技中，最難的莫過於「正面打一教」。這支技法先生已修練了數十年，卻仍感到未能全然領悟。雖然其他基本技也稱不上徹底掌握，但總覺得持續稽古便能漸入佳境；唯獨這「一教」，究竟這樣做對不對？缺陷在哪？該如何改進？至今仍有許多未解之處。雖在自主練習中多方嘗試，卻尚未找到所謂的終極解答。</p>
-<img src="/images/aikido/t-0227_3.jpg " alt="右側圖片" style="float:right; margin:10px; width:150px;">
-<p>心中理想的一教藍圖，是晚年的有川師範所展現的一教。師範的一教堪稱藝術，是毫無贅遺、極其自然且優美的身法。為此，我反覆研究師範的影片與照片，試圖窺探其秘訣的全貌，看來只能一邊尋找一邊實踐，踏實地將這些秘訣化為己有。</p>
-<p>從 1999 年 9 月 28 日到 2003 年 3 月 22 日，先生詳實記錄了有川師範在合氣道本部道場週三課程的筆記，包含師範的言論及對其意涵的推察。最近，從這些關於一教的紀錄中，翻到了一句重要教誨：「<strong>發出的氣要收回</strong>」(1999.09.28)。</p>
-<p>所謂「發出的氣要收回」，意指無論是力道或心念，都不能只是單向地「放送」，一旦送出就必須回收。以一教為例，當前手接觸對手並切下送出後，必須立刻將其引回；與此同時，原本在後方的另一隻手順勢擊出，隨後也同樣要引回。</p>
-<p>對於這種「出即是回」的雙手運用，有川師範常戲稱為「蒸汽火車(汽車ポッポ)」的手勢，他總是一邊苦笑一邊模仿火車連桿帶動車輪那樣，循環不息地演示給我們看。</p>
-<p>無論手部運作還是心境，都必須是「送出、收回、再送出、再收回」的循環。師範將此狀態稱之為「<strong>還流</strong>」。</p>
-<p>透過這種「有出必有回收」的運作，動作將轉化為圓周運動，演變為模擬宇宙運行律動的圓形身法，技法也因此得以奏效。反之，若力量送出後不回收，動作就會變成直線。直線的力量會彈開對手，或使接觸點產生斷裂，導致技法無法圓滿。</p>
-<p>要讓正面打一教臻於完美，想必有無數的「技之要素」，而「有出必有回收」絕對是其中極為關鍵的一環。若能內化這個要素，或許一教能更進一步。</p>
-<p>此外，既然這是合氣道的通用理則，除了一教之外，無論是二教、四方摔、入身摔等技法，理應也都必須依循這種「還流」的原則來施展。</p>
-<p><a href="http://sasaki-aiki.com/article3_227.php">http://sasaki-aiki.com/article3_227.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

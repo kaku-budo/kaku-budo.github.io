@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>消除多餘 on icqkaku 的武道筆記</title>
+    <title>消除多餘 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%B6%88%E9%99%A4%E5%A4%9A%E9%A4%98/</link>
-    <description>Recent content in 消除多餘 on icqkaku 的武道筆記</description>
+    <description>Recent content in 消除多餘 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,40 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;在進行稽古時，對於擁有臂力、體力的人，有時會驚覺他們並未真正發揮出那份力量。當與對手對峙、握住對方的手或接觸時，原本預想「這個人有這樣的體格，應該會施出相應的力量吧」，然而實際上卻經常事與願違。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>在進行稽古時，對於擁有臂力、體力的人，有時會驚覺他們並未真正發揮出那份力量。當與對手對峙、握住對方的手或接觸時，原本預想「這個人有這樣的體格，應該會施出相應的力量吧」，然而實際上卻經常事與願違。</p>
-<p>要讓所施展的技法產生效果，必須具備多項要素，其中之一就是：「身體的力量與體重必須確實傳導到施技的手部」。如果這股力量在中途斷開，無法延伸至手指末端，那麼手部就只能孤軍奮戰，缺乏來自核心的支援。這種情況就被稱為「手部單獨操作」或「空揮」。</p>
-<p>讓手淪為孤軍奮戰的根本原因，在於力量傳輸的補給路線被阻斷了。從稽古的觀點來看，這種阻斷發生在身體核心與手部之間的某處，例如：關節彎曲了，或是連接關節與肌肉的力量鏈斷裂了。正因如此，在合氣道中施技時，不可彎折手臂、不能讓關節或肌肉僵硬，也不應存在鬆弛或多餘的動作。</p>
-<p>初學者在施展技法時，常會不自覺地彎曲手臂。這可能是因為肌肉尚未鍛鍊成熟，關節與骨架還不夠穩固。但首先必須了解：手臂不可彎折，這個原則；以及為何不能彎折、又該如何避免等。</p>
-<p>關於「為何不能彎折」的說明如上，接下來談談「如何防止彎折」。</p>
-<p>導致手臂彎折的原因之一，是手部關節的使用方式過於直線且單調。更進一步來說，合氣道的技法本質上是「縱向與橫向的圓形運動相互結合」而成的，但若只使用橫向的圓運動，就會造成手臂彎折。(詳細請參考〈思想與技法〉<a href="https://kaku-budo.github.io/blog/aikido/philosophy/part-0201-0300/p-0258-circles-intersecting/"><b>第0258回</b></a>「圓的相遇」)換言之，手部應結合縱向圓運動，以螺旋方式來運用，才能防止彎折。
-要實現螺旋運動，手部必須與腰腹連結，並從腰腹起始動作，引導手部的運行。若在未與腰腹結合的情況下就啟動手部，手就會陷入孤軍奮戰，手臂彎折、補給中斷，自然也就無法接收來自腰腹的支援。此外，若從手部開始動作，也必定會導致手臂彎折。</p>
-<p>一旦手臂彎折，力量就會中斷，即使成功施技，對手也可能立即恢復元氣，甚至反過來反擊。這就是所謂的「遊び(多餘的動作)」產生了。手臂彎折的狀況，絕非小事。</p>
-<p>其實，不僅在合氣道中，彎折的問題在其他運動中也很常見。例如在劍道中，初學者揮動竹劍時，肘部常常彎折；在棒球打擊、高爾夫揮桿、或網球揮拍等運動中，動作不熟練的人也容易在腰腹與手部之間失去連結，最終手部單獨用力、手臂彎折，進而產生各自多餘的動作。</p>
-<p>一旦出現「遊び(多餘的動作)」，力量就無法有效發揮。因此，我們必須消除這些多餘的動作。要做到這點，就必須避免鬆垮、避免彎折、避免脫節，並以腰腹為核心施展技法。</p>
-<p><a href="https://sasaki-aiki.com/article3_304.php">https://sasaki-aiki.com/article3_304.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

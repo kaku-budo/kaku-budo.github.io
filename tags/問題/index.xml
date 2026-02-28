@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>問題 on icqkaku 的武道筆記</title>
+    <title>問題 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E5%95%8F%E9%A1%8C/</link>
-    <description>Recent content in 問題 on icqkaku 的武道筆記</description>
+    <description>Recent content in 問題 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,43 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道的修行沒有終點。至今為止，應該沒有人會說「我的合氣道已經完成了」或「我已經學會了一切」而結束修行。就連開祖植芝盛平翁，也始終說著：「還早得很，修行才正要開始呢。」&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道的修行沒有終點。至今為止，應該沒有人會說「我的合氣道已經完成了」或「我已經學會了一切」而結束修行。就連開祖植芝盛平翁，也始終說著：「還早得很，修行才正要開始呢。」</p>
-<p>修行雖然是沒有盡頭、無限延續的，但並不是只要時間長就算好。長期持續固然是必要條件，但並不足夠。真正的「必要且充分條件」，是要在持續中不斷進步。</p>
-<p>每位勤於稽古的門人，心中都希望能有所進步。即使有人說：「我只是為了健康而練，不在乎進步不進步。」但若能稍微進步一點，也仍然會感到開心吧。若完全沒有進步，久而久之就會失去興趣，甚至可能放棄稽古。</p>
-<p>要長久持續，就必須讓自己不斷上達。然而，「上達」到底是什麼？若不明白這一點，也就難以真正進步。</p>
-<p>上達就是「接近目標」。因此，若<strong>沒有明確的稽古或修行目標，就不可能上達。當然，目標可以改變，甚至必然會改變。這樣的改變，本身也是一種上達</strong>。</p>
-<p>例如，初學時的目標可能是「無論誰攻來都能接得住」、「對任何對手都能施技」、「不輸給任何人」之類的。</p>
-<p>但隨著修行進展，目標會轉變為「與對手合一」、「體悟並融入宇宙的運行、條理與法則」，最終則是「與宇宙合一」。</p>
-<p>以這個例子來說，最終的目標是「與宇宙合一」，那麼稽古就要一步步朝這個方向邁進。為了達到這個目標，前一階段的目標，「與對手合一，體悟宇宙的運行與法則」，必須先實現。也就是說，目標會從身邊的小目標，逐漸擴展成遙遠而宏大的目標。</p>
-<p>只要確立了目標，就該為此而稽古。向著最終目標邁進，哪怕只前進一小步也好。</p>
-<p>有了目標，道就自然出現。這條由目標與自己連結而成的線，就是自己要走的「道」。能在這條道上前進一小步，就是上達。而稽古，就是在這條道上不偏離方向、穩步前行。</p>
-<p>要前進，必須有一個起點。以今天的稽古為起點，那麼今天就是通往明天的基礎。若今天的稽古不紮實，就無法連結到明天。</p>
-<p>同樣地，要讓這個月的稽古銜接到下個月，讓今年的努力延續到明年。
-想要上達，就要讓「<strong>今天連結明天、這個月銜接下個月、今年延續到明年</strong>」，不斷地稽古下去。</p>
-<p><a href="https://sasaki-aiki.com/article3_404.php">https://sasaki-aiki.com/article3_404.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

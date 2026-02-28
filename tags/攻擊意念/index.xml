@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>攻擊意念 on icqkaku 的武道筆記</title>
+    <title>攻擊意念 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%94%BB%E6%93%8A%E6%84%8F%E5%BF%B5/</link>
-    <description>Recent content in 攻擊意念 on icqkaku 的武道筆記</description>
+    <description>Recent content in 攻擊意念 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,55 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是一門以「受」與「捕(註1)」相對練習、互為平等的武道。雙方交替進行由師範所示範的技之形稽古，透過這種平等而和平的修煉方式，不論強弱、不論資歷新舊，皆可共同成長。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是一門以「受」與「捕(註1)」相對練習、互為平等的武道。雙方交替進行由師範所示範的技之形稽古，透過這種平等而和平的修煉方式，不論強弱、不論資歷新舊，皆可共同成長。</p>
-<p>對初學者而言，「受」的重要性，是每個人都能親身體會的。前受身、後受身，乃至於小手返等的飛受身，學員都會反覆嘗試，有時自己滾、有時請前輩幫忙投擲，只為了能確實地取受。</p>
-<p>當能順利取受之後，心中自然感到喜悅。但反過來要自己去對他人施技時，往往又不知該如何著手。</p>
-<p>等到受身熟練、形的套路也大致記熟後，注意力便會從「受」逐漸轉向「捕」，也就是施技者一方。許多人甚至會想「趕快輪到自己做捕」，因為相較於被投，能夠投出對方似乎更有趣、更能思考與研究。這樣的心情雖然自然，但問題也由此產生。</p>
-<p>當人過於急於做捕時，往往會忽略受的角色，取受變得隨便或敷衍。例如：不確實地打擊或抓取、動作未依捕方的節奏而自行倒下，甚至在技未完成前就先逃開。</p>
-<p>若受方沒有好好取受，捕方便無法進行正確的技法練磨。如此一來，稽古就不再是「武道」的修行，而只剩下動作的模仿。</p>
-<p>舉例來說，當捕方施「二教(裏)」時，受方若因疼痛或恐懼而自己蹲下；或在「三教」時轉身逃避、露出背部；甚至根本不願意好好打或抓，捕方便被迫改變技法，導致無法進行正確的練習。</p>
-<p>所謂「不成為武道」，正是因為捕與受之間失去了應有的「緊張感」。</p>
-<p>受的角色，其實是「對捕進行攻擊的一方」。不只是起手時，而是從開端到技結束為止，始終都必須以攻擊者的心態面對。當發現捕方露出破綻時，應心念：「此處可以當身！」將氣(意念)送往該處。捕方則須不讓對手找到任何可乘之機，確實地以技消除所有空隙。</p>
-<p>正是這種「受與捕的角力」所產生的張力，使合氣道成為真正的武道。捕方的進步，取決於受方是否認真扮演好對手的角色；而受方的修行，也須以誠意回應捕方的技。</p>
-<p>唯有如此，受與捕之間的稽古，才能成為彼此砥礪的「武之修行」。</p>
-<p>註1：捕與取，發音一樣とる，雖然發音相同，但兩個字在武道術語中的<strong>側重點和使用語境</strong>有明顯的區別。從以下說明與文意，使用原文「捕」字。</p>
-<ol>
-<li>
-<p>「<strong>取</strong>」：<br>
-•	更具<strong>動態性</strong>和<strong>技巧性</strong>。<br>
-•	在合氣道、劍道中廣泛使用，指<strong>執行</strong>一項技法或<strong>掌握</strong>一種技巧。<br>
-•	在相對<strong>稽古</strong>中，施技者稱為「取方」(とりかた)。<br></p>
-</li>
-<li>
-<p>「<strong>捕</strong>」：<br>
-•	更具<strong>靜態性</strong>和<strong>制伏性</strong>。<br>
-•	在古流柔術、捕縛術中多用，指<strong>實質上將對方抓住、控制住，或限制其行動</strong>。<br></p>
-</li>
-</ol>
-<p><a href="https://sasaki-aiki.com/article3_348.php">https://sasaki-aiki.com/article3_348.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

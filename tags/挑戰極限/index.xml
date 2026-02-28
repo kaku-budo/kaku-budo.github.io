@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>挑戰極限 on icqkaku 的武道筆記</title>
+    <title>挑戰極限 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%8C%91%E6%88%B0%E6%A5%B5%E9%99%90/</link>
-    <description>Recent content in 挑戰極限 on icqkaku 的武道筆記</description>
+    <description>Recent content in 挑戰極限 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 20 Feb 2026 19:03:48 +0800</lastBuildDate>
@@ -34,37 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道是透過技法的「形」與「相對稽古」來磨練精進的武道。在現代繁忙的社會中，要維持每週數日、每次一至二小時的道館稽古並非易事。在如此有限的時間內，想要上達確實是一項挑戰。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道是透過技法的「形」與「相對稽古」來磨練精進的武道。在現代繁忙的社會中，要維持每週數日、每次一至二小時的道館稽古並非易事。在如此有限的時間內，想要上達確實是一項挑戰。</p>
-<p>然而，大多數人參與稽古，心中必然抱持著進步的希望。若看不見成長的可能，恐怕難以持之以恆。要在有限的時間內達成上達，核心重點在於：以自己的極限來練習。</p>
-<p>所謂「作自己極限的事情」，是指在每次稽古中，運用當下所學的最高水準。這與對手的強弱、資歷深淺無關，而是自己是否盡全力將已掌握的技法、身體應用法、呼吸法、感官意識、知識與思想，全部發揮到極致。</p>
-<p>但我們不能止步於此。當你達到目前的最高水準時，會發現更高的境界；而在那境界之後，還有更長遠的道。</p>
-<p>開祖植芝盛平翁便是最好的榜樣。即便我們認為他已展現了最高境界，他隨後又會突破至更高的層次。開祖與我們的差距雖如雲泥，但「時時以自己的最高極限去稽古」，是所有合氣道同仁必須繼承的精神。</p>
-<p>這種「極限稽古」不應只存在於道館的日常練習，在演武或講習會時也應如此。必須摒棄偷工減料的心態，不應只做自己擅長或習慣的動作。</p>
-<p>這就如同在工作中發揮最高能力一樣。漫不經心或保留實力，都是不可取的，無論面對的是前輩還是初學者，都應抱持同樣的專注。</p>
-<p>挑戰極限，意味著在達到極限後進而超越它，如此才能將「上達」與「進步」合而為一。進步的本質是提高技法水平，讓自己脫胎換骨。要戰勝新的事物，必然要挑戰自我。如果永遠只做自己做得到的事、重複順手的招式，進步便會停止。</p>
-<p>永遠追求最好的，專注於將自己提升到巔峰，再朝向下一個巔峰前進。這種生命態度，就從合氣道的練習開始實踐吧。</p>
-<p><a href="http://sasaki-aiki.com/article3_274.php">http://sasaki-aiki.com/article3_274.php</a></p>
-]]></content:encoded>
     </item>
     <item>
       <title>合氣道進步的秘訣【第0299回】　做無法做到的事的意義</title>
@@ -94,39 +63,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;長久以來一直思考一個問題：對於連正面打入身摔(正面打ち入身投)都尚未熟練的人而言，去練習奪劍(太刀取)或奪杖(杖取)是否有其意義？如今，似乎找到了一些答案，謹將思考整理如下。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>長久以來一直思考一個問題：對於連正面打入身摔(正面打ち入身投)都尚未熟練的人而言，去練習奪劍(太刀取)或奪杖(杖取)是否有其意義？如今，似乎找到了一些答案，謹將思考整理如下。</p>
-<p>奪劍(太刀取)的本質，是以徒手應對如冰裂般瞬間襲來的拔刀攻擊，這本就是極為高難度的技術，非真正名家高手難以駕馭。更何況，若連徒手對應「正面打」都還做不好，便更遑論以空手迎擊利器。即使使用木刀，也無法輕忽其中的危險，甚至會有性命之虞。若讓劍道家看到這樣的練習方式，恐怕會覺得危險到不忍直視，甚至可能批評這是對劍道的不敬。</p>
-<p>然而，這種「做不到的練習」—例如奪劍(太刀取)—依然值得稽古，因為其具有深遠的意義。這並不僅是因為它是晉段考試的課題而已，也不是為了真要徒手奪劍。無論是晉段還是其他目標，奪劍(太刀取)本身從來就不是終點，而是一種練習的過程，透過這種困難的練習，能讓我們獲得更寶貴的體會。</p>
-<p>不只是奪劍(太刀取)，像奪杖(杖取)、奪刀(短刀取)、一對二(二人掛)、一對三(三人掛)，甚至一對多(多人数取り)等這些高難度的練習，也同樣具有價值，雖然都難以完美做到，卻都應該去嘗試。</p>
-<p>那麼，為什麼要刻意去做自己「做不到」的事情呢？理由如下：</p>
-<p>○首先，這樣可以更直接地理解技術與身體運用的自然法則。若是一項技術我們已能輕鬆完成，往往即使不合法則，仍可藉助經驗或力量勉強完成動作。然而在尚未掌握的技術中，任何錯誤都會被清楚揭露，使我們更能察覺不足之處。此外，將自己已熟練的技術原則應用在高難度的情境中，也有助於驗證這些法則的真實有效性。</p>
-<p>○在如奪劍(太刀取)這類未熟練的稽古中，試圖運用過往所學的技術，將自身「融入」技中，這是關鍵。具體而言，是將手腳動作與腰腹連結，左右交替有節奏地運用，配合心念與呼吸，順應宇宙的法則運行。這樣的練習，不只是動作技巧的堆疊，而是一種身心的統合，一種讓自己與技術共融的過程。在這當中，似乎也能一窺合氣道的深層目標與宇宙合而為一的境界。</p>
-<p>○練習初期時，手腳可能僵硬難動，行動不協調，但隨著不斷嘗試，身體會逐漸變得靈活，進而也會對刀法或武器的理解產生轉變。不管每次進步有多微小，只要持續向前，就能逐步接近名家高手的境界。這，正是合氣道精進的軌跡。</p>
-<p>因此，「做不到的事」，確實具有值得追求的價值。去挑戰看似不可能的技法，也會在過程中有所領悟與成長。但同時，必須謹記，不可誤解這樣練習的目的與思維方式。<span style="color: #c0392b; font-size: 1.0em; font-weight: bold;">首先，絕不可天真地以為可以輕鬆用徒手躲避真劍或木劍。正確的起點，應是承認「自己現在做不到」，並從那裡開始一步步學習</span>。</p>
-<p><a href="https://sasaki-aiki.com/article3_299.php">https://sasaki-aiki.com/article3_299.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

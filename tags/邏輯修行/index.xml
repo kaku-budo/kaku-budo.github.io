@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>邏輯修行 on icqkaku 的武道筆記</title>
+    <title>邏輯修行 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E9%82%8F%E8%BC%AF%E4%BF%AE%E8%A1%8C/</link>
-    <description>Recent content in 邏輯修行 on icqkaku 的武道筆記</description>
+    <description>Recent content in 邏輯修行 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 15 Feb 2026 22:46:35 +0800</lastBuildDate>
@@ -34,64 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;學習任何事物，都不是光靠耗費時間就能有所長進，或是變得更厲害。雖然必須花費長久的時間才能有所成就，但這只不過是必要條件，而非充分條件。儘管要變得厲害，似乎沒有所謂的充分條件或絕對條件，但卻有很多的必要條件。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>學習任何事物，都不是光靠耗費時間就能有所長進，或是變得更厲害。雖然必須花費長久的時間才能有所成就，但這只不過是必要條件，而非充分條件。儘管要變得厲害，似乎沒有所謂的充分條件或絕對條件，但卻有很多的必要條件。</p>
-<p>合氣道是透過磨練招式來精進的，這並不是件容易的事。因為所謂的「招式」沒有明確的形式，也沒有固定的動作。因此，要將招式傳授給他人是很困難的。也正因為如此，該如何才能使出好的招式，基本上都必須靠自己思考、嘗試、反省及改進。</p>
-<p>不過，令人感激的是，合氣道創始者植芝盛平翁創造了理想的招式，並集合氣道理論之大成。我們該追求的目標早已存在。只不過，問題在於我們這些凡夫俗子的練習者，與開祖之間的距離太遠，所以我們不知道該怎麼做才能達到那樣的境界。</p>
-<p>因此，我們應該思考該如何才能稍微接近開祖的招式，並理解開祖所說的道理。</p>
-<p>因此，實現這種方法之一，就是活用以前在學校學過的「歸納法」與「演繹法」。因此，這次我想研究一種練習方法，將這兩種方法應用於合氣道的精進上。</p>
-<p>首先，我們先來複習一下「歸納」與「演繹」這兩個詞。</p>
-<p><strong>歸納</strong>，是從大量的個別性或特殊性事實中，推導出結論有多少可靠性的推理方法，正如「與法則相關的觀察越多，該法則的可靠性就越大」這句話。在開拓新領域或探索新理論的場合，歸納法是極其重要的，因為它是先建立假設的方法。</p>
-<p><strong>演繹</strong>，是從一般性或普遍性的前提中，推導出個別性或特殊性結論的推論方法。作為廣義<strong>演繹</strong>法的代表性例子，三段論法就是從兩個前提推導出結論。在演繹法中，如果前提為真，結論也會為真。</p>
-<p>在解釋歸納法與演繹法時，有一個著名的例子就是「蘇格拉底的例子」。</p>
-<p><strong>＜歸納法＞</strong><br>
-蘇格拉底會死。<br>
-柏拉圖也會死。<br>
-他們都是人。<br>
-所以，所有的人有一天都會死。</p>
-<p><strong>＜演繹法＞</strong><br>
-所有的人，有一天都會死。<br>
-蘇格拉底是人。<br>
-所以，蘇格拉底有一天會死。<br></p>
-<p>就字面意義來看，「<strong>歸納</strong>」是「歸而納之」，「<strong>演繹</strong>」則是「演而繹之」。不過，這裡重要的，是該如何將歸納法與演繹法應用於合氣道的練習上，這就是我接下來要思考的問題。</p>
-<p>要能順利使出招式，需要許多條件。例如，什麼事不能做，什麼事非做不可。像是不能彎折手臂、手掌與腰腹一旦連結就不能斷、不要從末端的手腳開始動而是要從腰腹開始動、要以十字來施展、在圓的轉動中使出招式、要以陰陽來施展等等。</p>
-<p>如果將以上這些視為能順利施展招式的法則，那麼我們就能得出結論：要能順利施展招式，就必須找出更多的法則，並根據這些法則來使出招式。這就是「歸納法」。</p>
-<p>而當我們面對新的招式或困難的招式時，從先前的結論中，思考並執行「施展符合法則的招式」，這就是「演繹法」吧。</p>
-<p><strong>歸納法</strong>是透過累積大量的「例子」來得出結果的方法。因此，在練習中，如果能找出越多的法則，就越能得到好的結果，也應該會有所進步。</p>
-<p><strong>演繹法</strong>，據說是一種透過循序漸進的假設來得出最終結論的方法。如果我們透過招式，逐一驗證自己所想的假設是否為真，得出的結論就會具有更強大的力量，招式也會變得更好。</p>
-<p>從理科實驗中導出法則，是<strong>歸納法</strong>；從數學公式中解出個別問題，是<strong>演繹法</strong>。由此可知，在合氣道的稽古中，我們可以透過<strong>歸納法</strong>，從稽古（也是實驗的稽古）中導出法則，再透過<strong>演繹法</strong>，利用<strong>歸納法</strong>導出的法則，來解決個別的、新的、或難解的招式問題。</p>
-<p>最後，再舉個例子，說明如何將「從個別現象中導出結論性一般原理」的 <strong>&lt;歸納法&gt;</strong> ，以及與其相反的「從一般原理中導出結論性個別現象」的 <strong>&lt;演繹法&gt;</strong>，應用於合氣道的練習中。</p>
-<p><strong>歸納法</strong>：從個別現象中，推論出現象之間本質上的結合關係（因果關係），並導出結論性的一般原理。</p>
-<p><strong>個別現象</strong> 「手彎折了」「陰陽混亂」「沒有以十字來施展」<br>
-<strong>因果關係（共通部分）</strong> 「不符合法則」<br>
-<strong>結論</strong> 「無法施展招式」</p>
-<p><strong>演繹法</strong>：從一般原理中，透過邏輯推論，導出結論性的個別現象。大前提、小前提、結論的三段論法是其代表性例子。</p>
-<p><strong>一般原理</strong> 「施展招式時，手不能彎折」<br>
-<strong>事實</strong> 「施展招式時，手彎折了」<br>
-<strong>結論</strong> 「無法施展招式」<br></p>
-<p>合氣道的修行，包括招式的磨練，是一個多層面、複雜而細膩的過程。因此，它不是歸納法或演繹法二擇一，而是需要兩種方法，也就是歸納性思考與演繹性思考。</p>
-<p>在發現法則時，運用歸納性思考；在嘗試新招式時，運用演繹性思考；而在評估與反省時，運用歸納性思考等等，似乎重要的是要適當地交替使用這兩種方法。</p>
-<p><a href="https://sasaki-aiki.com/article3_327.php">https://sasaki-aiki.com/article3_327.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

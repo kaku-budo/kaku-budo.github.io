@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>自主練習 on icqkaku 的武道筆記</title>
+    <title>自主練習 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%B7%B4%E7%BF%92/</link>
-    <description>Recent content in 自主練習 on icqkaku 的武道筆記</description>
+    <description>Recent content in 自主練習 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 20 Feb 2026 19:04:02 +0800</lastBuildDate>
@@ -34,39 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道是不分男女老少都能參與的武道。由於不設比賽，不僅減少了受傷的風險，也免除了勝負爭奪時的緊張感。一般而言，大約修煉個兩三年，就能初步掌握基本技法。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道是不分男女老少都能參與的武道。由於不設比賽，不僅減少了受傷的風險，也免除了勝負爭奪時的緊張感。一般而言，大約修煉個兩三年，就能初步掌握基本技法。</p>
-<p>在初學階段，應仔細地聽從老師的指導。合氣道的基本技法數量雖然不算多，但在不同的攻擊與被攻擊狀態組合下，技法會衍生出許多變化，若再加上應用技與變化技，數量可達數千種。</p>
-<p>進入有段者的層次後，許多人會傾向於追求技法數量的增加，甚至樂於研發奇特的招式，誤以為學會更多技法就是進步。然而，真正的技法精進，是在於對核心技術的深入研究，而非廣度上的擴張。稽古的重點不在於「練多」，而是在於「深入探討少數關鍵」。</p>
-<p>為了提升技法的境界，修煉者應使身體能做出更細緻、更細膩的應用動作。如果只是模仿外表的型態，是無法真正進步的。</p>
-<p>老師在道場上的示範，往往只能說明稽古時的動作流程。因為合氣道如同學校集體教學，很難在有限的時間內針對每個動作細節做全盤的使用說明。要習得技法的竅門，除了古早時期一對一的口傳心授，最重要的就是自我練習。</p>
-<p>在合氣道改為大眾教學的形式後，自我練習的必要性更顯突出。佐佐木老師入門時期，在舊本部道館的一角貼著「合氣道練習心得」。在開祖植芝盛平翁 1938 年的技術書《武道》中也有相關記載。</p>
-<p>該心得特別強調：指導者不應教得太過繁雜，學習者應活用部分的心得，從不斷的自主練習開始。技法不需要貪多，但要一個一個練成屬於自己的東西。</p>
-<p>這意味著指導者只能引領入門，之後的造化全看個人的鑽研。本部道館從以前到現在，為了讓學員有空間鑽研，在課程結束後仍會開放場地。因此，不能只依賴指導者的教導，自主練習必須持之以恆。</p>
-<p>吉祥丸故道主曾說：基本技法必須在反覆不斷的練習後，才能真正內化為自己的東西，如此才能在無數的變化技法中自由運轉。若只是一味追求數量的累積，到頭來可能沒有一招是真正屬於自己的，這將是修行的悲哀，久而久之也會感到枯燥乏味。</p>
-<p>如果自我練習只是機械式地反覆動作，而沒有確實深化技法的內涵，這便是學習停滯的警訊。若想在合氣道之路上走得長遠，絕對不可忽視自我練習的重要性。</p>
-<p>參考文獻　　　『合気道』植芝盛平監修　　植芝吉祥丸著</p>
-<p><a href="http://sasaki-aiki.com/article3_280.php">http://sasaki-aiki.com/article3_280.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>全體一致 on icqkaku 的武道筆記</title>
+    <title>全體一致 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E5%85%A8%E9%AB%94%E4%B8%80%E8%87%B4/</link>
-    <description>Recent content in 全體一致 on icqkaku 的武道筆記</description>
+    <description>Recent content in 全體一致 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,40 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是經過不斷磨練才能精進的武學，其核心在於鍛鍊出「合氣體」。雖然合氣體是從技法磨練中自然形成的，但若缺乏主動的練習意識，僅是機械式地重複，則難以真正練就。要練成合氣體，必須對身體部位有自覺的意識，並根據不同的修煉階段設定個別的重點。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是經過不斷磨練才能精進的武學，其核心在於鍛鍊出「合氣體」。雖然合氣體是從技法磨練中自然形成的，但若缺乏主動的練習意識，僅是機械式地重複，則難以真正練就。要練成合氣體，必須對身體部位有自覺的意識，並根據不同的修煉階段設定個別的重點。</p>
-<p>五體的機能若不能正常發揮，只要有一個地方產生阻滯(卡卡)，技法便無法成立。最典型的部位莫過於手與腳：手的位置若不能確實到位，或者腳的步法紊亂，都將使技法失效。理想的狀態是手腳能靈活運作，達到人體活動的極限；然而，要同時對手腳保有高度自覺是非常困難的，因此建議先從單一部位開始集中意識。</p>
-<p><strong>五體</strong>： 指頭、兩手、兩足。所謂「五體投地」，即是此五個部位同時著地的至誠禮拜。</p>
-<p>大部份的修煉者會先從手的動作開始鑽研。比起腳的應用，手的技法內涵更為複雜，例如：<strong>十字、螺旋、圓(立圓與平圓)的轉合、手不折(保持擴張)、與腰足的結合，以及避免從末端發力等</strong>。</p>
-<p>當手部動作達到一定程度後，就必須將注意力轉向腳部。腳步的練習包含：同側手腳的連動、兩腳呈 T 字形的運行、腿部的上下配合(借地力)、陰陽轉換、重心位移，以及左右步法的正確走位。</p>
-<p>現實中，常見到有人手法純熟但步法不穩，而手法不佳的人，多半步法也難以到位。事實上，步法的修煉難度往往更高。</p>
-<p>無論手部或腳部的動作，都必須合於宇宙法則，技法才具備合理性。唯有在任何時間、任何地點，對任何人都能施展出有效的技法，才稱得上合乎宇宙真理。在稽古中一個個發現並練就這些「技法要素」，才是真正的修行。初期先從手的動作發現法則，具備能力後再進而從腳步中印證法則。</p>
-<p>然而，單只有手或腳符合法則，仍無法成就完美的技法，關鍵在於「手腳配合聯動」。</p>
-<p>身體末端的手與腳，必須透過身體中心(腰腹)來結合。當腰腹與手、腳確實結成一體，全身才能產生一致的動作。若手先行或腳先行，手腳與身體將各自動作，力量便會潰散。</p>
-<p>唯有手、腳、體結為一體，才能運用腰腹的力量，在手腳末端體現出技法的要素。在日常稽古中，必須隨時要求這種全體聯動。若想獨自練習這種連結感，使用「杖」進行一人稽古是最合適的方法。</p>
-<p><a href="http://sasaki-aiki.com/article3_270.php">http://sasaki-aiki.com/article3_270.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

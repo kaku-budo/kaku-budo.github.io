@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>極意研究 on icqkaku 的武道筆記</title>
+    <title>極意研究 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%A5%B5%E6%84%8F%E7%A0%94%E7%A9%B6/</link>
-    <description>Recent content in 極意研究 on icqkaku 的武道筆記</description>
+    <description>Recent content in 極意研究 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 20 Feb 2026 19:03:59 +0800</lastBuildDate>
@@ -34,38 +34,6 @@
   .dark .toc { background: #333; }
 &lt;/style&gt;
 &lt;p&gt;合氣道技法是透過磨練得以精進的，但並非僅靠想像就能上達。一般運動有勝負之分，容易從結果判斷進步與否；合氣道則不同，因此難以直觀地衡量上達的程度。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
-</style>
-<p>合氣道技法是透過磨練得以精進的，但並非僅靠想像就能上達。一般運動有勝負之分，容易從結果判斷進步與否；合氣道則不同，因此難以直觀地衡量上達的程度。</p>
-<p>然而，合氣道同樣追求進步，且無論是誰都希望能有所上達。問題在於：什麼才是上達的合氣道？又該如何達成？</p>
-<p>學問或技藝都有其核心思想與重點，也就是所謂的極意。而掌握極意的方法，便稱為上達的訣竅。針對如何達到極意，開祖曾開示：極意是指知道自己的程度，深入原理，探究合氣內在的技法。遵循此道進行稽古，方能上達。</p>
-<p>開祖的說明雖然簡潔，其中或許包含許多抽象且難以立即領悟的內容。因此，我們必須先相信並熟讀開祖的教誨，對於目前尚無法理解的部分，則需從開祖的言論中去發現與推演。</p>
-<p>極意具備三個要件。第一，要有自知之明。這指的是了解自己的一切，例如清楚自己的身體條件、五體與四肢的構造，以及各部位關節與肌肉的機能；更深層的則是了解自己是誰、有何使命。若不了解自己，便無須談論合氣道如何上達。</p>
-<p>其次，深入原理。這裡的理指的是宇宙之理。合氣道技法是遵從宇宙的條理與法則進而磨練精進的，因此必須清楚掌握這些規律，例如螺旋、圓、陰陽、十字、天之氣與地之呼吸等。</p>
-<p>第三，在具備自知之明並深入原理之後，體現合氣的技法。也就是在清楚自身程度與宇宙道理的基礎上，將這些元素帶入技法的實踐中。</p>
-<p>上達的訣竅就在於將自知之明、深入原理、體現技法這三要件，隨時帶入稽古之中。之後，對這三個要件進行更深一層的研究，便是上達的條件。研究深入到什麼程度，上達便能達到什麼高度，這也是技法得以顯現的理由。</p>
-<p>反過來說，看見技法時能領悟到什麼層次，只有自己最清楚，而深入原理便是知曉的路徑。</p>
-<p>要件指的是必要的基礎，缺乏這些便無法上達。但這並不代表具備了這些條件就一定能成為名人或達人，因為方法、努力程度、才能與運氣，同樣是影響上達的變數。當這些條件皆能圓滿時，離名人與達人的境界也就不遠了，這便是通往極致的可能性。</p>
-<p><a href="http://sasaki-aiki.com/article3_279.php">http://sasaki-aiki.com/article3_279.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

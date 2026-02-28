@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>陰陽 on icqkaku 的武道筆記</title>
+    <title>陰陽 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD/</link>
-    <description>Recent content in 陰陽 on icqkaku 的武道筆記</description>
+    <description>Recent content in 陰陽 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,63 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道被認為是透過技的錘鍊而精進的，但隨著年資增長，人們會逐漸體會到，這並不是件容易的事。初學者往往將合氣道的基本形(型)視為「技」，認為只要記住形的動作，就算學會了技。然而，形與技並不相同。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道被認為是透過技的錘鍊而精進的，但隨著年資增長，人們會逐漸體會到，這並不是件容易的事。初學者往往將合氣道的基本形(型)視為「技」，認為只要記住形的動作，就算學會了技。然而，形與技並不相同。</p>
-<p>當然，形中蘊含著技的要素與原理，因此反覆練習形，對於掌握技是極有意義的。從根本上說，形的稽古正是技的錘鍊過程。</p>
-<p>所謂「技」，是將宇宙的運行具體化的表現。它遵循著宇宙的條理與法則，並非隨意創造而成。我們必須順應宇宙的啟示，依其道理來修得與鍛鍊。</p>
-<p>合氣道開祖植芝盛平翁在《武產合氣》中，對於「如何生出技」曾有如下的闡述：<br>
-•	以天之氣，使天之呼吸與地之呼吸相合，而衍生出技法。<br>
-•	隨著「理之呼吸(*)」而形成呼吸，技的形態亦由此而顯現。<br>
-•	結合天之息與地之息，孕育出武技。<br>
-•	承受地之呼吸與天之呼吸，以此「氣息」創造陰陽，並使陰陽相互結合，萬物由此而生。人亦藉由陰陽的結合，創造出技法。<br>
-•	由天之息與地之息所成之陰陽，經由陰陽的交流，而生出萬物(亦即技)。<br></p>
-<p>＊理之呼吸：呼出的氣是〈<img src="/images/aikido/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉。吸入的氣是〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉。
-將〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉納入腹中，並以自身的呼吸，將〈<img src="/images/aikido/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉安置於〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉之上。</p>
-<p>總而言之，若要生出「技」，就必須運用「天之氣」所帶來的「天地之呼吸」，並使其化為陰陽的運行。</p>
-<p>那麼，讓我們思考一下，在實際的技之錘鍊稽古中，這會是如何進行的。</p>
-<p>任何一種形的原理其實都相通，但在這裡，我們以「片手取呼吸法」為例來說明。</p>
-<ol>
-<li>
-<p>當站在對手面前時，先讓心與「天」相結，將「天之氣」的呼吸從頭頂引入腹中。(<strong>這就是「以天之氣所進行的天之呼吸」</strong>)</p>
-</li>
-<li>
-<p>接著，從腹中吐氣，將氣息下沉至地，同時伸出手讓對方抓住。(<strong>這是「以天之氣使天之呼吸與地之呼吸相合」的狀態</strong>)</p>
-</li>
-</ol>
-<p>到此為止，皆運用縱向的腹式呼吸，因此氣息要〈<img src="/images/aikido/P-0194_1a.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉地圓融運用。</p>
-<ol start="3">
-<li>
-<p>當對方抓住手之後，一邊以橫向的胸式呼吸吸氣，一邊施技。<strong>(此時氣息由縱向的腹式呼吸，轉為橫向的胸式呼吸，形成「十字之息」。氣息要以〈<img src="/images/aikido/T-0485_03.jpg" style="height: 1.2em; vertical-align: middle; display: inline; margin: 0 2px;">〉運用。當然，手、腳與身體也必須以十字的陰陽方式運用。</strong>）</p>
-</li>
-<li>
-<p>當施技之手(手臂)接觸到對方的頸部或胸口時，接著再以縱向的腹式呼吸，不移動接觸點，配合重心的移動，讓身體與大地相結，將氣息落於地。如此一來，對方便會順勢自行倒地。(<strong>因為與地之呼吸相合</strong>)</p>
-</li>
-</ol>
-<p>此外，「若無與天之呼吸交流，地不動；而能生萬物(技)者，皆由天地之呼吸所致。」可見天地之呼吸極為重要。然而，要使地之呼吸(橫向、如潮汐的漲退)運行，首先必須具備天之呼吸；而為了天地之呼吸，最根本的仍是「天之氣」。</p>
-<p>這正是所謂的「理之呼吸」、亦即「天地之呼吸」。而正是透過這「理之呼吸」，技方能誕生。能在所有的基本技(形)中貫徹這樣的「天地之呼吸」，正是錘鍊真正之技的重要關鍵。</p>
-<p><a href="https://sasaki-aiki.com/article3_411.php">https://sasaki-aiki.com/article3_411.php</a></p>
-]]></content:encoded>
     </item>
     <item>
       <title>合氣道進步的秘訣【第0425回】　小中大・近中遠的目標</title>
@@ -122,45 +65,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道中&lt;strong&gt;沒有做到這裡就結束&lt;/strong&gt;這回事。它不像運動或演藝界，不會有所謂的引退宣言。就算努力到極致，仍會覺得還有尚未做到的部分；而當覺得&lt;strong&gt;做到這裡就是極限了&lt;/strong&gt;時，也只能靜靜淡出。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道中<strong>沒有做到這裡就結束</strong>這回事。它不像運動或演藝界，不會有所謂的引退宣言。就算努力到極致，仍會覺得還有尚未做到的部分；而當覺得<strong>做到這裡就是極限了</strong>時，也只能靜靜淡出。</p>
-<p>合氣道修行的最終極目標，被認為是<strong>與宇宙合一</strong>、甚至<strong>自身成為宇宙</strong>。若能真正做到與宇宙一體，便能連結 128 億年前與遙遠未來，自由出入過去、現在、未來，亦能自由往返顯幽神界，甚至能與基督、釋迦牟尼等眾神靈交流。若能達到那境界，應能擁有超凡的力量，並完成超凡的使命。</p>
-<p>然而，在修行合氣道時，即便抱持<strong>要與宇宙合一</strong>的目標，要達成仍非常困難。因為要達成目標，尤其是<strong>最終目標</strong>，必須依照一定的順序，一步步達成該做的事。</p>
-<p>因此，若將與宇宙合一視為遙遠的大目標，那麼在此之前，必須先達成中目標，而為了達成中目標，又需要<strong>近目標</strong>。這些<strong>遠、中、近的目標</strong>，也可稱為<strong>大、中、小目標</strong>。</p>
-<p>那麼，以與<strong>宇宙合一</strong>為大目標時，中目標應該是什麼？我們又該以什麼為方向來稽古？</p>
-<p>雖然每個人的想法不同，但先生認為，首先必須<strong>了解自己要合一的宇宙</strong>。所謂了解宇宙，不只包含科學、物理層面的認知，也包含感受宇宙、感受物理上看不見的存在。</p>
-<p>在科學或物理領域，宇宙的歷史、結構、現象已有許多解釋。雖然仍有大量未知，但至少該具備基本理解。</p>
-<p>然而，接下來必須認識的是<strong>物理無法解釋的宇宙</strong>。這部分學校不會教，也無法教。先生認為，唯有依照開祖的教導、透過合氣道的稽古，才能逐步體悟。</p>
-<p>萬有萬物與自身，皆源自大爆炸前那「一點」(合氣道稱為「一元大神」)，彼此相連。因此，萬物皆為家人、兄弟。這是無法否定的事實，從某種意義也是一種科學。</p>
-<p>此外，<strong>宇宙具有意志</strong>，並引導萬物朝某個方向前進。萬物因而擁有使命，不斷進行生成化育，生、死，再生。為了某些生命的存續，其他生命被犧牲；好的事物被留下，不好的、無用的自然淘汰。這一切都與宇宙的意志、與宇宙樂園建設是否一致有關。</p>
-<p>透過合氣道技的鍛鍊，<strong>必須學會感受宇宙</strong>。宇宙與地球由火與水的十字所構成，人也是以十字為基礎組成並運作。</p>
-<p>而身為以十字構成的人，若要讓自身十字的機能正確運作，就必須與宇宙十字的運作相一致。否則，不僅無法良好地運作，甚至會傷身。</p>
-<p>為了抵達中目標，必須先完成小目標、近目標。這些目標包括：打造合氣道的身體，也就是培養能感受宇宙的身與心。因此包含，以陰陽方式運用身體、以十字運用身心、以融合(<strong>生產び</strong>(註1))運用呼吸……等等。</p>
-<p>也就是說，先達成小／近目標，再前往中目標，最終通往大／遠的目標。但若沒有遠大的大目標，中目標與小目標便無法成立；這樣的稽古最終也會變成沒有方向的練習。</p>
-<p>註1：<strong>生產び：指陰陽、精神與物質、己方與對手之間完美地融合、調和，從而產生出新的、圓滿的創造性力量的法則</strong>。</p>
-<p><a href="https://sasaki-aiki.com/article3_425.php">https://sasaki-aiki.com/article3_425.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

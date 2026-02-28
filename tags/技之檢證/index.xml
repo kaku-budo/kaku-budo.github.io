@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>技之檢證 on icqkaku 的武道筆記</title>
+    <title>技之檢證 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E6%8A%80%E4%B9%8B%E6%AA%A2%E8%AD%89/</link>
-    <description>Recent content in 技之檢證 on icqkaku 的武道筆記</description>
+    <description>Recent content in 技之檢證 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,41 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;自從開始合氣道的稽古以來，至今已超過半個世紀。在這段漫長的歲月中發生過許多事，但託各方恩惠，至今仍能持續稽古。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>自從開始合氣道的稽古以來，至今已超過半個世紀。在這段漫長的歲月中發生過許多事，但託各方恩惠，至今仍能持續稽古。</p>
-<p>有一段時期，先生曾自以為技術高超、力量強大，自滿得像天狗(註1)一般，甚至覺得<strong>合氣道原來也不過如此</strong>。如今回想，對那時的淺薄與無知感到臉紅不已。</p>
-<p>然而，長年持續稽古之後會逐漸明白：<strong>合氣道的修行並沒有終點</strong>。正因如此，只要哪一刻產生<strong>這樣就可以了</strong>的想法，上達便會就此停止。</p>
-<p>合氣道的修行所面對的，是宇宙與神性的領域、靈魂的世界、過去・現在・未來的超越時間等範疇，也就是在無限的時間與空間中進行的稽古。這些領域豈是短短幾年、十幾年就能悟透的？自然是不可能的。</p>
-<p>合氣道透過技的錘鍊精進，逐步掌握符合宇宙法則的技法，藉此體會宇宙的運行與條理，最終與宇宙合而為一。</p>
-<p>換言之，我們稽古人應該掌握的技 <strong>本來就已經存在</strong>。我們所做的，只是去發現那些既存的技，也就是宇宙的法則、條理、運行，並將其吸收，最後以技的形式體現出來。技並非由人憑空創造，而是用於呈現宇宙之心的方式，這是先生始終如此認為。</p>
-<p>因此，在鍛鍊技法時，最重要的是：<strong>檢證自己使出的技是否符合這些法則</strong>，是否一致？若不一致，錯在何處？為何會錯？如何改正？這些問題都必須不斷反省。如此一來，根本沒有空間生出驕慢之心。</p>
-<p>開祖亦提醒我們不可忘記反省的心：「<strong>不可怠惰精神於鍛鍊與向上之中，必須時常保持反省之心</strong>」(《合氣神髓》P38)。也就是說，為了鍛鍊技術、為了上達，我們必須持續不斷地反省、再反省。</p>
-<p>只要在稽古後開始會反省，稽古就會變得更加有趣，也會逐步向前邁進。那是因為稽古已經踏上了「道」。要能反省，必須擁有反省的基準，也就是「法則」，而一旦掌握了法則，就代表開始走上了這條道。未踏上此道者，便不可能進入真正的合氣稽古，也無法前進。</p>
-<p><strong>道就在那里。合氣之道始終在等待我們</strong>。我們首先必須踏上這條道，然後一步步前行。為此，唯有保持不斷反省的姿態，絕不能忘記反省之心。</p>
-<p>註1：天狗(てんぐ)：日本神話中的一種妖怪，長著紅臉和大長鼻子，被認為是極度驕傲的象徵。</p>
-<p><a href="https://sasaki-aiki.com/article3_508.php">https://sasaki-aiki.com/article3_508.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

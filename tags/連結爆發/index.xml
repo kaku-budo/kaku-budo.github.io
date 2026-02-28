@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>連結爆發 on icqkaku 的武道筆記</title>
+    <title>連結爆發 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E9%80%A3%E7%B5%90%E7%88%86%E7%99%BC/</link>
-    <description>Recent content in 連結爆發 on icqkaku 的武道筆記</description>
+    <description>Recent content in 連結爆發 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,49 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;當社會變得富裕，人們似乎也變得日益忙碌。忙碌或許是富足的代償，兩者總是成對出現。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>當社會變得富裕，人們似乎也變得日益忙碌。忙碌或許是富足的代償，兩者總是成對出現。</p>
-<p>為了逃離這份忙碌，人們嘗試各種途徑：禪坐、聆聽音樂會、看展或培養嗜好。<strong>想必也有許多人是為了脫離日常瑣碎的喧囂，渴望在合氣道中找回身為人最原始的時間</strong>。</p>
-<p>然而，令人遺憾的是，不少人將日常的急躁帶進了道場。在稽古中只顧自己，不顧對手，一味地求快、慌張，最終陷入僅靠蠻力施技的惡性循環。</p>
-<p>合氣道的核心在於「技」。我們必須與技法對話，思考如何使其奏效。而在技法成立的諸多條件中，「<strong>蓄勢(ため)</strong>」是不可或缺的一環。</p>
-<p>所謂「蓄勢」，是為了使下一個動作或作業更具效率，而在發動前一瞬間所做的力量與能量的「凝聚」。這種狀態會使動作的軌跡在時間軸上產生若干的濃縮。例如棒球投手為了投出更快速、更沉重的球，極其重視放球前的蓄勢。</p>
-<p>在合氣道中，哪些環節需要「蓄勢」？</p>
-<p>首先，是<strong>與對手接觸並連結(結び)的瞬間</strong>。透過入身接觸對手時，對方必然會產生抗力；此時應等待那一瞬間的抗力傳來，並將其蓄積。若不等待便急於移動，就無法利用對方的力量，只能靠自己的體力硬拚，且無法與對手連結，對方也不會隨之律動。</p>
-<p>其次，在<strong>摔出或壓制前</strong>也必須有「蓄勢」。將對手的能量與自己的能量在瞬間交匯、凝聚，再運用這股爆發力完成動作。若缺乏蓄勢，動作會變得直線化，演變成力量的對抗；一旦對手力氣更大，技法便會失效。</p>
-<p>以下是因缺乏「蓄勢」導致對手抵抗而失敗的典型案例及其解方：<br>
-•	<strong>三教</strong>： 壓制後不要立刻急著旋轉手腕取標，應先將對手的手(臂)向外引導，待對手產生「想把手拉回來」的意圖(即蓄勢)後，再順勢旋轉。許多人感到三教難做，往往就是缺了這一瞬間。<br>
-•	<strong>四方摔</strong>： 最後切下摔出時，不要單調地直接往下按。應一瞬間將抓握的力量向上引導，誘導出對方「想往下沉」的抗力，待力量蓄積飽滿後再切下。若直接切下，強壯的對手會用肩與腿鎖死力量，導致技法卡死。<br>
-•	<strong>天地摔</strong>： 許多人苦惱天側的手舉不起來，原因也是缺乏蓄勢。不要急著動手，應將腰部旋轉產生的能量蓄積於手部後，再順勢向上揚起。<br></p>
-<p>「蓄勢」不僅限於手部，<strong>足部的蓄勢</strong>同樣關鍵：<br>
-•	<strong>四方摔(步法)</strong>： 投擲前的轉換動作中，若從前足移向後足的重心蓄勢充分，便能輕鬆帶動對手。<br>
-•	<strong>入身摔</strong>： 將手置於對手後頸或頸部準備切下時，不要急著用近側的腳投擲，應將重心移至外側足並蓄積體重，再行切下。<br>
-•	<strong>二教(裏)</strong>： 重心若一直掛在前腳，無論手部如何用力，對手稍微抵抗便難以奏效。應將重心後移至後足蓄勢，並將這份蓄積的重量透過全身(而非僅靠指尖)撞擊進去，如此必能見效。<br></p>
-<p>要掌握「蓄勢」，必須體認到它是在一連串動作的時間與空間軌跡中完成的，因此<strong>體態、呼吸與感官</strong>三者至關重要。在身體方面，特別是作為中心的<strong>腰部</strong>，透過腰部的螺旋運作，能讓手足產生蓄勢的空間。</p>
-<p>此外，修煉者必須研磨感官，隨時察覺自己是否已完成蓄勢、對手的狀態為何。這需要極高度的專注力。</p>
-<p>最後，連結自己與對手、並精準控制動作的關鍵，始終是<strong>呼吸</strong>。透過「蓄勢」來研磨呼吸的稽古，將是通往高深境界的重要課題。</p>
-<p><a href="http://sasaki-aiki.com/article3_230.php">http://sasaki-aiki.com/article3_230.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

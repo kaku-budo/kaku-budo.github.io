@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>無標準解 on icqkaku 的武道筆記</title>
+    <title>無標準解 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E7%84%A1%E6%A8%99%E6%BA%96%E8%A7%A3/</link>
-    <description>Recent content in 無標準解 on icqkaku 的武道筆記</description>
+    <description>Recent content in 無標準解 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,42 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;先生將《武產合氣》與《合氣神髓》視為合氣道的聖典。因為若想精進、會得合氣道，這兩部書是不可或缺的，也認為除此之外再無其他更能作為核心指引的作品。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>先生將《武產合氣》與《合氣神髓》視為合氣道的聖典。因為若想精進、會得合氣道，這兩部書是不可或缺的，也認為除此之外再無其他更能作為核心指引的作品。</p>
-<p>這些聖典都是記錄了合氣道開祖植芝盛平翁所講述的言語，也有由開祖親筆所書。</p>
-<p>然而，這些聖典都極其艱澀難懂。尤其對於不了解開祖、未曾與開祖接觸過的門人而言，更是超級難解。</p>
-<p>幸運的是，先生曾在開祖晚年約五年間持續到道場稽古，有機會接觸開祖、跟隨稽古，也看過開祖的演武，並直接聽過開祖說話。因此，每當閱讀這些聖典時，總會與當年開祖的聲音重疊起來。當時先生幾乎聽不懂開祖在說什麼，只希望他快點講完，一邊腿發麻，一邊在心裡祈求，說來非常不敬。然而，不可思議的是，如今開祖的身影與聲音仍深深留在先生的腦海與耳中。</p>
-<p>聖典極度難解，但若不試著解讀，就難以真正理解合氣道。例如其中寫到合氣道所追求的境界、與宇宙的一體化、宇宙構成的一霊四魂三元八力、十字、陰陽、顯幽神界、天之呼吸、地之呼吸等等，要解讀這些內容絕非易事。</p>
-<p>現代是方便的時代，上網很快就能找到答案。然而，聖典中的語句，網路並不能替你解釋，字典與百科也無法提供答案。</p>
-<p>但是，只要反覆、再反覆閱讀聖典，那些原本不明白的事，會慢慢、哪怕只是一點點地開始看懂。第一次通讀時，也許會理解一兩個原本不懂的詞意；下一次則再多理解三四個；再下一次，五六個，如此累積、逐漸增加。</p>
-<p>聖典的難處還在於：<strong>若沒有透過技的稽古、讓身體參與其中，就無法理解</strong>。即使買了聖典來讀，若沒有真正修練合氣道，大概也看不懂，甚至可能做出完全錯誤的解釋。聖典必須與稽古並行，否則極難解讀。</p>
-<p>聖典以難解的語言寫成，描述不可見之世界、超越時間的層次。那些詞語所指涉的是什麼？應該如何面對？本身就像是一份問題集。我們必須提出自己的解答。若不能提出解答，就無法理解合氣道，也無法精進。</p>
-<p>然而，這些問題並沒有標準答案。它並不是像考試用的練習題那樣有固定的解答。因此，許多門人即使買來閱讀，也可能很快就放棄了。然而，隨著一次次持續閱讀，你會發現：那些看似無法理解的問題，其實答案就在聖典之中。十字、陰陽、一霊四魂三元八力，就連呼吸，其答案都在聖典裡。</p>
-<p>只是，<strong>問題在於：那些解答只有在讀者本身的層次中才能被找到，也只能在自己的理解程度下看見</strong>。</p>
-<p>因此，若想稍微理解聖典，就必須一讀再讀、反覆閱讀，同時提升自己的技之層次，並鍛鍊自身的內在層次。</p>
-<p><a href="https://sasaki-aiki.com/article3_488.php">https://sasaki-aiki.com/article3_488.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

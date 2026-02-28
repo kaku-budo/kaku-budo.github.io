@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>逐步累積 on icqkaku 的武道筆記</title>
+    <title>逐步累積 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E9%80%90%E6%AD%A5%E7%B4%AF%E7%A9%8D/</link>
-    <description>Recent content in 逐步累積 on icqkaku 的武道筆記</description>
+    <description>Recent content in 逐步累積 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,50 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道有一項有趣之處：即使存在許多矛盾，但每一個矛盾往往又彼此相依、構成表裏一體。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道有一項有趣之處：即使存在許多矛盾，但每一個矛盾往往又彼此相依、構成表裏一體。</p>
-<p>其中一個最近讓先生感到興趣的矛盾，就是「合氣道很容易」與「世上沒有比合氣道更難的東西」這兩個看似完全相反的觀點。</p>
-<p>剛入門並開始稽古的頭幾年，一直覺得合氣道真是簡單。事實上，相較於過去做過的運動，它的確輕鬆得多。沒有比賽，形也不算多，一兩年內就能學得差不多。能做受身，也就是說能成功當前輩們受身之後，就會誤以為<strong>已經會合氣道了</strong>。</p>
-<p>但現在的想法完全相反，覺得「世上沒有比合氣道更難的東西」。理由例如：</p>
-<p>1.合氣道沒有比賽或勝負，所以很難判斷自己的程度與進步情況。雖然相對稽古多少能看出些端倪，但永遠達不到令人滿意的明確度。</p>
-<p>2.合氣道是把宇宙的運行具現為技來學習，但追求的又是沒有形、看不見的東西。</p>
-<p>3.合氣道的目標是與宇宙合一，這條路漫長且沒有終點。</p>
-<p>4.合氣道是禊，不只能淨化自己，也要淨化世間的穢汙。</p>
-<p>因此，需要進行微觀與宏觀的稽古、顯界與幽界的稽古、跨越時間與空間的稽古，這些恐怕是其他武道或運動所沒有的。</p>
-<p>當覺得合氣道變得「難」時，反而會不斷意識到還有許多該做的事。其實不只是合氣道，所有學習都一樣，要做的事一項一項完成，一點一滴領悟，反覆累積。沒有捷徑，只有像薄紙一張張重疊般，將稽古成果積累起來。</p>
-<p>並不是只要在稽古時間出席，照著指導者示範的形稽古把對方放倒就好。若對方是初心者、力量又弱，自然會倒下，因此<strong>對方有沒有倒並不是判斷上達與否的正確指標</strong>。</p>
-<p>但每個人都想知道自己是否進步、進步到什麼程度。這個基準，其實是自己，或是當受身的對手。</p>
-<p>要讓自己成為判斷基準，就必須讓這個<strong>基準純粹化</strong>。也就是不以相對標準，而是以<strong>絕對標準來衡量</strong>。不是與人比較，而是以<strong>應與宇宙合一的自身</strong>作為基準、作為尺，觀察自己在刻度上提升多少。</p>
-<p>這些刻度，他人看不見，因此<strong>不必在意別人的評價</strong>。然而，在相對稽古中，對方能以身心感受你的技有多少效力。施技的人自己也能感覺出來，旁觀者也常能察覺。</p>
-<p>因此，在相對稽古中，不妨多嘗試各種技與課題。不只是投對方、壓對方，而是<strong>把自己心中的想法、理解、課題拿來試驗</strong>。若思考與過程正確，受身者會欣然倒下；若不佳，對方要嘛倒不下，要嘛一臉不滿地倒下。</p>
-<p>但要在正式稽古時間內完成自己的課題，對初心者來說非常困難，因此必須在<strong>稽古結束後的自主稽古中進行</strong>。</p>
-<p>初心者可能會覺得，只要在正式稽古時間努力就夠，不需要特地做自主稽古。但這樣無法進步。因為<strong>開祖明確說過合氣道需有自主稽古</strong>，而且<strong>本部道場也特地安排時間讓人課後自主稽古</strong>。</p>
-<p>理由是：<strong>指導者終究只能教出教法的一部分，剩下的必須靠自己吸收</strong>。開祖有如下教誨：
-「<strong>指導者之教導僅能傳授其一端，能否活用其妙理，唯有依靠自己不斷的練習方能體得</strong>。」(植芝守孝高《武道》昭和13年)開祖也說過，如果不做自主稽古，就無法會得、也無法進步。</p>
-<p>既然道場提供了寶貴的自主稽古時間與場所，我們就應心懷感謝，好好利用，逐步接近合氣的真髓。</p>
-<p><a href="https://sasaki-aiki.com/article3_478.php">https://sasaki-aiki.com/article3_478.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>一通萬理 on icqkaku 的武道筆記</title>
+    <title>一通萬理 on 武道筆記</title>
     <link>https://kaku-budo.github.io/tags/%E4%B8%80%E9%80%9A%E8%90%AC%E7%90%86/</link>
-    <description>Recent content in 一通萬理 on icqkaku 的武道筆記</description>
+    <description>Recent content in 一通萬理 on 武道筆記</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
@@ -36,41 +36,6 @@
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是透過形稽古來精進的武道，因此只要長年持續練習，自然而然會知道更多的形。入門不久時，能做到新的形或技會讓人感到高興，也會想向同伴炫耀。初學者也常羨慕前輩們會自己不知道的形，總想設法把這些形也練起來。因此，能做出自己不會的形的人，就會被特別尊敬，而自己也會想盡可能多掌握一些形。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
-</style>
-<p>合氣道是透過形稽古來精進的武道，因此只要長年持續練習，自然而然會知道更多的形。入門不久時，能做到新的形或技會讓人感到高興，也會想向同伴炫耀。初學者也常羨慕前輩們會自己不知道的形，總想設法把這些形也練起來。因此，能做出自己不會的形的人，就會被特別尊敬，而自己也會想盡可能多掌握一些形。</p>
-<p>在初學階段，努力多學一些形本身是好事。例如，只練片手取的四方投、入身投，而不練正面打的一教、小手返，這就不太妥當。<strong>無論擅長或不擅長，都應該挑戰盡可能多的形</strong>。</p>
-<p>也就是說，雖然不必拘泥於一定要在白帶期間，但至少在初段或二段之前，應該把基本形完整掌握。連一教與二教都分不清，總是不太好。</p>
-<p>然而，如果到了二段、三段，仍把<strong>增加自己會的形的數量</strong>當作練習目的，那麼實力應該會停滯不前。因為<strong>合氣道重視的不是形的多少，而是技的品質；而且若只追求形，很快就會遇到瓶頸</strong>。</p>
-<p>隨著年歲增長就會明白：光靠形，是無法讓對方倒下的。對方之所以會倒，是因為「技」有效，而不是因為你知道多少形。換句話說，光是知道再多形，對方也不會倒。如果靠形無法使人倒下，人就會開始想用柔道、柔術式的手段去壓制對方。</p>
-<p>合氣道是透過形稽古來錘鍊技的武道。合氣道的形(如「正面打一教」等)，是由宇宙的運行、宇宙的條理與法則所構成，形中包含了這些內容。因此，只要反覆進行形稽古，就能逐漸發現、並掌握宇宙的運行、條理與法則。這就稱為技的錘鍊。</p>
-<p>合氣道的稽古是用不算多的形反覆練習，但重要的是，即使是相同的形，也必須不斷深入。也就是說，<strong>初學時的稽古是在快速學習各種形的「橫的稽古」，而深入鑽研則是「縱的稽古」</strong>。</p>
-<p>稽古必須從「橫的稽古」進入「縱的稽古」。不是追求形的數量，而是追求技及其品質，並將之內化。對此，開祖在《武道》中告誡：「徒(いたずら)ニ多クノ業ヲ望マズ 一ツ一ツ自己ノモノトナスヲ要す」(譯註：本文題目。此處的業可理解為技)。</p>
-<p>當一項技法真正成為自己的，那麼在其他形中也能以相同層次發揮。就算這項技看似微小，它仍可應用於所有形之中，也就是「一通萬理」。即便學會一個新的形，那也只是一項；但若深化一項技，那便可通於萬法，相當於已掌握萬法。因此，與初學階段不同，<strong>技的深度</strong>成為判斷水平高低的標準。</p>
-<p><strong>希望我們都能在基本形的反覆稽古中逐步深化技，不焦躁，一步一步地把每一項技真正變成自己的</strong>。</p>
-<p>參考資料：《武道》 植芝守高著　昭和13年</p>
-<p><a href="https://sasaki-aiki.com/article3_477.php">https://sasaki-aiki.com/article3_477.php</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
