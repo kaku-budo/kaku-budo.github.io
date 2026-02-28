@@ -1073,7 +1073,10 @@ function doMartialSearch() {
         if (link.innerText.toUpperCase().indexOf(input) > -1) {
             li.style.display = "";
             const parent = li.closest('.m-content');
-            if (parent) { parent.style.display = 'block'; parent.previousElementSibling.querySelector('.m-arrow').innerText = '▲'; }
+            if (parent) { 
+                parent.style.display = 'block'; 
+                parent.previousElementSibling.querySelector('.m-arrow').innerText = '▲'; 
+            }
         } else { li.style.display = "none"; }
     });
 }
