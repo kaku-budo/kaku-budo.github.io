@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>三段論法 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E4%B8%89%E6%AE%B5%E8%AB%96%E6%B3%95/</link>
-    <description>Recent content in 三段論法 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:46:35 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E4%B8%89%E6%AE%B5%E8%AB%96%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0327回】 透過歸納法與演繹法來練習</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0327-logic-practice-method/</link>
-      <pubDate>Sun, 15 Feb 2026 22:46:35 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0327-logic-practice-method/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>三段論法 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E4%B8%89%E6%AE%B5%E8%AB%96%E6%B3%95/</link><description>Recent content in 三段論法 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:35 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E4%B8%89%E6%AE%B5%E8%AB%96%E6%B3%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0327回】 透過歸納法與演繹法來練習</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0327-logic-practice-method/</link><pubDate>Sun, 15 Feb 2026 22:46:35 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0327-logic-practice-method/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;學習任何事物，都不是光靠耗費時間就能有所長進，或是變得更厲害。雖然必須花費長久的時間才能有所成就，但這只不過是必要條件，而非充分條件。儘管要變得厲害，似乎沒有所謂的充分條件或絕對條件，但卻有很多的必要條件。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;學習任何事物，都不是光靠耗費時間就能有所長進，或是變得更厲害。雖然必須花費長久的時間才能有所成就，但這只不過是必要條件，而非充分條件。儘管要變得厲害，似乎沒有所謂的充分條件或絕對條件，但卻有很多的必要條件。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -91,7 +72,4 @@
 <p>合氣道的修行，包括招式的磨練，是一個多層面、複雜而細膩的過程。因此，它不是歸納法或演繹法二擇一，而是需要兩種方法，也就是歸納性思考與演繹性思考。</p>
 <p>在發現法則時，運用歸納性思考；在嘗試新招式時，運用演繹性思考；而在評估與反省時，運用歸納性思考等等，似乎重要的是要適當地交替使用這兩種方法。</p>
 <p><a href="https://sasaki-aiki.com/article3_327.php">https://sasaki-aiki.com/article3_327.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

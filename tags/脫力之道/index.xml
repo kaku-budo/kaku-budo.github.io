@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>脫力之道 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E8%84%AB%E5%8A%9B%E4%B9%8B%E9%81%93/</link>
-    <description>Recent content in 脫力之道 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:45:37 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E8%84%AB%E5%8A%9B%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0369回】 放鬆用力</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0369-relax-power-flow/</link>
-      <pubDate>Sun, 15 Feb 2026 22:45:37 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0369-relax-power-flow/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>脫力之道 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%84%AB%E5%8A%9B%E4%B9%8B%E9%81%93/</link><description>Recent content in 脫力之道 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:45:37 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%84%AB%E5%8A%9B%E4%B9%8B%E9%81%93/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0369回】 放鬆用力</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0369-relax-power-flow/</link><pubDate>Sun, 15 Feb 2026 22:45:37 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0369-relax-power-flow/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;不僅在運動中，在合氣道中也常聽到「放鬆用力」這句話。也就是說，施展技法時若是用力過度，就無法達到效果。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;不僅在運動中，在合氣道中也常聽到「放鬆用力」這句話。也就是說，施展技法時若是用力過度，就無法達到效果。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -69,7 +50,4 @@
 <p>應該把對手視為自己的另一個分身，是幫助自己修練的夥伴。以呼吸與心相通，達到一體化。</p>
 <p>合氣道的修行沒有終點，一生都是稽古的過程。即使現在做不到，也沒關係，年紀漸長後總有一天會明白。即使眼前被臂力壓制，也不要以臂力回應，而要忍耐鍛鍊深層肌，培養十字的呼吸。當自己的呼吸能與天地之氣相合時，自然而然就能放鬆，不再有一絲勉強與僵硬。</p>
 <p><a href="https://sasaki-aiki.com/article3_369.php">https://sasaki-aiki.com/article3_369.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

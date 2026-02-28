@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>貫穿中心 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E8%B2%AB%E7%A9%BF%E4%B8%AD%E5%BF%83/</link>
-    <description>Recent content in 貫穿中心 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:45:25 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E8%B2%AB%E7%A9%BF%E4%B8%AD%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0374回】 貫穿中心</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0374-pierce-the-center/</link>
-      <pubDate>Sun, 15 Feb 2026 22:45:25 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0374-pierce-the-center/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>貫穿中心 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%B2%AB%E7%A9%BF%E4%B8%AD%E5%BF%83/</link><description>Recent content in 貫穿中心 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:45:25 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%B2%AB%E7%A9%BF%E4%B8%AD%E5%BF%83/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0374回】 貫穿中心</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0374-pierce-the-center/</link><pubDate>Sun, 15 Feb 2026 22:45:25 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0374-pierce-the-center/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;開祖曾說：「若不立於天之浮橋上，武便無從而生。」若想在合氣道的技法鍛鍊中發揮技之效用，就必須立於「天之浮橋」。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;開祖曾說：「若不立於天之浮橋上，武便無從而生。」若想在合氣道的技法鍛鍊中發揮技之效用，就必須立於「天之浮橋」。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -68,7 +49,4 @@
 <p>若在合氣道稽古中養成「貫穿中心」的習慣，便能在萬事萬物中直達核心，而這正是必須達到的境界。不僅是可見之事物，連同人言、文字等不可見之物，也各有其中心。若不抓住中心，只憑外圍末節作判斷，終不會有好結果。當今社會諸多問題，恐怕也正源於未能貫穿事物之中心。</p>
 <p>而合氣道中最重要的中心，乃是創造宇宙、並為宇宙完成而進行生成化育的一元大御神。這被視為合氣道的最終目標。為了與這一元大御神結合，合氣道的稽古中必須貫穿中心；而在道場之外，也應於萬事之中練習「貫穿中心」，亦即「結」的修行。</p>
 <p><a href="https://sasaki-aiki.com/article3_374.php">https://sasaki-aiki.com/article3_374.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

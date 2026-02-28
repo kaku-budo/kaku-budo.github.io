@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>精進軌跡 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E8%BB%8C%E8%B7%A1/</link>
-    <description>Recent content in 精進軌跡 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E8%BB%8C%E8%B7%A1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0299回】　做無法做到的事的意義</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0299-meaning-of-challenge/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0299-meaning-of-challenge/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>精進軌跡 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E8%BB%8C%E8%B7%A1/</link><description>Recent content in 精進軌跡 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E8%BB%8C%E8%B7%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0299回】　做無法做到的事的意義</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0299-meaning-of-challenge/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0299-meaning-of-challenge/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;長久以來一直思考一個問題：對於連正面打入身摔(正面打ち入身投)都尚未熟練的人而言，去練習奪劍(太刀取)或奪杖(杖取)是否有其意義？如今，似乎找到了一些答案，謹將思考整理如下。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;長久以來一直思考一個問題：對於連正面打入身摔(正面打ち入身投)都尚未熟練的人而言，去練習奪劍(太刀取)或奪杖(杖取)是否有其意義？如今，似乎找到了一些答案，謹將思考整理如下。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -68,7 +48,4 @@
 <p>○練習初期時，手腳可能僵硬難動，行動不協調，但隨著不斷嘗試，身體會逐漸變得靈活，進而也會對刀法或武器的理解產生轉變。不管每次進步有多微小，只要持續向前，就能逐步接近名家高手的境界。這，正是合氣道精進的軌跡。</p>
 <p>因此，「做不到的事」，確實具有值得追求的價值。去挑戰看似不可能的技法，也會在過程中有所領悟與成長。但同時，必須謹記，不可誤解這樣練習的目的與思維方式。<span style="color: #c0392b; font-size: 1.0em; font-weight: bold;">首先，絕不可天真地以為可以輕鬆用徒手躲避真劍或木劍。正確的起點，應是承認「自己現在做不到」，並從那裡開始一步步學習</span>。</p>
 <p><a href="https://sasaki-aiki.com/article3_299.php">https://sasaki-aiki.com/article3_299.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

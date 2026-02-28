@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>修行觀 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E4%BF%AE%E8%A1%8C%E8%A7%80/</link>
-    <description>Recent content in 修行觀 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:45:53 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E4%BF%AE%E8%A1%8C%E8%A7%80/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0357回】 不要將責任推給他人</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0357-self-duty-check/</link>
-      <pubDate>Sun, 15 Feb 2026 22:45:53 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0357-self-duty-check/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>修行觀 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E4%BF%AE%E8%A1%8C%E8%A7%80/</link><description>Recent content in 修行觀 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:45:53 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E4%BF%AE%E8%A1%8C%E8%A7%80/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0357回】 不要將責任推給他人</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0357-self-duty-check/</link><pubDate>Sun, 15 Feb 2026 22:45:53 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0357-self-duty-check/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道的修行，是透過與他人對練來磨練技法的。然而，自己所施展的技往往難以順利奏效，這點恐怕是每位修行者都曾經歷過的困難。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道的修行，是透過與他人對練來磨練技法的。然而，自己所施展的技往往難以順利奏效，這點恐怕是每位修行者都曾經歷過的困難。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -68,7 +49,4 @@
 <p>若只是將失敗歸咎於對手、就此結束，等於錯過了一次珍貴的上達契機。有時會看到有人對受身的對手提出種種要求，但這樣的稽古是毫無意義。事實上，應該感謝那些「<strong>讓你不好使力</strong>」的對手，因為正是他們，讓你能獲得新的體驗、面對新的課題。</p>
 <p>若想不斷創造上達的契機，就應該與各種類型的對手稽古，在不斷的失誤與調整中，體會「技不易成」的現實，並從中持續累積成長。</p>
 <p><a href="https://sasaki-aiki.com/article3_357.php">https://sasaki-aiki.com/article3_357.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

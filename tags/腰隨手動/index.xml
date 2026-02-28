@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>腰隨手動 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E8%85%B0%E9%9A%A8%E6%89%8B%E5%8B%95/</link>
-    <description>Recent content in 腰隨手動 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:44:51 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E8%85%B0%E9%9A%A8%E6%89%8B%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0395回】 些微的關鍵點</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0395-aiki-key-points/</link>
-      <pubDate>Sun, 15 Feb 2026 22:44:51 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0395-aiki-key-points/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>腰隨手動 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%85%B0%E9%9A%A8%E6%89%8B%E5%8B%95/</link><description>Recent content in 腰隨手動 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:44:51 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%85%B0%E9%9A%A8%E6%89%8B%E5%8B%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0395回】 些微的關鍵點</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0395-aiki-key-points/</link><pubDate>Sun, 15 Feb 2026 22:44:51 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0395-aiki-key-points/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道沒有「這樣就夠了」這回事，修行是沒有盡頭的。然而，現實中卻有許多稽古人半途而廢，令人遺憾。辛苦持續了二十年、三十年的稽古，最終卻放棄了，想必他們自己也感到惋惜吧。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道沒有「這樣就夠了」這回事，修行是沒有盡頭的。然而，現實中卻有許多稽古人半途而廢，令人遺憾。辛苦持續了二十年、三十年的稽古，最終卻放棄了，想必他們自己也感到惋惜吧。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -73,37 +54,25 @@
 <p>當能以腰的力量形成螺旋時，就會逐漸理解「呼吸力」的本質，什麼是呼吸力，以及如何養成它。而養成呼吸力的過程，本身就是稽古，而且是沒有盡頭的修行。</p>
 <p>當能明白：合氣道的技蘊含無限的法則，而修行的目的，就是體得這些法則與呼吸力。那麼，稽古就永遠有前進的方向，永遠不會停止。</p>
 <p><a href="https://sasaki-aiki.com/article3_395.php">https://sasaki-aiki.com/article3_395.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0390回】　按正確順序修行應做之事</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-proper-order/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-proper-order/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0390回】　按正確順序修行應做之事</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-proper-order/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0390-aiki-proper-order/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過技的鍛鍊來精進的。合氣道的技遵循宇宙的法則，而進行技的鍛鍊之身體，被稱為「小宇宙」。因此，不論是技還是身體，都必須依循宇宙的法則來運作，並且應讓其依此法則而發揮功能。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過技的鍛鍊來精進的。合氣道的技遵循宇宙的法則，而進行技的鍛鍊之身體，被稱為「小宇宙」。因此，不論是技還是身體，都必須依循宇宙的法則來運作，並且應讓其依此法則而發揮功能。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -139,7 +108,4 @@
 <p>既然有該做的事，就必須確實去做；否則既不能成為技，也無法成為鍛鍊。若錯誤了該做之事的順序，同樣無法成技，對方也不會被制伏。唯有依循應有的步驟與順序，一步步正確實踐，才能達成真正的「技」。</p>
 <p>註1：イクムスビ：是指「生命力、生長力、和源源不絕的創造力。</p>
 <p><a href="https://sasaki-aiki.com/article3_390.php">https://sasaki-aiki.com/article3_390.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

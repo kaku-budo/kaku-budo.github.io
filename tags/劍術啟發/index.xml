@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>劍術啟發 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%8A%8D%E8%A1%93%E5%95%9F%E7%99%BC/</link>
-    <description>Recent content in 劍術啟發 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:02:20 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%8A%8D%E8%A1%93%E5%95%9F%E7%99%BC/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0212回】 離心力與向心力</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0212-centrifugal-and-core/</link>
-      <pubDate>Fri, 20 Feb 2026 19:02:20 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0212-centrifugal-and-core/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>劍術啟發 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%8A%8D%E8%A1%93%E5%95%9F%E7%99%BC/</link><description>Recent content in 劍術啟發 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:20 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%8A%8D%E8%A1%93%E5%95%9F%E7%99%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0212回】 離心力與向心力</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0212-centrifugal-and-core/</link><pubDate>Fri, 20 Feb 2026 19:02:20 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0212-centrifugal-and-core/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;世間萬物皆具備表與裏、陰與陽。宇宙中的一切存在，想必也都同時擁有這兩面。當陰陽、表裏的平衡崩潰時，便會引發如災害般的現象。而合氣道，正是教會我們體認陰陽存在及其重要性的導師。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;世間萬物皆具備表與裏、陰與陽。宇宙中的一切存在，想必也都同時擁有這兩面。當陰陽、表裏的平衡崩潰時，便會引發如災害般的現象。而合氣道，正是教會我們體認陰陽存在及其重要性的導師。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -67,7 +48,4 @@
 <p>這種對於離心力與向心力的感悟，在進行劍的素振練習時也非常容易理解與掌握。一旦抓住了這種感覺，接下來的稽古目標，便是要練就出離心力與向心力合而為一的劍術。</p>
 <p>當你能夠運用離心力與向心力合一的劍，體術技法的運用層次也必然會隨之脫胎換骨。</p>
 <p><a href="http://sasaki-aiki.com/article3_212.php">http://sasaki-aiki.com/article3_212.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

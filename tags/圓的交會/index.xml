@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>圓的交會 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%9C%93%E7%9A%84%E4%BA%A4%E6%9C%83/</link>
-    <description>Recent content in 圓的交會 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%9C%93%E7%9A%84%E4%BA%A4%E6%9C%83/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道の思想と技【第0258回】　圓的交會</title>
-      <link>https://kaku-budo.github.io/blog/aikido/philosophy/part-0201-0300/p-0258-circles-intersecting/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/philosophy/part-0201-0300/p-0258-circles-intersecting/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>圓的交會 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%9C%93%E7%9A%84%E4%BA%A4%E6%9C%83/</link><description>Recent content in 圓的交會 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%9C%93%E7%9A%84%E4%BA%A4%E6%9C%83/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道の思想と技【第0258回】　圓的交會</title><link>https://kaku-budo.github.io/blog/aikido/philosophy/part-0201-0300/p-0258-circles-intersecting/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/philosophy/part-0201-0300/p-0258-circles-intersecting/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過技法的鍛鍊來精進的，但我們必須深入思考：「什麼是技？」、「技應該如何鍛鍊？」這些根本問題。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過技法的鍛鍊來精進的，但我們必須深入思考：「什麼是技？」、「技應該如何鍛鍊？」這些根本問題。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -72,7 +52,4 @@
 圓的動作、圓滑的運行正是合氣的根本動態，也是宇宙的運行方式。施技的人站在地球上，而地球本身就是圓形的，從這層意義上來說，我們的動作也正在參與著圓運動。因為地球圍繞著太陽旋轉，這就是宏觀的圓。</p>
 <p>再進一步說，構成我們身體的原子，其微觀結構也是以圓形運行為主。換言之，合氣技法不只是身體在施技時的動作，更是與微觀世界與宏觀宇宙同步的「圓的交會」。</p>
 <p><a href="https://sasaki-aiki.com/article1_258.php">https://sasaki-aiki.com/article1_258.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

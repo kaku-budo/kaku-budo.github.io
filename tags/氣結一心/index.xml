@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>氣結一心 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%B0%A3%E7%B5%90%E4%B8%80%E5%BF%83/</link>
-    <description>Recent content in 氣結一心 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:46:53 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%B0%A3%E7%B5%90%E4%B8%80%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0312回】 初始之結為生命之要</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0312-initial-connection-key/</link>
-      <pubDate>Sun, 15 Feb 2026 22:46:53 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0312-initial-connection-key/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>氣結一心 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%B0%A3%E7%B5%90%E4%B8%80%E5%BF%83/</link><description>Recent content in 氣結一心 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:53 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%B0%A3%E7%B5%90%E4%B8%80%E5%BF%83/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0312回】 初始之結為生命之要</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0312-initial-connection-key/</link><pubDate>Sun, 15 Feb 2026 22:46:53 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0312-initial-connection-key/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道通常是由兩人一組進行對練稽古。彼此交互施技與受技，透過這樣的方式精進技術。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道通常是由兩人一組進行對練稽古。彼此交互施技與受技，透過這樣的方式精進技術。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -67,7 +48,4 @@
 <p>當稽古對手站在你面前時，還未接觸之前，就必須先以心與對手結合。若不以心連結對方，或逃避對方的氣，就無法建立真正的結合。唯有透過「氣結」，才能讓對方自然地來抓住你的手或肩。</p>
 <p>這個「氣結」是否真正做到，最能直接反映出來的稽古就是「太刀運用法」。讓對手以木刀攻擊，自己則以入身動作來化解對方的打擊。若心未與對手相連，或逃避木刀與對手的氣，便無法化解對方的斬擊，最終只能被擊中。</p>
 <p><a href="https://sasaki-aiki.com/article3_312.php">https://sasaki-aiki.com/article3_312.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

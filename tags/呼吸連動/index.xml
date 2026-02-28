@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>呼吸連動 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E9%80%A3%E5%8B%95/</link>
-    <description>Recent content in 呼吸連動 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E9%80%A3%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0391回】　反側之手的重要性</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0391-aiki-hand-yin-yang/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0391-aiki-hand-yin-yang/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>呼吸連動 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E9%80%A3%E5%8B%95/</link><description>Recent content in 呼吸連動 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%91%BC%E5%90%B8%E9%80%A3%E5%8B%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0391回】　反側之手的重要性</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0391-aiki-hand-yin-yang/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0391-aiki-hand-yin-yang/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道的技雖是以「手」為主來發動，但手的運用並不容易。因為合氣道的技是遵循宇宙法則而生的，要使技正確發揮，手的使用方式也必須符合這一法則。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道的技雖是以「手」為主來發動，但手的運用並不容易。因為合氣道的技是遵循宇宙法則而生的，要使技正確發揮，手的使用方式也必須符合這一法則。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -86,7 +66,4 @@
 <p>看來，「陰」之中蘊含著吸收力、不可測的深沉力量，以及與對方結合成一體的能力。這份看不見卻深具包容的力量，正是合氣道之陰的真意。</p>
 <p>註1：間合：指<strong>時間、空間</strong>與精神上的間距。</p>
 <p><a href="https://sasaki-aiki.com/article3_391.php">https://sasaki-aiki.com/article3_391.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>教導 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%95%99%E5%B0%8E/</link>
-    <description>Recent content in 教導 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%95%99%E5%B0%8E/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0436回】　身體會告訴我們</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0436-body-self-guide/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0436-body-self-guide/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>教導 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%95%99%E5%B0%8E/</link><description>Recent content in 教導 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%95%99%E5%B0%8E/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0436回】　身體會告訴我們</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0436-body-self-guide/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0436-body-self-guide/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;剛入門合氣道的那段時期，先生都是一邊聽著老師與前輩的動作與教誨，一邊努力希望能更接近他們的境界。若當時無視老師與前輩的指導，一味按照自己的方式亂做，那些珍貴的教導應該都無法真正內化。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;剛入門合氣道的那段時期，先生都是一邊聽著老師與前輩的動作與教誨，一邊努力希望能更接近他們的境界。若當時無視老師與前輩的指導，一味按照自己的方式亂做，那些珍貴的教導應該都無法真正內化。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -69,7 +49,4 @@
 <p>過去的經驗與知識，加上鍛錬得來的身體與心，會成為引導。自己的心身會告訴你：這樣比較好、那樣不好、應該這麼做。</p>
 <p>只要去聆聽即可。身體與心會告訴你方向。下回將探討<strong>如何聽見身體的聲音</strong>。</p>
 <p><a href="https://sasaki-aiki.com/article3_436.php">https://sasaki-aiki.com/article3_436.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

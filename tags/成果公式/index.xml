@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>成果公式 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%88%90%E6%9E%9C%E5%85%AC%E5%BC%8F/</link>
-    <description>Recent content in 成果公式 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:03:32 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%88%90%E6%9E%9C%E5%85%AC%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0267回】 技法與力量</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0267-art-times-power/</link>
-      <pubDate>Fri, 20 Feb 2026 19:03:32 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0267-art-times-power/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>成果公式 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%88%90%E6%9E%9C%E5%85%AC%E5%BC%8F/</link><description>Recent content in 成果公式 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:03:32 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%88%90%E6%9E%9C%E5%85%AC%E5%BC%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0267回】 技法與力量</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0267-art-times-power/</link><pubDate>Fri, 20 Feb 2026 19:03:32 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0267-art-times-power/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;​合氣道的稽古是相對稽古，透過雙方交替施展技法來求取精進。然而，進步的程度往往不如期待，對手的強力反抗或是完全不抵抗，都可能導致技法失效。技法無效的理由雖然多種多樣，但其中以技法不完全與力量不足為最大的原因。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;​合氣道的稽古是相對稽古，透過雙方交替施展技法來求取精進。然而，進步的程度往往不如期待，對手的強力反抗或是完全不抵抗，都可能導致技法失效。技法無效的理由雖然多種多樣，但其中以技法不完全與力量不足為最大的原因。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -66,7 +47,4 @@
 <p>自認力量強大的人，往往只是與周遭熟人比較，放眼世界，強者無數。更何況，合氣道追求的不僅是人為的力量，更要將天地的呼吸等自然與宇宙的力量納入技法中。即便個人力量再大，比起颱風、地震等大自然的力量，皆顯得渺小。</p>
 <p><strong>總結技與力的關係：力量是基礎，但在施展技法的當下，應以最小的力來補足技法的轉動</strong>。開祖能將壯男輕易拋飛，恐怕就像是用最小的力氣拿筷子一樣，純粹遵循宇宙法則，將技法發揮出極致的效果。</p>
 <p> http://sasaki-aiki.com/article3_267.ohp</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

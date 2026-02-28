@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>技法要因 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E8%A6%81%E5%9B%A0/</link>
-    <description>Recent content in 技法要因 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sat, 21 Feb 2026 23:51:59 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E8%A6%81%E5%9B%A0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0188回】 理論與實踐</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0188-theory-meet-act/</link>
-      <pubDate>Sat, 21 Feb 2026 23:51:59 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0188-theory-meet-act/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>技法要因 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E8%A6%81%E5%9B%A0/</link><description>Recent content in 技法要因 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sat, 21 Feb 2026 23:51:59 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E8%A6%81%E5%9B%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0188回】 理論與實踐</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0188-theory-meet-act/</link><pubDate>Sat, 21 Feb 2026 23:51:59 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0188-theory-meet-act/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;經由鍛練，使合氣道的練習能進步，如果是漠然的練習，卻是不會進步的。進步是要由進步的練習開始。為了進步，有很多的方法，這次由「理論與實踐」的重要性來切入。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;經由鍛練，使合氣道的練習能進步，如果是漠然的練習，卻是不會進步的。進步是要由進步的練習開始。為了進步，有很多的方法，這次由「理論與實踐」的重要性來切入。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -63,35 +44,24 @@
 <p>所以，實踐與理論兩方面都要兼顧外，也要取得平衡。不是光只有身體的動作，但也不能光用想的、說的練習，這是人不行的。要將自己作的動作理論化，與實踐嘴裏說的技法。</p>
 <p> </p>
 <p><a href="http://sasaki-aiki.com/article3_188.php">http://sasaki-aiki.com/article3_188.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0186回】 技巧的磨練</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0186-find-key-core/</link>
-      <pubDate>Sat, 21 Feb 2026 23:51:57 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0186-find-key-core/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0186回】 技巧的磨練</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0186-find-key-core/</link><pubDate>Sat, 21 Feb 2026 23:51:57 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0186-find-key-core/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道技法的進步與精進要靠技巧的磨練，磨練前，要先想一下，要磨練什麼、要怎樣磨練，這些都要先想好。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道技法的進步與精進要靠技巧的磨練，磨練前，要先想一下，要磨練什麼、要怎樣磨練，這些都要先想好。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -121,7 +91,4 @@
 <p>另一個技法要因概念，在使用技法時，不論技法好做的、還是不好做的，這都包含了技法構成要素。放在別的技法中，如是有效的技法要因時，這也真的技法要因。</p>
 <p>技法的磨練，先從發現「技法要因」，這需與各種不同的對手試過，加自己親身體驗才行。而且這種技法要因，可以同時放在不同的技法上，儘管這種要因可能極小、但也有可能無限大的寶物。所以不管是多小的要因，都要一個一個自己切實的去練習。</p>
 <p><a href="http://sasaki-aiki.com/article3_186.php">http://sasaki-aiki.com/article3_186.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

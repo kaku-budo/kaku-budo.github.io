@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>全身一體 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E4%B8%80%E9%AB%94/</link>
-    <description>Recent content in 全身一體 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:04:15 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E4%B8%80%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0285回】 不攻擊肢體末端</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0285-core-to-edge/</link>
-      <pubDate>Fri, 20 Feb 2026 19:04:15 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0285-core-to-edge/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>全身一體 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E4%B8%80%E9%AB%94/</link><description>Recent content in 全身一體 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:04:15 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E4%B8%80%E9%AB%94/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0285回】 不攻擊肢體末端</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0285-core-to-edge/</link><pubDate>Fri, 20 Feb 2026 19:04:15 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0285-core-to-edge/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;大聯盟的鈴木一朗，其打擊法與業餘選手最大的不同在於：業餘選手往往是從手或臂等肢體末端開始發力；而鈴木一朗則是由身體的中心發動。不論是日本傳統舞蹈、西洋舞或芭蕾也是如此，舞姿卓越者皆是從中心開始運作，反之則是由手腳末端帶動。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;大聯盟的鈴木一朗，其打擊法與業餘選手最大的不同在於：業餘選手往往是從手或臂等肢體末端開始發力；而鈴木一朗則是由身體的中心發動。不論是日本傳統舞蹈、西洋舞或芭蕾也是如此，舞姿卓越者皆是從中心開始運作，反之則是由手腳末端帶動。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -65,35 +46,24 @@
 <p>理想的技法動作應是完全控制對手，若僅是拿住手腳末端，是無法真正掌控大局的。
  </p>
 <p><a href="http://sasaki-aiki.com/article3_285.php">http://sasaki-aiki.com/article3_285.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0276回】 單手抓也用兩手來作</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0276-both-hands-art/</link>
-      <pubDate>Fri, 20 Feb 2026 19:03:54 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0276-both-hands-art/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0276回】 單手抓也用兩手來作</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0276-both-hands-art/</link><pubDate>Fri, 20 Feb 2026 19:03:54 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0276-both-hands-art/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過互相交換「取方」與「受方」的角色來磨練技法。取方所採取的攻擊方式包含徒手與武器，而徒手攻擊則涵蓋了單手抓、兩手抓、雙手抓、正面打、斜打、前打、肩抓等基本形式。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過互相交換「取方」與「受方」的角色來磨練技法。取方所採取的攻擊方式包含徒手與武器，而徒手攻擊則涵蓋了單手抓、兩手抓、雙手抓、正面打、斜打、前打、肩抓等基本形式。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -124,7 +94,4 @@
 <p>兩手的應用是指左右手互為陰陽、交替使用，並配合手腳左右連動。當「陽」開始轉「陰」時，處於等待狀態的「陰」也應同步轉「陽」。例如在單手抓的呼吸法中，單靠被抓的那隻手動作是不夠的，必須與未被抓的另一側手同時連動。</p>
 <p>單手抓必須配合雙手與雙足整體運作。一開始看起來像是只有單手應用的技法，其實本質上都是兩手運用的體現。當我們能自覺地將陰陽帶入兩手抓的應用，並讓雙手協調地帶入技法時，無論是前打或是奪劍等動作，自然都能圓滿達成。</p>
 <p><a href="http://sasaki-aiki.com/article3_276.php">http://sasaki-aiki.com/article3_276.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

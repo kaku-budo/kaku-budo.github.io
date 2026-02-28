@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>結び on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E7%B5%90%E3%81%B3/</link>
-    <description>Recent content in 結び on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E7%B5%90%E3%81%B3/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0467回】　教導法則的基本技之四：「引力的養成」</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0467-gravity-cultivation/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0467-gravity-cultivation/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>結び on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%B5%90%E3%81%B3/</link><description>Recent content in 結び on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%B5%90%E3%81%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0467回】　教導法則的基本技之四：「引力的養成」</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0467-gravity-cultivation/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0467-gravity-cultivation/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;宇宙中的天體各自都有中心，以該中心自轉，而周圍也有較小的天體繞行，彼此以微妙而複雜的方式運作。例如，地球自身自轉，月亮繞著地球運行，而月亮、地球以及其他行星則繞著太陽運行。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;宇宙中的天體各自都有中心，以該中心自轉，而周圍也有較小的天體繞行，彼此以微妙而複雜的方式運作。例如，地球自身自轉，月亮繞著地球運行，而月亮、地球以及其他行星則繞著太陽運行。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -74,7 +54,4 @@
 <p>這次的內容，與其說是「教導法則的基本技」，倒不如說是<strong>以法則為主</strong>。但能教導這些法則的，其實是合氣道所有的技法。也就是說，所有基本技都能學到這些道理。</p>
 <p>若要在其中選一個最適合的，不算技法的話，那就是<strong>呼吸法</strong>。另外，再加上一個雖然不算技，但非常合適的，就是<strong>逆半身單手抓轉換法</strong>。利用引力讓對手的手黏住，不讓對手脫離，再利用離心力帶著對方轉出去。</p>
 <p><a href="https://sasaki-aiki.com/article3_467.php">https://sasaki-aiki.com/article3_467.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

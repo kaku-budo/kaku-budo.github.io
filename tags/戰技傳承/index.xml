@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>戰技傳承 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%88%B0%E6%8A%80%E5%82%B3%E6%89%BF/</link>
-    <description>Recent content in 戰技傳承 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%88%B0%E6%8A%80%E5%82%B3%E6%89%BF/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0503回】　與過去相連結</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0503-aiki-past-link/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0503-aiki-past-link/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>戰技傳承 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%88%B0%E6%8A%80%E5%82%B3%E6%89%BF/</link><description>Recent content in 戰技傳承 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%88%B0%E6%8A%80%E5%82%B3%E6%89%BF/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0503回】　與過去相連結</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0503-aiki-past-link/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0503-aiki-past-link/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;現今世上的事物，並不是憑空突然出現，而是與過去有著延續性的連結。先人們所思考、累積、改良的一切，才造就了我們今日所擁有的事物。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;現今世上的事物，並不是憑空突然出現，而是與過去有著延續性的連結。先人們所思考、累積、改良的一切，才造就了我們今日所擁有的事物。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -71,7 +51,4 @@
 <p><strong>仔細思考這些技法的差異便能理解：從側面去抓住坐著者的雙手是不可能的；而若在正面，只去抓對方的一隻手也是不合情理的</strong>。</p>
 <p>合氣道必須與過去相結。若做出違背先人所建立的古武術、古武道的應有的合理之事，就是背離脈絡。與過去無法連結的事物，也不會延續至未來，終將消失，甚至使身體受傷。先生認為，應透過觀摩古武道演武會等方式，向先人們大力學習。</p>
 <p><a href="https://sasaki-aiki.com/article3_503.php">https://sasaki-aiki.com/article3_503.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

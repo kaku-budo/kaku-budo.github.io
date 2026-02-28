@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>圓運 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%9C%93%E9%81%8B/</link>
-    <description>Recent content in 圓運 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%9C%93%E9%81%8B/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0433回】　將對方納入自己的圓</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0433-circle-merge-flow/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0433-circle-merge-flow/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>圓運 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%9C%93%E9%81%8B/</link><description>Recent content in 圓運 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%9C%93%E9%81%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0433回】　將對方納入自己的圓</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0433-circle-merge-flow/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0433-circle-merge-flow/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道一般是透過彼此對練、互相施技，來磨練技法的武道。當自己施出的技法正確時，受方就會順勢倒下，因此大家&lt;strong&gt;會盡量讓受方比較容易倒&lt;/strong&gt;。然而，若這種想法過度強烈，就會變成：只要對方倒了，就代表自己的技很好，&lt;strong&gt;於是逐漸把重點放在把對方打倒上&lt;/strong&gt;。換言之，使對方倒下本身反而成了稽古的目的。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道一般是透過彼此對練、互相施技，來磨練技法的武道。當自己施出的技法正確時，受方就會順勢倒下，因此大家&lt;strong&gt;會盡量讓受方比較容易倒&lt;/strong&gt;。然而，若這種想法過度強烈，就會變成：只要對方倒了，就代表自己的技很好，&lt;strong&gt;於是逐漸把重點放在把對方打倒上&lt;/strong&gt;。換言之，使對方倒下本身反而成了稽古的目的。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -75,7 +55,4 @@
 <p>圓有橫、有縱，技必須同時運用兩者。這就是所謂<strong>技是圓的動作巡迴</strong>。透過圓的動作巡迴與對方結合，並從雙方共有的圓，導入自己的圓之中，這就是合氣道技法運用的根本。</p>
 <p>註1：ギンギンギラギラ：兩句都是光芒強烈的意思，在此為手部動作要充滿明快、強烈的力道和節奏美感。</p>
 <p><a href="https://sasaki-aiki.com/article3_433.php">https://sasaki-aiki.com/article3_433.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

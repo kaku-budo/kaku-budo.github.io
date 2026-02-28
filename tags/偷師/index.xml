@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>偷師 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%81%B7%E5%B8%AB/</link>
-    <description>Recent content in 偷師 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%81%B7%E5%B8%AB/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0416回】　不是「教導」，而是「實踐」</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0416-practice-self-learn/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0416-practice-self-learn/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>偷師 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%81%B7%E5%B8%AB/</link><description>Recent content in 偷師 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%81%B7%E5%B8%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0416回】　不是「教導」，而是「實踐」</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0416-practice-self-learn/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0416-practice-self-learn/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;無論是什麼事，合氣道也是如此在初學階段時，確實可以「教」與「被教」。但隨著修行的深入，這件事會變得越來越難，最終甚至變得不可能。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;無論是什麼事，合氣道也是如此在初學階段時，確實可以「教」與「被教」。但隨著修行的深入，這件事會變得越來越難，最終甚至變得不可能。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -74,7 +54,4 @@
 不是以教的方式，而是以一生懸命實踐稽古的姿態示範，這，才是真正的教導。</p>
 <p>註1：「技を盗む」與「技は盗め」：「偷師」與「去偷吧！」，前者為原意、後者鼓勵去做。</p>
 <p><a href="https://sasaki-aiki.com/article3_416.php">https://sasaki-aiki.com/article3_416.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>鍛鍊法 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E9%8D%9B%E9%8D%8A%E6%B3%95/</link>
-    <description>Recent content in 鍛鍊法 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E9%8D%9B%E9%8D%8A%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0450回】　合氣稽古的核心所在</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>鍛鍊法 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%8D%9B%E9%8D%8A%E6%B3%95/</link><description>Recent content in 鍛鍊法 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%8D%9B%E9%8D%8A%E6%B3%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0450回】　合氣稽古的核心所在</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;童謠中不是有一句「去時輕鬆，回來害怕」嗎？合氣道的稽古有時也是如此，一開始覺得「輕鬆愉快」，後來卻發現「愈來愈難」，因此必須提高警覺。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;童謠中不是有一句「去時輕鬆，回來害怕」嗎？合氣道的稽古有時也是如此，一開始覺得「輕鬆愉快」，後來卻發現「愈來愈難」，因此必須提高警覺。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -75,37 +55,25 @@
 <p>但這並不容易。<strong>若在氣形稽古中無法做到依法則運動、正確運用身體，就會因用力過度導致對方甩開手、或被彈開，無法與對方結合</strong>。這樣一來需要離心力的呼吸力便無法養成。換言之，<strong>氣形的稽古與鍛鍊法是相互關聯、不能分開的</strong>。</p>
 <p>透過氣形稽古來體得宇宙的法則、培養呼吸力；並讓呼吸力能在氣形稽古中自然養成，這正是先生所理解的：「<strong>合氣的稽古，其核心在於氣形的稽古與鍛鍊法</strong>。」也依此方式持續稽古。</p>
 <p><a href="https://sasaki-aiki.com/article3_450.php">https://sasaki-aiki.com/article3_450.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0452回】　為了培養呼吸力</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0452-breath-force-train/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0452-breath-force-train/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0452回】　為了培養呼吸力</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0452-breath-force-train/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0452-breath-force-train/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在合氣的稽古中，人們常說其核心在於&lt;strong&gt;氣形的稽古與鍛鍊法&lt;/strong&gt;兩者。所謂氣形，是依循宇宙法則所組成的技之形，例如正面打ち一教、片手取り四方投げ等，透過練習這些形，就是&lt;strong&gt;氣形的稽古。而鍛鍊法，則可說是呼吸力的養成&lt;/strong&gt;。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在合氣的稽古中，人們常說其核心在於&lt;strong&gt;氣形的稽古與鍛鍊法&lt;/strong&gt;兩者。所謂氣形，是依循宇宙法則所組成的技之形，例如正面打ち一教、片手取り四方投げ等，透過練習這些形，就是&lt;strong&gt;氣形的稽古。而鍛鍊法，則可說是呼吸力的養成&lt;/strong&gt;。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -147,7 +115,4 @@
 <p>註1：生結：最主要的意義就是，「賦予生命的力量」或「生命的生成」。
 它指的是<strong>促成事物誕生、讓生命延續，或是將分散的生命力連結起來，使其獲得活力</strong>的一種神聖或精神上的力量。</p>
 <p><a href="https://sasaki-aiki.com/article3_452.php">https://sasaki-aiki.com/article3_452.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

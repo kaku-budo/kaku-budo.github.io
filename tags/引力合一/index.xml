@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>引力合一 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%BC%95%E5%8A%9B%E5%90%88%E4%B8%80/</link>
-    <description>Recent content in 引力合一 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%BC%95%E5%8A%9B%E5%90%88%E4%B8%80/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0301回】　不推、不彈</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>引力合一 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%BC%95%E5%8A%9B%E5%90%88%E4%B8%80/</link><description>Recent content in 引力合一 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%BC%95%E5%8A%9B%E5%90%88%E4%B8%80/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0301回】　不推、不彈</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是一門透過「對手練習」來磨練技法的武道。在訓練過程中，施技者(取り)與承受技法者(受け)會輪流交換角色，這種公平且互動的訓練方式極為優秀。然而，在實際稽古時，我們常常不自覺地把注意力集中在「如何將對方摔出去」這件事上，卻忽略了更為根本的重要課題。這正是合氣道修練中常見的盲點。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是一門透過「對手練習」來磨練技法的武道。在訓練過程中，施技者(取り)與承受技法者(受け)會輪流交換角色，這種公平且互動的訓練方式極為優秀。然而，在實際稽古時，我們常常不自覺地把注意力集中在「如何將對方摔出去」這件事上，卻忽略了更為根本的重要課題。這正是合氣道修練中常見的盲點。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -73,7 +53,4 @@
 <p>只要針對上述問題加以改善，就能有效避免推或彈對方。不過，還有一個非常關鍵的要點——那就是「從形的稽古，進入技的稽古」。如果一直停留在「形」的練習階段，難免會依賴外在的力量(如手臂)，進而出現推或彈的現象。</p>
 <p>而當你進入「技」的練習時，對方不再是敵人，而是與自己合而為一，成為身體的一部分。既然對方已經是自己的延伸，自然無需推或彈，因為根本不存在分離的對象。</p>
 <p><a href="https://sasaki-aiki.com/article3_301.php">https://sasaki-aiki.com/article3_301.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

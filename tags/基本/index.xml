@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>基本 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC/</link>
-    <description>Recent content in 基本 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0421回】　同質之中蘊含異質</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0421-same-diff-form/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0421-same-diff-form/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>基本 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC/</link><description>Recent content in 基本 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0421回】　同質之中蘊含異質</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0421-same-diff-form/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0421-same-diff-form/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是一門以「氣形」為根本的武道。也就是說，合氣道的修行以「形稽古」為基礎，透過反覆練習基本形，十年、二十年、三十年……持續精進不輟。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是一門以「氣形」為根本的武道。也就是說，合氣道的修行以「形稽古」為基礎，透過反覆練習基本形，十年、二十年、三十年……持續精進不輟。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -73,37 +53,25 @@
 <p>合氣道正是如此，在不斷重複同質(基本)的稽古中，去發現並體會異質(法則)。不厭其煩、不懈不倦地一遍又一遍稽古。</p>
 <p>練得越深，越能在同質之中領悟出難以想像的異質，並最終使之化為己身的一部分。</p>
 <p><a href="https://sasaki-aiki.com/article3_421.php">https://sasaki-aiki.com/article3_421.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0435回】　重視基本準備動作</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0435-basic-prep-move/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0435-basic-prep-move/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0435回】　重視基本準備動作</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0435-basic-prep-move/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0435-basic-prep-move/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在植芝盛平監修、植芝吉祥丸著的《合氣道技法》中寫道：「所謂基本準備動作，是指進入技法之前的動作。若能充分掌握這些準備動作，之後的技法動作自然會有所不同，由此奠定技法的基礎，所以具有重大的意義。」&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在植芝盛平監修、植芝吉祥丸著的《合氣道技法》中寫道：「所謂基本準備動作，是指進入技法之前的動作。若能充分掌握這些準備動作，之後的技法動作自然會有所不同，由此奠定技法的基礎，所以具有重大的意義。」&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -167,37 +135,25 @@
 <p>希望大家能更加重視基本準備動作，並在稽古中持續精進。</p>
 <p>參考・引用文獻：《合氣道技法》(植芝盛平監修、植芝吉祥丸著)</p>
 <p><a href="https://sasaki-aiki.com/article3_435.php">https://sasaki-aiki.com/article3_435.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0447回】　基本技就是基本</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0447回】　基本技就是基本</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是在相對練習中，反覆稽古基本技而持續精進的武道。&lt;strong&gt;練習的目的並不是追求嶄新的招式，而是對那少數被稱為基本技的形，一遍又一遍反覆稽古&lt;/strong&gt;。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是在相對練習中，反覆稽古基本技而持續精進的武道。&lt;strong&gt;練習的目的並不是追求嶄新的招式，而是對那少數被稱為基本技的形，一遍又一遍反覆稽古&lt;/strong&gt;。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -232,7 +188,4 @@
 <p>如果無法從基本技中生出應用技或變化技，那就代表基本技還不夠成熟。<strong>要讓變化技和應用技能自由運用，就必須更加深入地錘鍊基本技</strong>。</p>
 <p>註1：気の体当たりと体の体当たり：武道追求的是以「氣」來進行高效、無爭的控制，而非使用「體」的蠻力來進行直接的衝撞。</p>
 <p><a href="https://sasaki-aiki.com/article3_447.php">https://sasaki-aiki.com/article3_447.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

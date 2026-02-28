@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>基本步法 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%AD%A5%E6%B3%95/</link>
-    <description>Recent content in 基本步法 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:04:26 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%AD%A5%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0289回】 一個人做不成，兩個人就更不用說了</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0289-solo-train-first/</link>
-      <pubDate>Fri, 20 Feb 2026 19:04:26 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0289-solo-train-first/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>基本步法 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%AD%A5%E6%B3%95/</link><description>Recent content in 基本步法 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:04:26 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%AD%A5%E6%B3%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0289回】 一個人做不成，兩個人就更不用說了</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0289-solo-train-first/</link><pubDate>Fri, 20 Feb 2026 19:04:26 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0289-solo-train-first/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道是在相對稽古中，透過磨練技法以求精進的武道。通常是以兩人一組的方式練習，這確實是非常好的稽古法。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是在相對稽古中，透過磨練技法以求精進的武道。通常是以兩人一組的方式練習，這確實是非常好的稽古法。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -68,37 +49,25 @@
 <p>當然，一人能做到不代表相對稽古就一定能成功，但唯有先完成一人訓練，相對稽古時才有實現的可能性。就算起初做不到，仍要持續練習下去。</p>
 <p>總之，先從自己一個人試著做看看吧。</p>
 <p><a href="http://sasaki-aiki.com/article3_289.php">http://sasaki-aiki.com/article3_289.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0302回】　應做之事與其順序</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0302-order-of-practice/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0302-order-of-practice/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0302回】　應做之事與其順序</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0302-order-of-practice/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0302-order-of-practice/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道沒有比賽，這讓我們很難明確判斷自己的真實實力與程度。也因為沒有競賽，平時少有機會到外地或其他道場交流，導致練習夥伴常常是固定班底，訓練多半侷限在自家道場的縱向關係中。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道沒有比賽，這讓我們很難明確判斷自己的真實實力與程度。也因為沒有競賽，平時少有機會到外地或其他道場交流，導致練習夥伴常常是固定班底，訓練多半侷限在自家道場的縱向關係中。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -140,7 +109,4 @@
 <p>註：「ナンバ歩き」（Namba Aruki），南蠻步法是一種源自日本傳統的獨特步法。<br>
 最廣為人知的定義是：同一側的手和腳同時向前邁出。也就是說，當你右腳向前邁步時，右手臂也同時向前擺動；左腳向前時，左手臂也同時向前擺動。強調的高效、省力、身體中心穩定的移動原則</p>
 <p><a href="https://sasaki-aiki.com/article3_302.php">https://sasaki-aiki.com/article3_302.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

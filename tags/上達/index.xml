@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>上達 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E4%B8%8A%E9%81%94/</link>
-    <description>Recent content in 上達 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E4%B8%8A%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0413回】　理論與實踐</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0413-theory-practice-way/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0413-theory-practice-way/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>上達 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E4%B8%8A%E9%81%94/</link><description>Recent content in 上達 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E4%B8%8A%E9%81%94/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0413回】　理論與實踐</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0413-theory-practice-way/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0413-theory-practice-way/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道並非修行五年或十年就能完全理解的東西，合氣道的修行本身也沒有&lt;strong&gt;到此為止就足夠&lt;/strong&gt;的終點。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道並非修行五年或十年就能完全理解的東西，合氣道的修行本身也沒有&lt;strong&gt;到此為止就足夠&lt;/strong&gt;的終點。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -72,37 +52,25 @@
 <p>要習得依循開祖教誨、符合宇宙條理的技，就必須按照開祖的教導去實踐。並且，在使用技之後，應根據理論加以檢討與修正，持續不斷地改進。</p>
 <p>有趣的是，當能夠理解上述經典內容的程度時，技的運用也往往會同步提升。換言之，要理解聖典、領會合氣道的理論，必須不斷磨練技；而要讓技更上層樓，也必須深化對聖典的理解。理論與實踐相互作用，便能產生相輔相成的效果。</p>
 <p>僅有理論是不足的，沒有理論支撐的技也不正確。必須運用具有理論根據的技，而每一個實際運用的技，也都應有理論作為依據。為此，理論與實踐兩者，缺一不可。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0479回】　 上達 (進步)</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0479-progress-advancement/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0479-progress-advancement/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0479回】　 上達 (進步)</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0479-progress-advancement/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0479-progress-advancement/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;本系列文章的主題是「上達的秘訣」，但這次想先思考「上達」本身的含義。也就是說，上達是什麼？為了上達該怎麼做？等等。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;本系列文章的主題是「上達的秘訣」，但這次想先思考「上達」本身的含義。也就是說，上達是什麼？為了上達該怎麼做？等等。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -136,7 +104,4 @@
 <p><strong>為了上達，必須放開手腳去做。全力、全息、全心投入。然而必須注意不能讓對手受傷或造成困擾</strong>。</p>
 <p>為此，必須遵循法理施技、配合呼吸運用身體，並從腰腹發力，然後在其中盡情全力以赴。</p>
 <p><a href="https://sasaki-aiki.com/article3_479.php">https://sasaki-aiki.com/article3_479.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

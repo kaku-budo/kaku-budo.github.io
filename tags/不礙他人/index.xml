@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>不礙他人 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E4%B8%8D%E7%A4%99%E4%BB%96%E4%BA%BA/</link>
-    <description>Recent content in 不礙他人 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:46:14 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E4%B8%8D%E7%A4%99%E4%BB%96%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0340回】 讓對方容易取受</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0340-easy-ukemi-flow/</link>
-      <pubDate>Sun, 15 Feb 2026 22:46:14 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0340-easy-ukemi-flow/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>不礙他人 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E4%B8%8D%E7%A4%99%E4%BB%96%E4%BA%BA/</link><description>Recent content in 不礙他人 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:14 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E4%B8%8D%E7%A4%99%E4%BB%96%E4%BA%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0340回】 讓對方容易取受</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0340-easy-ukemi-flow/</link><pubDate>Sun, 15 Feb 2026 22:46:14 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0340-easy-ukemi-flow/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;現代社會仍是物質至上、競爭激烈的時代。人們總想擁有比他人更好的東西，或是不願被人超越，於是拚命努力，生活在一個爭奪不息的世界中。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;現代社會仍是物質至上、競爭激烈的時代。人們總想擁有比他人更好的東西，或是不願被人超越，於是拚命努力，生活在一個爭奪不息的世界中。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -71,7 +52,4 @@
 在合氣道中，並非「去投」「去壓」，而是要讓對方「自然而然倒下」。這也是開祖的教誨。當身法、氣息與呼吸力運用得當，便無需強求，對方便會順勢自行倒下。</p>
 <p>當受方能自發地取受時，「讓對方容易取受」這一課題就算初步達成。然而，這項修行並無終點，仍需不斷精進。</p>
 <p><a href="https://sasaki-aiki.com/article3_340.php">https://sasaki-aiki.com/article3_340.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

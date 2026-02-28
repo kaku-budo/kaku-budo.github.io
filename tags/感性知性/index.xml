@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>感性知性 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%84%9F%E6%80%A7%E7%9F%A5%E6%80%A7/</link>
-    <description>Recent content in 感性知性 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%84%9F%E6%80%A7%E7%9F%A5%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0232回】　形態與法度(かたち)</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0232-form-and-law/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0232-form-and-law/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>感性知性 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%84%9F%E6%80%A7%E7%9F%A5%E6%80%A7/</link><description>Recent content in 感性知性 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%84%9F%E6%80%A7%E7%9F%A5%E6%80%A7/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0232回】　形態與法度(かたち)</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0232-form-and-law/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0232-form-and-law/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;儘管開祖曾言合氣道是「無形」的，但合氣道畢竟是透過技法的磨練來精進，而所謂技法，如一教或四方摔，皆有其特定的「形態」。因此，合氣道的技法理應是有形的。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;儘管開祖曾言合氣道是「無形」的，但合氣道畢竟是透過技法的磨練來精進，而所謂技法，如一教或四方摔，皆有其特定的「形態」。因此，合氣道的技法理應是有形的。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -71,7 +51,4 @@
 <p>最終，我們要從「形」之中提煉出本質，即宇宙運行的一絲條理。</p>
 <p>「形」雖然極其重要，卻非最終目標。這或許就是開祖所說的「無形」的真意。「形」是修行的必要條件而非充分條件，但它絕對是不可或缺的「MUST」。</p>
 <p><a href="http://sasaki-aiki.com/article3_232.php">http://sasaki-aiki.com/article3_232.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

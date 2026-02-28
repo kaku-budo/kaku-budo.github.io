@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>目標 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E7%9B%AE%E6%A8%99/</link>
-    <description>Recent content in 目標 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E7%9B%AE%E6%A8%99/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0400回】　全力以赴</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0400-full-out-effort/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0400-full-out-effort/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>目標 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%9B%AE%E6%A8%99/</link><description>Recent content in 目標 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%9B%AE%E6%A8%99/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0400回】　全力以赴</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0400-full-out-effort/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0400-full-out-effort/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是一門透過技法的錘鍊而精進、進步的武道。而要有所精進與上達，必須先有「目標」。因為正是有了明確的目標，才會努力讓自己一步步接近那個方向，持續成長。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是一門透過技法的錘鍊而精進、進步的武道。而要有所精進與上達，必須先有「目標」。因為正是有了明確的目標，才會努力讓自己一步步接近那個方向，持續成長。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -69,37 +49,25 @@
 <p>開祖曾說過：「合氣道必須每日變化。」我認為，這正暗示了這一點。</p>
 <p>將所學的內容(無論是宇宙的法則、呼吸的力量)，在技中充分運用，毫無保留地釋放出來，然後再吸收新的東西。這樣的循環，正是合氣道中真正的「上達」。</p>
 <p><a href="https://sasaki-aiki.com/article3_400.php">https://sasaki-aiki.com/article3_400.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0425回】　小中大・近中遠的目標</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0425回】　小中大・近中遠的目標</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道中&lt;strong&gt;沒有做到這裡就結束&lt;/strong&gt;這回事。它不像運動或演藝界，不會有所謂的引退宣言。就算努力到極致，仍會覺得還有尚未做到的部分；而當覺得&lt;strong&gt;做到這裡就是極限了&lt;/strong&gt;時，也只能靜靜淡出。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道中&lt;strong&gt;沒有做到這裡就結束&lt;/strong&gt;這回事。它不像運動或演藝界，不會有所謂的引退宣言。就算努力到極致，仍會覺得還有尚未做到的部分；而當覺得&lt;strong&gt;做到這裡就是極限了&lt;/strong&gt;時，也只能靜靜淡出。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -137,7 +105,4 @@
 <p>也就是說，先達成小／近目標，再前往中目標，最終通往大／遠的目標。但若沒有遠大的大目標，中目標與小目標便無法成立；這樣的稽古最終也會變成沒有方向的練習。</p>
 <p>註1：<strong>生產び：指陰陽、精神與物質、己方與對手之間完美地融合、調和，從而產生出新的、圓滿的創造性力量的法則</strong>。</p>
 <p><a href="https://sasaki-aiki.com/article3_425.php">https://sasaki-aiki.com/article3_425.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>容許失敗 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%AE%B9%E8%A8%B1%E5%A4%B1%E6%95%97/</link>
-    <description>Recent content in 容許失敗 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:02:59 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%AE%B9%E8%A8%B1%E5%A4%B1%E6%95%97/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0241回】 當下固然重要，卻非全部</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0241-grow-into-future/</link>
-      <pubDate>Fri, 20 Feb 2026 19:02:59 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0241-grow-into-future/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>容許失敗 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%AE%B9%E8%A8%B1%E5%A4%B1%E6%95%97/</link><description>Recent content in 容許失敗 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:59 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%AE%B9%E8%A8%B1%E5%A4%B1%E6%95%97/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0241回】 當下固然重要，卻非全部</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0241-grow-into-future/</link><pubDate>Fri, 20 Feb 2026 19:02:59 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0241-grow-into-future/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過技法鍛鍊來精進的過程，因此在稽古或鍛鍊的每一個瞬間，都必須傾注靈魂、拼命努力。也就是說，必須極度重視「當下」這一刻。若是以散漫或偷懶的態度練習，將一無所獲，既無法精進，也無法延續到明天。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過技法鍛鍊來精進的過程，因此在稽古或鍛鍊的每一個瞬間，都必須傾注靈魂、拼命努力。也就是說，必須極度重視「當下」這一刻。若是以散漫或偷懶的態度練習，將一無所獲，既無法精進，也無法延續到明天。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -65,7 +46,4 @@
 <p>合氣道雖然也重視當下的每一場稽古，但 <strong>「現在做不到」是情有可原的，只要「將來能做到」即可。</strong> 當然，這不代表可以漫無目的地練習；你必須從當下的失敗中學習，在試錯中尋求突破，進行一場朝向未來的稽古。這就是所謂的：「當下固然重要，卻非全部」。</p>
 <p>堅信自己總有一天會成功，不急躁地進行與明天接軌的稽古，這才是最重要的態度。</p>
 <p><a href="http://sasaki-aiki.com/article3_241.php">http://sasaki-aiki.com/article3_241.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

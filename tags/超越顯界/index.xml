@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>超越顯界 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E8%B6%85%E8%B6%8A%E9%A1%AF%E7%95%8C/</link>
-    <description>Recent content in 超越顯界 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:04:29 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E8%B6%85%E8%B6%8A%E9%A1%AF%E7%95%8C/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0290回】 不是點而是線的稽古</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0290-line-style-train/</link>
-      <pubDate>Fri, 20 Feb 2026 19:04:29 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0290-line-style-train/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>超越顯界 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%B6%85%E8%B6%8A%E9%A1%AF%E7%95%8C/</link><description>Recent content in 超越顯界 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:04:29 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%B6%85%E8%B6%8A%E9%A1%AF%E7%95%8C/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0290回】 不是點而是線的稽古</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0290-line-style-train/</link><pubDate>Fri, 20 Feb 2026 19:04:29 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0290-line-style-train/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;在繁忙的現代社會裡，要能持續合氣道稽古並非易事。從早到晚不停工作，生活幾乎沒有假期，一週裡能有一兩天參與稽古，想必都是經過辛苦安排的。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在繁忙的現代社會裡，要能持續合氣道稽古並非易事。從早到晚不停工作，生活幾乎沒有假期，一週裡能有一兩天參與稽古，想必都是經過辛苦安排的。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -66,7 +47,4 @@
 <p>即便是一個人練習，也不再是單獨的。這是一種將自己從顯界帶入看不見世界的儀式，也是一種準備。我們在道館也應進入那個世界，與過去、現在、未來相繫，讓練習成為真正的線狀。</p>
 <p> 
 <a href="http://sasaki-aiki.com/article3_290.php">http://sasaki-aiki.com/article3_290.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

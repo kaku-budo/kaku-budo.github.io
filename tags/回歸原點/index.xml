@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>回歸原點 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%9B%9E%E6%AD%B8%E5%8E%9F%E9%BB%9E/</link>
-    <description>Recent content in 回歸原點 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%9B%9E%E6%AD%B8%E5%8E%9F%E9%BB%9E/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0238回】　回歸原點</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0238-back-to-source/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0238-back-to-source/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>回歸原點 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%9B%9E%E6%AD%B8%E5%8E%9F%E9%BB%9E/</link><description>Recent content in 回歸原點 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%9B%9E%E6%AD%B8%E5%8E%9F%E9%BB%9E/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0238回】　回歸原點</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0238-back-to-source/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0238-back-to-source/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道不以勝負為目的，也沒有比賽。正因如此，修習者能不勉強、配合自己的步調進行稽古。加上基本技的數量不算繁多，任何人只要花上幾年都能記住招式，這也是為什麼合氣道能吸引不分男女、從孩童到高齡者廣泛參與的原因。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道不以勝負為目的，也沒有比賽。正因如此，修習者能不勉強、配合自己的步調進行稽古。加上基本技的數量不算繁多，任何人只要花上幾年都能記住招式，這也是為什麼合氣道能吸引不分男女、從孩童到高齡者廣泛參與的原因。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -74,37 +54,25 @@
 <p>此外，對合氣道基本用語的研究也必不可少。過去或許只是習以為常地聽著，現在則要深究其意：何謂合氣道？何謂合氣？何謂「技」？一教、二教、三教的差別在哪？呼吸法與技法的界線在哪？值得探究的問題無窮無盡。</p>
 <p>只要能察覺到「自己其實還一無所知」，就是最好的開始。從原點出發，雖然短期內看起來像是後退，但隨後的進步速度必將超越以往。雖然無法保證結果，但你定能從中看見新的可能性。</p>
 <p><a href="http://sasaki-aiki.com/article3_238.php">http://sasaki-aiki.com/article3_238.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0366回】　擁有勇氣</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0366-courage-to-change/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0366-courage-to-change/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0366回】　擁有勇氣</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0366-courage-to-change/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0366-courage-to-change/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在人類社會中生活，有時需要勇氣；而在合氣之道上前進，更需要非凡的勇氣。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在人類社會中生活，有時需要勇氣；而在合氣之道上前進，更需要非凡的勇氣。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -151,7 +119,4 @@
 <p>註1：體當：たいあたり(Tai Atari)用身體撞擊／衝撞對手的軀幹或身體重心。於合氣道指的是一種深切入對手空間的動作，目的並非撞傷對手，而是：破壞對手平衡(崩し/ Kuzushi)：透過身體進入對手的圓心，切斷其力量線。
 或是接續技法：在當身(当て身/ Atemi，打擊)之後，立即用身體接觸並控制對手，引導進入投技。</p>
 <p><a href="https://sasaki-aiki.com/article3_366.php">https://sasaki-aiki.com/article3_366.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

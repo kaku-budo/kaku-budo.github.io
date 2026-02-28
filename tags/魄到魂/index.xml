@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>魄到魂 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E9%AD%84%E5%88%B0%E9%AD%82/</link>
-    <description>Recent content in 魄到魂 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E9%AD%84%E5%88%B0%E9%AD%82/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0471回】　心的稽古</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0471-mind-heart-training/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0471-mind-heart-training/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>魄到魂 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%AD%84%E5%88%B0%E9%AD%82/</link><description>Recent content in 魄到魂 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%AD%84%E5%88%B0%E9%AD%82/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0471回】　心的稽古</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0471-mind-heart-training/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0471-mind-heart-training/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道與先生剛開始所想像的完全不同，它其實極為複雜、細膩且深奧。最近才真正深刻體會到這一點。直到不久前，仍然只要技一使出、對方能倒下就滿足，彷彿整個稽古就是為了把對方擊倒而存在。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道與先生剛開始所想像的完全不同，它其實極為複雜、細膩且深奧。最近才真正深刻體會到這一點。直到不久前，仍然只要技一使出、對方能倒下就滿足，彷彿整個稽古就是為了把對方擊倒而存在。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -67,37 +47,25 @@
 <p>起初，這些重點主題往往一下子就被拋到腦後，稽古結束後才懊悔不已。一旦想著<strong>要把對方放倒、要把技完成</strong>，原本該練習的主題就會被遺忘，心也會因此變得紛亂。這正是心的課題，也是心的稽古。</p>
 <p><strong>初學者必須扎實進行做了、被做的肉體稽古，但高段者則必須踏入心的稽古</strong>，這是先生的想法。</p>
 <p><a href="https://sasaki-aiki.com/article3_471.php">https://sasaki-aiki.com/article3_471.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0497回】　從魄走向魂的稽古</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0497--beyond-physical-power/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0497--beyond-physical-power/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0497回】　從魄走向魂的稽古</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0497--beyond-physical-power/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0497--beyond-physical-power/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過相對的技法彼此切磋而精進的武道。雖然也會有獨自揮動劍、杖，或是藉由登山、山中修行來磨練的時候，但最終為了驗證這些成果，仍需面對他人，因此只靠一個人是無法真正精進的。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過相對的技法彼此切磋而精進的武道。雖然也會有獨自揮動劍、杖，或是藉由登山、山中修行來磨練的時候，但最終為了驗證這些成果，仍需面對他人，因此只靠一個人是無法真正精進的。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -141,7 +109,4 @@
 <p>進入魂的世界後，心與身體結合，魂魄合一。開祖指出，這才是真正的武。</p>
 <p>今後唯有不斷試誤、失敗，反覆進行魂之世界的稽古，以真正的武為目標，在回想開祖的技與動作的同時，持續精進下去。</p>
 <p><a href="https://sasaki-aiki.com/article3_497.php">https://sasaki-aiki.com/article3_497.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

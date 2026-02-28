@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>武道昇華 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%98%87%E8%8F%AF/</link>
-    <description>Recent content in 武道昇華 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:45:02 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%98%87%E8%8F%AF/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0386回】 不否定過去的修行，而以此為基礎再進化</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0386-aiki-evolve-base/</link>
-      <pubDate>Sun, 15 Feb 2026 22:45:02 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0386-aiki-evolve-base/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>武道昇華 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%98%87%E8%8F%AF/</link><description>Recent content in 武道昇華 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:45:02 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%98%87%E8%8F%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0386回】 不否定過去的修行，而以此為基礎再進化</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0386-aiki-evolve-base/</link><pubDate>Sun, 15 Feb 2026 22:45:02 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0386-aiki-evolve-base/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;以往的武道，乃至今日普遍的武道，多半重視勝負，核心在於「如何打敗敵人」。一旦被對手擊敗，就意味著結束。勝敗強弱，決定了一切階級與評價。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;以往的武道，乃至今日普遍的武道，多半重視勝負，核心在於「如何打敗敵人」。一旦被對手擊敗，就意味著結束。勝敗強弱，決定了一切階級與評價。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -73,7 +54,4 @@
 <p>然而，即使吸氣時下壓效果更好，也<strong>不應否定最初的吐氣動作</strong>。當能順利在吸氣中完成動作後，下一步應進入「生成之呼吸」。也就是「吐、吸、再吐」的循環。</p>
 <p>起初，先慢慢吐氣進行動作，這是最基本的呼吸法。以此為基礎，再進一步在吸氣中持續動作，最後在結尾將氣完全吐盡。換言之，<strong>單靠最初的吐氣是不足的，但它正是改變與進化的根基</strong>。</p>
 <p><a href="https://sasaki-aiki.com/article3_386.php">https://sasaki-aiki.com/article3_386.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

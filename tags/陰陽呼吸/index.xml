@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>陰陽呼吸 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%91%BC%E5%90%B8/</link>
-    <description>Recent content in 陰陽呼吸 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%91%BC%E5%90%B8/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0491回】　將法則融入技中</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0491-embed-universal-law/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0491-embed-universal-law/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>陰陽呼吸 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%91%BC%E5%90%B8/</link><description>Recent content in 陰陽呼吸 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%91%BC%E5%90%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0491回】　將法則融入技中</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0491-embed-universal-law/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0491-embed-universal-law/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過技的錘鍊來精進，而這些錘鍊的技本身具有符合宇宙運行與條理的法則。因此，磨練技法的過程，就是把宇宙的運行方式內化到自身，也等於是更靠近宇宙。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過技的錘鍊來精進，而這些錘鍊的技本身具有符合宇宙運行與條理的法則。因此，磨練技法的過程，就是把宇宙的運行方式內化到自身，也等於是更靠近宇宙。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -80,7 +60,4 @@
 <p>以二教裏為例，<strong>陰陽與呼吸等法則</strong>在此得以內化，而接著便應將這些規則應用到其他技(形)之中。對於不擅長或一直做不順的形(例如一教、入身投げ)，甚至是初次接觸的形，都可以用<strong>手足的左右陰陽運用與天地呼吸、潮の干満</strong>等法則來施行。</p>
 <p>先生認為，在相對的形稽古中，以<strong>把對手放倒</strong>為目標的階段只屬於初心者。接下來應進入<strong>將法則融入技中、讓技本身充滿法則的稽古方式。</strong></p>
 <p><a href="https://sasaki-aiki.com/article3_491.php">https://sasaki-aiki.com/article3_491.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>重心後置 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%BE%8C%E7%BD%AE/</link>
-    <description>Recent content in 重心後置 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%BE%8C%E7%BD%AE/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0309回】　不要讓雙腳妨礙技法</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0309-leg-interference-free/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0309-leg-interference-free/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>重心後置 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%BE%8C%E7%BD%AE/</link><description>Recent content in 重心後置 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%BE%8C%E7%BD%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0309回】　不要讓雙腳妨礙技法</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0309-leg-interference-free/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0309-leg-interference-free/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過技法的鍛鍊，去除身體的雜質，增強力量，逐步培養出合氣道特有的身體素質。對初學者而言，這裡所說的「力量」，多半是指所謂的「臂力」。因此，尤其是年輕的初學者，應該用盡全力在稽古，以培養出必要的力量。千萬不要被「合氣道不需要力量」這種迷思所誤導，應該努力訓練，以確實建立體力基礎。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過技法的鍛鍊，去除身體的雜質，增強力量，逐步培養出合氣道特有的身體素質。對初學者而言，這裡所說的「力量」，多半是指所謂的「臂力」。因此，尤其是年輕的初學者，應該用盡全力在稽古，以培養出必要的力量。千萬不要被「合氣道不需要力量」這種迷思所誤導，應該努力訓練，以確實建立體力基礎。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -71,7 +51,4 @@
 <p>技法是靠腳來完成，這句話沒錯，但若只是一味快速跨出步伐，或者過早將重心壓在即將邁出的前腳上，腳反而成為了技法的阻礙。所以，必須時時提醒自己，不要讓腳妨礙技法的發揮。</p>
 <p>註1：肘決：利用槓桿或壓力控制對手手肘關節的技術。</p>
 <p><a href="https://sasaki-aiki.com/article3_309.php">https://sasaki-aiki.com/article3_309.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

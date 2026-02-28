@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>神業鍛錬 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E7%A5%9E%E6%A5%AD%E9%8D%9B%E9%8C%AC/</link>
-    <description>Recent content in 神業鍛錬 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E7%A5%9E%E6%A5%AD%E9%8D%9B%E9%8C%AC/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0494回】　技化為業</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0494-waza-to-waza/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0494-waza-to-waza/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>神業鍛錬 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%A5%9E%E6%A5%AD%E9%8D%9B%E9%8C%AC/</link><description>Recent content in 神業鍛錬 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%A5%9E%E6%A5%AD%E9%8D%9B%E9%8C%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0494回】　技化為業</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0494-waza-to-waza/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0494-waza-to-waza/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在合氣道中，「わざ」這個詞有兩種漢字寫法：「技」與「業」。一般情況下多使用「技」。例如：關節技、施展技法、技的錘鍊、創造技法、技的形、奧技、禊技、妙技等。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在合氣道中，「わざ」這個詞有兩種漢字寫法：「技」與「業」。一般情況下多使用「技」。例如：關節技、施展技法、技的錘鍊、創造技法、技的形、奧技、禊技、妙技等。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -72,7 +52,4 @@
 <p>註1：小戸(おど/ Odo)：在日本神話中，通常指的是位於日向國(今宮崎縣)的某個地點，相傳是日本皇室祖先神武天皇誕生和成長的地方。這個地點被視為是<strong>神聖且充滿靈氣</strong>的場所。</p>
 <p>註2：四苦八苦：源自佛教的日文成語，但它已經被廣泛應用到日常生活中，用來形容<strong>極度痛苦、極度困難</strong>的狀態。「生、老、病、死」四苦之外，再加上四種與人際關係和慾望相關的痛苦：愛別離、苦怨憎會苦、求不得苦、五陰盛苦。</p>
 <p><a href="https://sasaki-aiki.com/article3_494.php">https://sasaki-aiki.com/article3_494.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

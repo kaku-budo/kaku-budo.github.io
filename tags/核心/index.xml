@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>核心 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83/</link>
-    <description>Recent content in 核心 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0447回】　基本技就是基本</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>核心 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83/</link><description>Recent content in 核心 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0447回】　基本技就是基本</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0447-basic-core-skill/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是在相對練習中，反覆稽古基本技而持續精進的武道。&lt;strong&gt;練習的目的並不是追求嶄新的招式，而是對那少數被稱為基本技的形，一遍又一遍反覆稽古&lt;/strong&gt;。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是在相對練習中，反覆稽古基本技而持續精進的武道。&lt;strong&gt;練習的目的並不是追求嶄新的招式，而是對那少數被稱為基本技的形，一遍又一遍反覆稽古&lt;/strong&gt;。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -71,7 +51,4 @@
 <p>如果無法從基本技中生出應用技或變化技，那就代表基本技還不夠成熟。<strong>要讓變化技和應用技能自由運用，就必須更加深入地錘鍊基本技</strong>。</p>
 <p>註1：気の体当たりと体の体当たり：武道追求的是以「氣」來進行高效、無爭的控制，而非使用「體」的蠻力來進行直接的衝撞。</p>
 <p><a href="https://sasaki-aiki.com/article3_447.php">https://sasaki-aiki.com/article3_447.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>自身精進 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E8%87%AA%E8%BA%AB%E7%B2%BE%E9%80%B2/</link>
-    <description>Recent content in 自身精進 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E8%BA%AB%E7%B2%BE%E9%80%B2/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0306回】　讓合氣道之「技」發揮效用</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0306-waza-effect-key/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0306-waza-effect-key/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>自身精進 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%87%AA%E8%BA%AB%E7%B2%BE%E9%80%B2/</link><description>Recent content in 自身精進 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E8%BA%AB%E7%B2%BE%E9%80%B2/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0306回】　讓合氣道之「技」發揮效用</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0306-waza-effect-key/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0306-waza-effect-key/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道的基礎是在道場的稽古，通常是攻防雙方輪流交替進行的對練。儘管我們常被教導「合氣道不爭勝負、不比優劣」，但在真正領悟這層道理之前，練習時難免還是會以對手為意識對象。換句話說，我們很容易陷入一種只想讓對方倒下的技術施展中。一旦發現「技」無法奏效，便會感到焦躁，甚至失去自信。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道的基礎是在道場的稽古，通常是攻防雙方輪流交替進行的對練。儘管我們常被教導「合氣道不爭勝負、不比優劣」，但在真正領悟這層道理之前，練習時難免還是會以對手為意識對象。換句話說，我們很容易陷入一種只想讓對方倒下的技術施展中。一旦發現「技」無法奏效，便會感到焦躁，甚至失去自信。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -79,7 +59,4 @@
 <p>這意味著，稽古是為了自身的精進上達，而非為了與他人比較強弱。舉例來說，練習二教後方(二教裏)時，若想鎖住對方手腕卻做不到，與其強行制住，不如先專注於用自己的指力去壓緊對方的手腕。這樣反而能鍛鍊自身手指的力量。總有一天，指力會更強，屆時二教後方(二教裏)的效用也會隨之提升。</p>
 <p>只要專注於自身的稽古，即使進步緩慢，也一定能讓技術效果逐漸發揮效用。</p>
 <p><a href="https://sasaki-aiki.com/article3_306.php">https://sasaki-aiki.com/article3_306.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

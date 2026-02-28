@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>水火結 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%B0%B4%E7%81%AB%E7%B5%90/</link>
-    <description>Recent content in 水火結 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%B0%B4%E7%81%AB%E7%B5%90/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道の思想と技【第0413回】　摩擦連行作用</title>
-      <link>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0413-aiki-friction-flow/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0413-aiki-friction-flow/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>水火結 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%B0%B4%E7%81%AB%E7%B5%90/</link><description>Recent content in 水火結 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%B0%B4%E7%81%AB%E7%B5%90/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道の思想と技【第0413回】　摩擦連行作用</title><link>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0413-aiki-friction-flow/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/philosophy/part-0401-0500/p-0413-aiki-friction-flow/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在上一回〈連結呼吸與天地的共鳴〉中，談到了邁向武產合氣的技法運用，以及合氣妙用的初步。本次則接續上一回，說明當能運用合氣妙用後，技會如何改變。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在上一回〈連結呼吸與天地的共鳴〉中，談到了邁向武產合氣的技法運用，以及合氣妙用的初步。本次則接續上一回，說明當能運用合氣妙用後，技會如何改變。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -70,7 +50,4 @@
 <p>當能產生摩擦連行作用後，對方的體力、臂力便不再構成主要影響。無論體型大小，對方都會被帶起、帶落。此時，便能感覺自己已從「魄的稽古」走出，開始進入「武產合氣」的稽古。</p>
 <p>因此先生認為，也正是因為如此，<strong>合氣道才會被說成不需要力量</strong>。</p>
 <p><a href="https://sasaki-aiki.com/article1_413.php">https://sasaki-aiki.com/article1_413.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,44 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>武道隨筆 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/blog/</link>
-    <description>Recent content in 武道隨筆 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>不當刺擊技法(突き技)可能導致之重大事故</title>
-      <link>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>武道隨筆 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/blog/</link><description>Recent content in 武道隨筆 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>不當刺擊技法(突き技)可能導致之重大事故</title><link>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://kaku-budo.github.io/images/kendo/k-01-0001-20260224_AJKF-notice.webp&#34; alt=&#34;置中圖片&#34; width=&#34;200&#34;&gt;
-&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;&lt;img alt="置中圖片" loading="lazy" src="https://kaku-budo.github.io/images/kendo/k-01-0001-20260224_AJKF-notice.webp"&gt;
+不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -60,10 +39,8 @@
   }
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 </style>
-<p align="center">
-  <img src="/images/kendo/k-01-0001-20260224_AJKF-notice.webp" alt="置中圖片" width="200">
-</p>
-<h1 id="不當刺擊技法突き技可能導致之重大事故--全日本剣道連盟医科学委員会-編輯">不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯</h1>
+<p><img alt="置中圖片" loading="lazy" src="/images/kendo/k-01-0001-20260224_AJKF-notice.webp">
+不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯</p>
 <h3 id="i-刺擊技法的特性">I. 刺擊技法的特性</h3>
 <p>刺擊技法造成的外傷與其他招式不同，具有以下特徵：</p>
 <ol>
@@ -94,7 +71,7 @@
 <h3 id="iv-偏離打突部位時可能發生的重大事故與注意點">IV. 偏離打突部位時可能發生的重大事故與注意點</h3>
 <h4 id="1-頸動脈-可能引發動脈剝離腦栓塞">1. 頸動脈 (可能引發：動脈剝離、腦栓塞) <br></h4>
 <ul>
-<li><strong>說明：</strong> 在頸部，名為頸動脈的粗大血管運行於相對淺層的位置。雖然大部分區域受到「胸鎖乳突肌」的保護，但在中段以上的部位，仍有部分血管未被肌肉覆蓋。若竹刀從面部的縫隙刺入此部位，可能會形成稱為血栓的血塊，隨血流進入大腦引發腦栓塞，或造成血管壁裂開的「動脈剝離」(圖 3)。</li>
+<li><strong>說明：</strong> 在頸部，名為頸動脈的粗大血管運行於相對淺層的位置。雖然大部分區域受到「胸鎖乳突肌」的保護，但在中段以上的部位，仍有部分血管未被肌肉覆蓋。若竹刀從面部的縫隙刺入此部位，可能會形成稱為血栓的血塊，隨血流進入大腦引發腦栓塞，或造成血管壁裂開的「<strong>動脈剝離</strong>」(圖 3)。</li>
 </ul>
 <p><strong>【圖 3：頸動脈血栓與剝離】</strong> <br>
 <img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_3.webp"> <br>
@@ -163,7 +140,4 @@
 <p>※ 關於「腦震盪」的詳細資訊，請參考此處。</p>
 <p><strong>譯後註記：</strong>
 劍道練習中的刺擊 (Tsuki) 是一項高階且具風險的技術。希望透過此文，能讓同好更深刻理解「安全防護」與「精準控刀」的重要性。</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

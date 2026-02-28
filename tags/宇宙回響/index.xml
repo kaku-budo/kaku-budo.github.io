@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>宇宙回響 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E5%AE%87%E5%AE%99%E5%9B%9E%E9%9F%BF/</link>
-    <description>Recent content in 宇宙回響 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E5%AE%87%E5%AE%99%E5%9B%9E%E9%9F%BF/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0321回】　重視並磨練「勘」</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0321-polish-intuition-path/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0321-polish-intuition-path/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>宇宙回響 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%AE%87%E5%AE%99%E5%9B%9E%E9%9F%BF/</link><description>Recent content in 宇宙回響 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%AE%87%E5%AE%99%E5%9B%9E%E9%9F%BF/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0321回】　重視並磨練「勘」</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0321-polish-intuition-path/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0321-polish-intuition-path/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在稽古、日常生活或工作中，總會有某種力量指出問題、給予解決方法，或告訴你這樣好那樣不好、哪一種方式更佳。有時甚至會出現一些自己原本想不到的點子，像靈光一閃般湧現。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在稽古、日常生活或工作中，總會有某種力量指出問題、給予解決方法，或告訴你這樣好那樣不好、哪一種方式更佳。有時甚至會出現一些自己原本想不到的點子，像靈光一閃般湧現。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -83,7 +63,4 @@
 據說，植芝盛平曾說過：「如果明白了山彥の道，那合氣道就畢業了。」這句話並不是指可以停止練習，而是表示你已經掌握了合氣道最核心的精髓。這條道路是合氣道的終極目標，也是修行者一輩子追求的境界。<br>
 總結來說，「山彥の道」是一種高度抽象且富有哲學意味的合氣道概念。它最貼切的中文翻譯可以是「回音之道」或「共鳴反射之道」，它指的是一種透過心靈共鳴，順應並反射對手力量，最終達到和合的修行境界。</p>
 <p><a href="https://sasaki-aiki.com/article3_321.php">https://sasaki-aiki.com/article3_321.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

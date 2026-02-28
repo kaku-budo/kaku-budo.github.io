@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>認識自我 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E8%AA%8D%E8%AD%98%E8%87%AA%E6%88%91/</link>
-    <description>Recent content in 認識自我 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:02:53 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E8%AA%8D%E8%AD%98%E8%87%AA%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0239回】 本質與目的</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0239-aim-at-truth/</link>
-      <pubDate>Fri, 20 Feb 2026 19:02:53 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0239-aim-at-truth/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>認識自我 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%AA%8D%E8%AD%98%E8%87%AA%E6%88%91/</link><description>Recent content in 認識自我 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:53 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%AA%8D%E8%AD%98%E8%87%AA%E6%88%91/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0239回】 本質與目的</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0239-aim-at-truth/</link><pubDate>Fri, 20 Feb 2026 19:02:53 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0239-aim-at-truth/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;在任何學習的過程中，往往會在某個點陷入僵局，導致無法前進而最終選擇放棄。合氣道雖然入門者眾多，但能持之以恆的人卻相對較少，原因雖多，但先生認為大多數情況是因為在稽古中遇到了無法克服的停滯感。之所以這麼說，是因為在道場中常看到許多學員正進行著那種「注定會走向死胡同」的練習。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在任何學習的過程中，往往會在某個點陷入僵局，導致無法前進而最終選擇放棄。合氣道雖然入門者眾多，但能持之以恆的人卻相對較少，原因雖多，但先生認為大多數情況是因為在稽古中遇到了無法克服的停滯感。之所以這麼說，是因為在道場中常看到許多學員正進行著那種「注定會走向死胡同」的練習。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -64,7 +45,4 @@
 <p>首先，我們必須思考：所磨鍊的「技」究竟是什麼？請注意，這不僅僅是指招式的輪廓(型)。技法被視為宇宙法則的體現，我將其稱為「<strong>技之要因(技之要素)</strong>」。也就是說，技法的磨鍊，本質上是去發掘那無數存在的「技之要因」，並將其內化於自身。<strong>發掘並內化這些要因，才是稽古的具體目的</strong>。</p>
 <p>無論是在商業領域還是藝能學習，成功的關鍵都在於：洞察本質、確立目標，並從成千上萬的變數中抽取出作為手段的「目的要因」，最後付諸實行。若看不見本質，或誤判了目的與手段，自然無法獲得好的結果，最終只能選擇放棄(Give up)。</p>
 <p><a href="http://sasaki-aiki.com/article3_239.php">http://sasaki-aiki.com/article3_239.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

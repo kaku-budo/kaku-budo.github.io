@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>產生要素 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E7%94%A2%E7%94%9F%E8%A6%81%E7%B4%A0/</link>
-    <description>Recent content in 產生要素 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Feb 2026 22:46:37 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E7%94%A2%E7%94%9F%E8%A6%81%E7%B4%A0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0326回】 呼吸力的鍛鍊</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0326-kokyu-power-train/</link>
-      <pubDate>Sun, 15 Feb 2026 22:46:37 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0326-kokyu-power-train/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>產生要素 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%94%A2%E7%94%9F%E8%A6%81%E7%B4%A0/</link><description>Recent content in 產生要素 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:37 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%94%A2%E7%94%9F%E8%A6%81%E7%B4%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0326回】 呼吸力的鍛鍊</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0326-kokyu-power-train/</link><pubDate>Sun, 15 Feb 2026 22:46:37 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0326-kokyu-power-train/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過技法的磨練而精進的，因此，在相對稽古中，如何有效地對伙伴施展技法便成為關鍵。然而，要對稽古中陪練的對手恰到好處地使出技法，並非易事。這一點，凡是長期認真稽古的人都應該深有體會。想要施展技法時，往往技法未能生效，反而彼此碰撞，被對方反制，甚至演變成爭鬥。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過技法的磨練而精進的，因此，在相對稽古中，如何有效地對伙伴施展技法便成為關鍵。然而，要對稽古中陪練的對手恰到好處地使出技法，並非易事。這一點，凡是長期認真稽古的人都應該深有體會。想要施展技法時，往往技法未能生效，反而彼此碰撞，被對方反制，甚至演變成爭鬥。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -70,7 +51,4 @@
 <p>因此，最好選擇那種無法單憑蠻力解決，必須運用技或技之要素才能撼動的對手。另外，若對方從未體驗過被離心力施技，可能無法以平常心承受受身，因此，建議先找對自己有所了解的對手。因為若是熟識的對手，對方也會安心，全力地抓或打過來，這樣對自己才是良好的稽古。</p>
 <p>總而言之，每當嘗試新事物時，慎選對手來進行稽古，也是非常重要的。</p>
 <p><a href="https://sasaki-aiki.com/article3_326.php">https://sasaki-aiki.com/article3_326.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>腰腹連結 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E8%85%B0%E8%85%B9%E9%80%A3%E7%B5%90/</link>
-    <description>Recent content in 腰腹連結 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Fri, 20 Feb 2026 19:02:55 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E8%85%B0%E8%85%B9%E9%80%A3%E7%B5%90/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0240回】 呼吸法與技法</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0240-power-of-breath/</link>
-      <pubDate>Fri, 20 Feb 2026 19:02:55 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0240-power-of-breath/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>腰腹連結 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%85%B0%E8%85%B9%E9%80%A3%E7%B5%90/</link><description>Recent content in 腰腹連結 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:55 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%85%B0%E8%85%B9%E9%80%A3%E7%B5%90/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0240回】 呼吸法與技法</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0240-power-of-breath/</link><pubDate>Fri, 20 Feb 2026 19:02:55 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0240-power-of-breath/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道雖是武道，卻不以勝負為目的。然而，只要稍微放鬆警惕，我們便會不自覺地陷入想打倒對方、想壓制對方的執念中。不知這究竟是活在競爭社會中的人類本性，還是過往學習柔術時留下的怨念，我們總容易將注意力完全放在「擊倒對手」這件事上。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道雖是武道，卻不以勝負為目的。然而，只要稍微放鬆警惕，我們便會不自覺地陷入想打倒對方、想壓制對方的執念中。不知這究竟是活在競爭社會中的人類本性，還是過往學習柔術時留下的怨念，我們總容易將注意力完全放在「擊倒對手」這件事上。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -64,37 +45,25 @@
 <p>即便對手不按預期律動，即便無法摔出對方，只要能朝著「增長呼吸力」的方向去運作即可：<strong>將手尖與腹部連結、與對手連結，在不彎曲手臂的前提下，運用腰腹的力量來操作雙手</strong>。 只要能一點一滴地讓力量貫穿肩膀，終有一天，腰腹與手尖會產生緊密的連結，讓你得以隨心所欲地運用來自核心的呼吸力。</p>
 <p>我們無法確知這股呼吸力何時會真正覺醒並能運用自如，但只要堅持練習「呼吸法」而非「呼吸技」，那一刻必將到來。請相信這一點，切莫焦躁，腳踏實地地持續修煉。</p>
 <p><a href="http://sasaki-aiki.com/article3_240.php">http://sasaki-aiki.com/article3_240.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0235回】　先以「陰」導之</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0235-yin-leads-yang/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0235-yin-leads-yang/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0235回】　先以「陰」導之</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0235-yin-leads-yang/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0235-yin-leads-yang/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在相對稽古中，有時會遇到技法無法奏效、對手頑抗，或對方不按預期倒下的情況。即便是重複多次，結果依舊如故。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在相對稽古中，有時會遇到技法無法奏效、對手頑抗，或對方不按預期倒下的情況。即便是重複多次，結果依舊如故。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -131,37 +100,25 @@
 <p>要能讓雙手流暢地切換陰陽，前提是<strong>手尖與腰腹必須緊密連結</strong>。若僅是表面上的揮手、撥手(手振り、手捌き)，腰腹的力量便無法傳達到指尖，動作就不會形成陰陽的律動，而會變成僅在接觸點僵持的「陽對陽」。</p>
 <p>切記：莫從「陽」處發力，莫成「陽陽」對峙，務必*先以「陰」導之**。</p>
 <p><a href="http://sasaki-aiki.com/article3_235.php">http://sasaki-aiki.com/article3_235.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0245回】　立於天之浮橋</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0245-stand-on-bridge/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0245-stand-on-bridge/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0245回】　立於天之浮橋</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0245-stand-on-bridge/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0245-stand-on-bridge/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是在相對稽古的技法磨練中不斷精進的過程。當技法奏效或失敗時，修習者往往會隨之產生喜悅、沮喪或憤怒。技法靈驗時自覺高明，而一旦技法完全不通，便會喪失自信。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是在相對稽古的技法磨練中不斷精進的過程。當技法奏效或失敗時，修習者往往會隨之產生喜悅、沮喪或憤怒。技法靈驗時自覺高明，而一旦技法完全不通，便會喪失自信。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -196,37 +153,25 @@
 <p>先生認為，<strong>這種遞出手讓對方抓握的狀態，恐怕正是所謂的「立於天之浮橋」</strong>。</p>
 <p>開祖常說，修習合氣道「首先必須立於天之浮橋」。在施展技法時，切莫使蠻力或胡亂揮手，而應讓心境與身體宛如置身雲端般輕盈透徹，進入這份「立於天之浮橋」的境界。</p>
 <p><a href="http://sasaki-aiki.com/article3_245.php">http://sasaki-aiki.com/article3_245.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0301回】　不推、不彈</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0301回】　不推、不彈</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0301-no-push-bounce/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是一門透過「對手練習」來磨練技法的武道。在訓練過程中，施技者(取り)與承受技法者(受け)會輪流交換角色，這種公平且互動的訓練方式極為優秀。然而，在實際稽古時，我們常常不自覺地把注意力集中在「如何將對方摔出去」這件事上，卻忽略了更為根本的重要課題。這正是合氣道修練中常見的盲點。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是一門透過「對手練習」來磨練技法的武道。在訓練過程中，施技者(取り)與承受技法者(受け)會輪流交換角色，這種公平且互動的訓練方式極為優秀。然而，在實際稽古時，我們常常不自覺地把注意力集中在「如何將對方摔出去」這件事上，卻忽略了更為根本的重要課題。這正是合氣道修練中常見的盲點。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -263,37 +208,25 @@
 <p>只要針對上述問題加以改善，就能有效避免推或彈對方。不過，還有一個非常關鍵的要點——那就是「從形的稽古，進入技的稽古」。如果一直停留在「形」的練習階段，難免會依賴外在的力量(如手臂)，進而出現推或彈的現象。</p>
 <p>而當你進入「技」的練習時，對方不再是敵人，而是與自己合而為一，成為身體的一部分。既然對方已經是自己的延伸，自然無需推或彈，因為根本不存在分離的對象。</p>
 <p><a href="https://sasaki-aiki.com/article3_301.php">https://sasaki-aiki.com/article3_301.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0304回】　消除多餘動作</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0304-eliminate-excess-motion/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0304-eliminate-excess-motion/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0304回】　消除多餘動作</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0304-eliminate-excess-motion/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0304-eliminate-excess-motion/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在進行稽古時，對於擁有臂力、體力的人，有時會驚覺他們並未真正發揮出那份力量。當與對手對峙、握住對方的手或接觸時，原本預想「這個人有這樣的體格，應該會施出相應的力量吧」，然而實際上卻經常事與願違。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在進行稽古時，對於擁有臂力、體力的人，有時會驚覺他們並未真正發揮出那份力量。當與對手對峙、握住對方的手或接觸時，原本預想「這個人有這樣的體格，應該會施出相應的力量吧」，然而實際上卻經常事與願違。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -326,7 +259,4 @@
 <p>其實，不僅在合氣道中，彎折的問題在其他運動中也很常見。例如在劍道中，初學者揮動竹劍時，肘部常常彎折；在棒球打擊、高爾夫揮桿、或網球揮拍等運動中，動作不熟練的人也容易在腰腹與手部之間失去連結，最終手部單獨用力、手臂彎折，進而產生各自多餘的動作。</p>
 <p>一旦出現「遊び(多餘的動作)」，力量就無法有效發揮。因此，我們必須消除這些多餘的動作。要做到這點，就必須避免鬆垮、避免彎折、避免脫節，並以腰腹為核心施展技法。</p>
 <p><a href="https://sasaki-aiki.com/article3_304.php">https://sasaki-aiki.com/article3_304.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

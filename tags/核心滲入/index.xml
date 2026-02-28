@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>核心滲入 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83%E6%BB%B2%E5%85%A5/</link>
-    <description>Recent content in 核心滲入 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83%E6%BB%B2%E5%85%A5/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0229回】　進入對手的內部</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0229-enter-into-core/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0229-enter-into-core/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>核心滲入 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83%E6%BB%B2%E5%85%A5/</link><description>Recent content in 核心滲入 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%A0%B8%E5%BF%83%E6%BB%B2%E5%85%A5/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0229回】　進入對手的內部</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0229-enter-into-core/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0229-enter-into-core/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;在相對稽古中施展技法時，首先必須與對手合而為一。若不能達成一體化，兩人的關係就只是 1+1=2，彼此意圖各異，最終必然演變成力量的爭鬥。一旦兩者合一，施技者便能如操作自己身體般自由律動，技法自然能奏效。然而，許多練習者若非未能察覺「一體化」的重要性，就是即便察覺了也無從下手。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;在相對稽古中施展技法時，首先必須與對手合而為一。若不能達成一體化，兩人的關係就只是 1+1=2，彼此意圖各異，最終必然演變成力量的爭鬥。一旦兩者合一，施技者便能如操作自己身體般自由律動，技法自然能奏效。然而，許多練習者若非未能察覺「一體化」的重要性，就是即便察覺了也無從下手。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -67,7 +47,4 @@
 <p>一旦透過入身進入對手內部，感受到了對方的抗力，下一步便是將對方「納入自己的內部(領域)」。最貼切的例子仍是坐技呼吸法：先讓腹部如撞擊般投向對手領域，接著轉動腹部產生螺旋，便能將對手捲入自己的領域中。此時對手已與我方一體化，如同我身體的一部分，感受上應是完全吸附且失去了重量。</p>
 <p>無論是入身摔、一教或天地摔，其理則皆然：<strong>首先進入對手內部，隨後將其納入我方領域，以此施展技法</strong>。</p>
 <p><a href="http://sasaki-aiki.com/article3_229.php">http://sasaki-aiki.com/article3_229.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

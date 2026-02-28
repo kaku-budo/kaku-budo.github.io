@@ -1,42 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>氣形稽古 on icqkaku 的武道筆記</title>
-    <link>https://kaku-budo.github.io/tags/%E6%B0%A3%E5%BD%A2%E7%A8%BD%E5%8F%A4/</link>
-    <description>Recent content in 氣形稽古 on icqkaku 的武道筆記</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
-    <atom:link href="https://kaku-budo.github.io/tags/%E6%B0%A3%E5%BD%A2%E7%A8%BD%E5%8F%A4/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>合氣道進步的秘訣【第0393回】　基本準備動作</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0393-form-logic-aiki/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0393-form-logic-aiki/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>氣形稽古 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%B0%A3%E5%BD%A2%E7%A8%BD%E5%8F%A4/</link><description>Recent content in 氣形稽古 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%B0%A3%E5%BD%A2%E7%A8%BD%E5%8F%A4/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0393回】　基本準備動作</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0393-form-logic-aiki/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0393-form-logic-aiki/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;最近常常看到一些稽古陷入瓶頸的稽古人。他們長年努力，體力也足、身體也鍛鍊得不錯，但卻覺得技法無法順利運用，進步停滯，看不到未來的提升方向，因而感到苦惱。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;最近常常看到一些稽古陷入瓶頸的稽古人。他們長年努力，體力也足、身體也鍛鍊得不錯，但卻覺得技法無法順利運用，進步停滯，看不到未來的提升方向，因而感到苦惱。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -75,38 +55,26 @@
 <p>註2：繼足：(Tsugi Ashi)是指當前腳往前移動後(不論距離多少)，後腳立即收攏跟上，維持重心穩定，確保身體隨時處於下一步攻擊或防禦的最佳準備狀態。</p>
 <p>註3：構え：(KAMAE)，身體正確的站姿與重心，更要求心理的穩定狀態，心中沒有『(恐)懼、懷(疑)、(驚)慌、迷(惑)』等雜念，能夠沉著面對所有情況。</p>
 <p><a href="https://sasaki-aiki.com/article3_393.php">https://sasaki-aiki.com/article3_393.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0394回】　每個動作與形都有其意義</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0394-form-meaning-aiki/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0394-form-meaning-aiki/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0394回】　每個動作與形都有其意義</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0394-form-meaning-aiki/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0394-form-meaning-aiki/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
 &lt;p&gt;合氣道是透過「技」的鍛鍊與「氣之形」的稽古而進步的。它的攻擊方式，與其他武道相比，顯得特別多樣。有以手刀擊來的，也有以片(單)手、雙手(雙手對雙手)、諸手(雙手對單手)抓住的；有以拳打擊過來的，還有以劍或杖刺擊、打擊而來的。
-在以手抓取的情況下，不僅抓手腕，也可能抓肘、肩、甚至胸。而且不只單手，雙手也會同時出手，不僅從正面，甚至從背後抓來。在這種情況下，一手抓住對方手腕，另一手可能同時勒住頸部。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+在以手抓取的情況下，不僅抓手腕，也可能抓肘、肩、甚至胸。而且不只單手，雙手也會同時出手，不僅從正面，甚至從背後抓來。在這種情況下，一手抓住對方手腕，另一手可能同時勒住頸部。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -143,37 +111,25 @@
 <p>註1：「<strong>気形の稽古</strong>」：(きぎょうのけいこ / Kigyō no Keiko)是合氣道或一些與合氣哲學相關武道中，一個用來描述<strong>進階修煉階段</strong>的術語。<br>
 它將「形」(招式、外在形式)和「氣」(內在能量、法則)結合起來，強調兩者的統一。它不是單純的練動作，而是<strong>以動作為載體</strong>，來鍛鍊和體現合氣道中「氣」的運行和控制力。在修行階段上，它通常位於只練形之後，是走向「<strong>氣</strong>」之極致(即完全由心靈與法則引導)的中間階段。</p>
 <p><a href="https://sasaki-aiki.com/article3_394.php">https://sasaki-aiki.com/article3_394.php</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>合氣道進步的秘訣【第0450回】　合氣稽古的核心所在</title>
-      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</link>
-      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
-      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</guid>
-      <description>&lt;style&gt;
-  /* 1. 標題縮小 */
-  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-
-  /* 2. 粗體變道服藍 (與暗色模式相容) */
-  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-  
-  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-  .dark strong, .dark b { color: #5dade2 !important; }
-
-  /* 3. 文章末尾橫線 */
-  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-
-  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-  .toc {
-      background: #f9f9f9;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-  }
-  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded></item><item><title>合氣道進步的秘訣【第0450回】　合氣稽古的核心所在</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0450-core-form-train/</guid><description>&lt;style&gt;
+/* 1. 標題縮小 */
+.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+/* 2. 粗體變道服藍 (與暗色模式相容) */
+strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+.dark strong, .dark b { color: #5dade2 !important; }
+/* 3. 文章末尾橫線 */
+article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+.toc {
+background: #f9f9f9;
+padding: 15px;
+border-radius: 8px;
+margin-bottom: 20px;
+}
+.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;童謠中不是有一句「去時輕鬆，回來害怕」嗎？合氣道的稽古有時也是如此，一開始覺得「輕鬆愉快」，後來卻發現「愈來愈難」，因此必須提高警覺。&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<style>
+&lt;p&gt;童謠中不是有一句「去時輕鬆，回來害怕」嗎？合氣道的稽古有時也是如此，一開始覺得「輕鬆愉快」，後來卻發現「愈來愈難」，因此必須提高警覺。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -212,7 +168,4 @@
 <p>但這並不容易。<strong>若在氣形稽古中無法做到依法則運動、正確運用身體，就會因用力過度導致對方甩開手、或被彈開，無法與對方結合</strong>。這樣一來需要離心力的呼吸力便無法養成。換言之，<strong>氣形的稽古與鍛鍊法是相互關聯、不能分開的</strong>。</p>
 <p>透過氣形稽古來體得宇宙的法則、培養呼吸力；並讓呼吸力能在氣形稽古中自然養成，這正是先生所理解的：「<strong>合氣的稽古，其核心在於氣形的稽古與鍛鍊法</strong>。」也依此方式持續稽古。</p>
 <p><a href="https://sasaki-aiki.com/article3_450.php">https://sasaki-aiki.com/article3_450.php</a></p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>
