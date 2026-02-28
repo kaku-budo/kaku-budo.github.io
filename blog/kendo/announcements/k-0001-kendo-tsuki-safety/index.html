@@ -314,12 +314,12 @@
     <nav class="martial-nav">
         
             
-            <div class="m-tier-1">
+            <div class="m-section-group">
                 <div class="m-label" onclick="mToggle(this)">
                     合氣道の思想と技 <span class="m-arrow">▼</span>
                 </div>
                 <div class="m-content" style="display:none;">
-                    <ul style="list-style:none; padding-left:10px; margin:0;">
+                    <ul class="m-list">
                         
                         <li><a href="/blog/aikido/philosophy/part-0401-0500/p-0496-soul-body-unite/" class="martial-link">合氣道の思想と技【第0496回】　魂魄結合之武</a></li>
                         
@@ -345,12 +345,12 @@
                 </div>
             </div>
             
-            <div class="m-tier-1">
+            <div class="m-section-group">
                 <div class="m-label" onclick="mToggle(this)">
                     合氣道進步的秘訣 <span class="m-arrow">▼</span>
                 </div>
                 <div class="m-content" style="display:none;">
-                    <ul style="list-style:none; padding-left:10px; margin:0;">
+                    <ul class="m-list">
                         
                         <li><a href="/blog/aikido/tips/part-0101-0200/t-0199-ten-key-rules/" class="martial-link">合氣道進步的秘訣【第0199回】 使技法有效的10個條件</a></li>
                         
@@ -1028,12 +1028,12 @@
                 </div>
             </div>
             
-            <div class="m-tier-1">
+            <div class="m-section-group">
                 <div class="m-label" onclick="mToggle(this)">
                     合氣道體態與素質養成 <span class="m-arrow">▼</span>
                 </div>
                 <div class="m-content" style="display:none;">
-                    <ul style="list-style:none; padding-left:10px; margin:0;">
+                    <ul class="m-list">
                         
                         <li><a href="/blog/aikido/body/part-0401-0500/p-0412-breath-heaven-earth/" class="martial-link">合氣道の思想と技【第0412回】　連結呼吸與天地的共鳴</a></li>
                         
@@ -1041,12 +1041,12 @@
                 </div>
             </div>
             
-            <div class="m-tier-1">
+            <div class="m-section-group">
                 <div class="m-label" onclick="mToggle(this)">
                     高齡者適用的合氣道 <span class="m-arrow">▼</span>
                 </div>
                 <div class="m-content" style="display:none;">
-                    <ul style="list-style:none; padding-left:10px; margin:0;">
+                    <ul class="m-list">
                         
                         <li><a href="/blog/aikido/senior/part-0001-0100/s-0000-/" class="martial-link">高齡者適用的合氣道【第0000回】　</a></li>
                         
@@ -1067,27 +1067,51 @@ body #martial-toc.martial-sidebar {
     border: 1px solid #00FFFF !important; padding: 10px !important; border-radius: 8px !important;
     overflow-y: auto !important;
 }
+
 .martial-link {
     color: #00FFFF !important; font-size: 12px !important; 
-    line-height: 1.0 !important;  
+    line-height: 1.1 !important;  
     padding: 2px 0 !important; display: block; text-decoration: none !important;
 }
-.m-label { color: #00CCFF !important; font-weight: bold; cursor: pointer; padding: 5px 0; font-size: 13px; }
-#martialSearch { width: 100%; background: #000; border: 1px solid #00FFFF; color: #00FFFF; margin-bottom: 8px; }
+
+.m-label { color: #00CCFF !important; font-weight: bold; cursor: pointer; padding: 5px 0; font-size: 13px; border-bottom: 1px solid rgba(0, 255, 255, 0.1); }
+#martialSearch { width: 100%; background: #000; border: 1px solid #00FFFF; color: #00FFFF; margin-bottom: 8px; padding: 3px; }
+.m-list { list-style: none !important; padding-left: 10px !important; margin: 0 !important; }
 </style>
 
 <script>
 function mToggle(el) {
     const content = el.nextElementSibling;
-    content.style.display = (content.style.display === 'none') ? 'block' : 'none';
+    const arrow = el.querySelector('.m-arrow');
+    const isHidden = content.style.display === 'none';
+    content.style.display = isHidden ? 'block' : 'none';
+    arrow.innerText = isHidden ? '▲' : '▼';
 }
+
 function doMartialSearch() {
     const input = document.getElementById('martialSearch').value.toUpperCase();
-    document.querySelectorAll('.martial-link').forEach(link => {
+    const links = document.querySelectorAll('.martial-link');
+    
+    
+    if (input === "") {
+        document.querySelectorAll('.m-content').forEach(c => c.style.display = 'none');
+        document.querySelectorAll('.m-arrow').forEach(a => a.innerText = '▼');
+        return;
+    }
+
+    links.forEach(link => {
+        const text = link.innerText.toUpperCase();
         const li = link.parentElement;
-        if (link.innerText.toUpperCase().indexOf(input) > -1) {
+        const parentContent = li.closest('.m-content');
+        
+        if (text.indexOf(input) > -1) {
             li.style.display = "";
-            li.closest('.m-content').style.display = 'block';
+            
+            if (parentContent) {
+                parentContent.style.display = 'block';
+                const labelArrow = parentContent.previousElementSibling.querySelector('.m-arrow');
+                if (labelArrow) labelArrow.innerText = '▲';
+            }
         } else {
             li.style.display = "none";
         }
