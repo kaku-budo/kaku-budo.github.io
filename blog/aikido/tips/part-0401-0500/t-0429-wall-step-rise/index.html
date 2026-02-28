@@ -226,49 +226,135 @@
 <p><a href="https://sasaki-aiki.com/article3_429.php">https://sasaki-aiki.com/article3_429.php</a></p>
 
   </div>
-</article><div id="martial-toc" class="martial-sidebar">
+</article><div id="martial-toc" class="martial-sidebar" style="display:none;">
     <input type="text" id="martialSearch" placeholder="搜尋(如:劍道)..." onkeyup="doMartialSearch()">
     <nav class="martial-nav">
         
     </nav>
 </div>
 
+
+<button id="martial-toggle-btn" onclick="toggleMartialToc()">📋</button>
+
 <style>
 body #martial-toc.martial-sidebar { 
     position: fixed !important; right: 10px !important; top: 45px !important; 
     width: 220px !important; max-height: 85vh !important; z-index: 999999 !important; 
-    background: rgba(0, 0, 0, 0.7) !important; 
+    background: rgba(0, 0, 0, 0.85) !important; 
     border: 1px solid #00FFFF !important; padding: 10px !important; border-radius: 8px !important;
     overflow-y: auto !important;
 }
-.martial-link { color: #00FFFF !important; font-size: 12px !important; line-height: 1.0 !important; padding: 2px 0 !important; display: block; text-decoration: none !important; }
-.m-label { color: #00CCFF !important; font-weight: bold; cursor: pointer; padding: 5px 0; font-size: 13px; border-bottom: 1px solid rgba(0, 255, 255, 0.1); }
-#martialSearch { width: 100%; background: #000; border: 1px solid #00FFFF; color: #00FFFF; margin-bottom: 8px; padding: 3px; }
+#martial-toggle-btn {
+    position: fixed !important;
+    right: 10px !important;
+    top: 10px !important;
+    z-index: 9999999 !important;
+    background: rgba(0,0,0,0.7) !important;
+    color: #00FFFF !important;
+    border: 1px solid #00FFFF !important;
+    border-radius: 6px !important;
+    padding: 4px 8px !important;
+    cursor: pointer !important;
+    font-size: 14px !important;
+}
+.martial-link { 
+    color: #00FFFF !important; font-size: 12px !important; 
+    line-height: 1.2 !important; padding: 1px 0 !important; 
+    display: block; text-decoration: none !important; 
+}
+.m-section-group {
+    margin-bottom: 2px !important;
+}
+.m-label { 
+    color: #00CCFF !important; font-weight: bold; cursor: pointer; 
+    padding: 2px 0 !important;
+    font-size: 13px; 
+    border-bottom: 1px solid rgba(0, 255, 255, 0.1); 
+}
+.m-list li {
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.3 !important;
+}
+#martialSearch { 
+    width: 100%; background: #000; border: 1px solid #00FFFF; 
+    color: #00FFFF; margin-bottom: 5px; padding: 3px;
+    box-sizing: border-box;
+}
 </style>
 
 <script>
+function toggleMartialToc() {
+    const toc = document.getElementById('martial-toc');
+    const isHidden = toc.style.display === 'none';
+    toc.style.display = isHidden ? 'block' : 'none';
+    if (isHidden) {
+        setTimeout(() => document.getElementById('martialSearch').focus(), 50);
+    }
+}
+
+
+document.addEventListener('click', function(e) {
+    const toc = document.getElementById('martial-toc');
+    const btn = document.getElementById('martial-toggle-btn');
+    if (toc.style.display === 'none') return;
+    if (!toc.contains(e.target) && e.target !== btn) {
+        toc.style.display = 'none';
+    }
+});
+
 function mToggle(el) {
     const content = el.nextElementSibling;
     const isHidden = content.style.display === 'none';
     content.style.display = isHidden ? 'block' : 'none';
     el.querySelector('.m-arrow').innerText = isHidden ? '▲' : '▼';
 }
+
 function doMartialSearch() {
-    const input = document.getElementById('martialSearch').value.toUpperCase();
+    const input = document.getElementById('martialSearch').value.toUpperCase().trim();
     if (input === "") {
-        document.querySelectorAll('.m-content').forEach(c => c.style.display = 'none');
+        document.querySelectorAll('.m-content').forEach(c => {
+            c.style.display = 'none';
+            c.previousElementSibling.querySelector('.m-arrow').innerText = '▼';
+        });
+        document.querySelectorAll('.martial-link').forEach(link => {
+            link.parentElement.style.display = '';
+        });
+        document.querySelectorAll('.m-section-group').forEach(g => g.style.display = '');
         return;
     }
+
+    
+    document.querySelectorAll('.m-section-group').forEach(g => g.style.display = 'none');
+
+    
     document.querySelectorAll('.martial-link').forEach(link => {
         const li = link.parentElement;
-        if (link.innerText.toUpperCase().indexOf(input) > -1) {
-            li.style.display = "";
+        const matched = link.innerText.toUpperCase().indexOf(input) > -1;
+        li.style.display = matched ? '' : 'none';
+        if (matched) {
             const parent = li.closest('.m-content');
-            if (parent) { 
-                parent.style.display = 'block'; 
-                parent.previousElementSibling.querySelector('.m-arrow').innerText = '▲'; 
+            const group = li.closest('.m-section-group');
+            if (parent) {
+                parent.style.display = 'block';
+                parent.previousElementSibling.querySelector('.m-arrow').innerText = '▲';
             }
-        } else { li.style.display = "none"; }
+            if (group) group.style.display = '';
+        }
+    });
+
+    
+    document.querySelectorAll('.m-label').forEach(label => {
+        if (label.innerText.toUpperCase().indexOf(input) > -1) {
+            const group = label.closest('.m-section-group');
+            const content = label.nextElementSibling;
+            if (group) group.style.display = '';
+            if (content) {
+                content.style.display = 'block';
+                content.querySelectorAll('li').forEach(li => li.style.display = '');
+                label.querySelector('.m-arrow').innerText = '▲';
+            }
+        }
     });
 }
 </script>
