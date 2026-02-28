@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>阻滯 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%98%BB%E6%BB%AF/</link><description>Recent content in 阻滯 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:03:17 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%98%BB%E6%BB%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0254回】 不爭</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0254-non-struggle-law/</link><pubDate>Fri, 20 Feb 2026 19:03:17 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0254-non-struggle-law/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>阻滯 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E9%98%BB%E6%BB%AF/</link>
+    <description>Recent content in 阻滯 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:03:17 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E9%98%BB%E6%BB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0254回】 不爭</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0254-non-struggle-law/</link>
+      <pubDate>Fri, 20 Feb 2026 19:03:17 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0254-non-struggle-law/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道透過相對稽古磨練技法，過程中有順遂也有阻滯。所謂技法圓滿，是指與受方連結、一體化，使對手如同自己的分身般隨心律動。若無法連結，取受雙方就會變成獨立的個體，產生落差與縫隙，進而引發「爭鬥」。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道透過相對稽古磨練技法，過程中有順遂也有阻滯。所謂技法圓滿，是指與受方連結、一體化，使對手如同自己的分身般隨心律動。若無法連結，取受雙方就會變成獨立的個體，產生落差與縫隙，進而引發「爭鬥」。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -49,4 +68,7 @@ margin-bottom: 20px;
 <p>這不只限於二教，而是所有技法共通的法則。劍術亦然：揮劍上揚時，不應在重心腳側強行舉劍，而應將重心移往對側足(通常是左足)，如此肩膀才能放鬆鬆開，使劍路宏大流暢。</p>
 <p>即便是在進行肘、肩關節的伸展(Stretch)時，若不遵循此法則，效果不僅薄弱，甚至可能傷及身體。只要順應自然之理與宇宙法則，衝突自然消散。</p>
 <p><a href="http://sasaki-aiki.com/article3_254.php">http://sasaki-aiki.com/article3_254.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

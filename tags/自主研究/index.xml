@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>自主研究 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A0%94%E7%A9%B6/</link><description>Recent content in 自主研究 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sat, 21 Feb 2026 23:52:19 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0196回】 完成以前不會的事情</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0196-learn-from-fail/</link><pubDate>Sat, 21 Feb 2026 23:52:19 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0196-learn-from-fail/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自主研究 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A0%94%E7%A9%B6/</link>
+    <description>Recent content in 自主研究 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:52:19 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0196回】 完成以前不會的事情</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0196-learn-from-fail/</link>
+      <pubDate>Sat, 21 Feb 2026 23:52:19 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0196-learn-from-fail/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道是經過磨練的過程達到精進(道)的。通常是二人一組，以受方與取方互換角色來練習技法。原則上不管其是否為高段者、高齡者、或是很厲害的人，都不能單練只作技法的取方，不當受方。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是經過磨練的過程達到精進(道)的。通常是二人一組，以受方與取方互換角色來練習技法。原則上不管其是否為高段者、高齡者、或是很厲害的人，都不能單練只作技法的取方，不當受方。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -48,24 +67,35 @@ margin-bottom: 20px;
 <p>如果自認問題已經解決了，還要將技法試做在不同的對手上。有可能會再次失敗或做得不夠順，但同時也有可能會比現在更流暢。但不能保證每次都做得出技法、有時甚至也不知道何時才可以做得出來。這就需要根據自己的能力與努力，再配合一點運氣。</p>
 <p>總之，面對失敗或是技法流暢度不好時，這並不是不好的現像。當有出現這種狀態時，將這狀態當成練習的目標。之後，練習就會離進步的目標逾來逾近。做不出來就做不出來，進步的起點就在做不出來的地方。</p>
 <p><a href="http://sasaki-aiki.com/article3_196.php">http://sasaki-aiki.com/article3_196.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0377回】 成為研究者、研究材料、也是研究所</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0377-self-study-aiki/</link><pubDate>Sun, 15 Feb 2026 22:45:17 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0377-self-study-aiki/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0377回】 成為研究者、研究材料、也是研究所</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0377-self-study-aiki/</link>
+      <pubDate>Sun, 15 Feb 2026 22:45:17 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0377-self-study-aiki/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道是一門透過不斷重複「形稽古」，也就是將宇宙的運行化為技法動作，來逐步精進的修行。一般而言，稽古是在道場中以對練的形式進行。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是一門透過不斷重複「形稽古」，也就是將宇宙的運行化為技法動作，來逐步精進的修行。一般而言，稽古是在道場中以對練的形式進行。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -96,4 +126,7 @@ margin-bottom: 20px;
 <p>當一個人能成為自己的研究所、研究材料與研究者時，道場與稽古對象便無所不在。無論身在何處、與誰一起，甚至獨自一人，也都能進行真正的稽古。</p>
 <p>參考文獻：《作為原初生命體的人類》(岩波現代文庫，野口三千三 著)</p>
 <p><a href="https://sasaki-aiki.com/article3_377.php">https://sasaki-aiki.com/article3_377.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

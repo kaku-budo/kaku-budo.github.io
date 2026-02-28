@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>無力化 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%84%A1%E5%8A%9B%E5%8C%96/</link><description>Recent content in 無力化 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:16 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%84%A1%E5%8A%9B%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0339回】 圓與圓內、圓外</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0339-circle-inner-outer/</link><pubDate>Sun, 15 Feb 2026 22:46:16 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0339-circle-inner-outer/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>無力化 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E7%84%A1%E5%8A%9B%E5%8C%96/</link>
+    <description>Recent content in 無力化 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:46:16 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E7%84%A1%E5%8A%9B%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0339回】 圓與圓內、圓外</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0339-circle-inner-outer/</link>
+      <pubDate>Sun, 15 Feb 2026 22:46:16 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0339-circle-inner-outer/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道中，圓很重要。合氣道是透過技術的稽古而進步的；有人說，技是由圓的運動相互配合而形成的。縱向的圓動與橫向的圓動若不能恰如其分地結合，便無法成為一招有效的技，對對手也無從發揮作用。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道中，圓很重要。合氣道是透過技術的稽古而進步的；有人說，技是由圓的運動相互配合而形成的。縱向的圓動與橫向的圓動若不能恰如其分地結合，便無法成為一招有效的技，對對手也無從發揮作用。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -46,4 +65,7 @@ margin-bottom: 20px;
 <p>若能做到這點，據說即便只用一根手指亦可制住對手。即便不用僅憑一指，這一教導也意在說明：即便力量不大，仍可制服體力較強的人。</p>
 <p>施展技時，必須同時考量自己的圓與其內外，以及對方的圓與其內外，然後據以運用技法。</p>
 <p><a href="https://sasaki-aiki.com/article3_339.php">https://sasaki-aiki.com/article3_339.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

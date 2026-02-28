@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>陰陽平衡 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%B9%B3%E8%A1%A1/</link><description>Recent content in 陰陽平衡 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:08 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%B9%B3%E8%A1%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0343回】 兩面作戰</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0343-dual-side-path/</link><pubDate>Sun, 15 Feb 2026 22:46:08 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0343-dual-side-path/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>陰陽平衡 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%B9%B3%E8%A1%A1/</link>
+    <description>Recent content in 陰陽平衡 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:46:08 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD%E5%B9%B3%E8%A1%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0343回】 兩面作戰</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0343-dual-side-path/</link>
+      <pubDate>Sun, 15 Feb 2026 22:46:08 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0343-dual-side-path/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道的最終目標，正如其名「合氣」所示，便是與宇宙之氣相合，也就是與宇宙達到一體化。為了達成這個目標，合氣道修行者必須透過技之形稽古，不斷磨練依循宇宙法則而生的技法。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道的最終目標，正如其名「合氣」所示，便是與宇宙之氣相合，也就是與宇宙達到一體化。為了達成這個目標，合氣道修行者必須透過技之形稽古，不斷磨練依循宇宙法則而生的技法。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -53,25 +72,37 @@ margin-bottom: 20px;
 <p>●	<strong>表技與裏技</strong>：合氣道的基本技皆有表與裏。一般而言，裏技較容易，因此多數人傾向只練裏技。然而，表技同樣不可忽略，尤其如「三教之表(前方)」等難度較高者，更應用心稽古。</p>
 <p>世間一切能正常運作的事物，皆非單面所成。合氣道的修行亦然——不可偏於一方，唯有以「兩面作戰」之道，方能真正通往圓融與成長。</p>
 <p><a href="https://sasaki-aiki.com/article3_343.php">https://sasaki-aiki.com/article3_343.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0298回】　離心力</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0298-t-0298-centrifugal-force-power/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0298-t-0298-centrifugal-force-power/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0298回】　離心力</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0298-t-0298-centrifugal-force-power/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0298-t-0298-centrifugal-force-power/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道可說是一種「培養引力」的武道。事實上，經過長年練習後，會發現對手會愈來愈容易被「吸引」過來。對初學者而言，往往無法使對手貼近，反而是將對手彈開或推遠。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道可說是一種「培養引力」的武道。事實上，經過長年練習後，會發現對手會愈來愈容易被「吸引」過來。對初學者而言，往往無法使對手貼近，反而是將對手彈開或推遠。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -105,4 +136,7 @@ margin-bottom: 20px;
 <p>如果離心力無法發揮，不只是四方摔，其它所有的技法也將無法成立。人類往往在無意識中偏向使用「將對方拉向自己」的向心力。我們需要有意識地轉換這種傾向，培養與之相對的離心力。</p>
 <p>當離心力與向心力達到和諧統一時，就會化為呼吸力，讓對手自然被吸引，技法也就能順利奏效。若<span style="color: #c0392b; font-size: 1.0em; font-weight: bold;">想讓技法更為有力，應有意識地進行「培養遠心力的練習」</span>。而最有效的訓練方法，正是以養成呼吸力(＝離心力＋向心力)為目標的「呼吸法」。</p>
 <p><a href="https://sasaki-aiki.com/article3_298.php">https://sasaki-aiki.com/article3_298.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

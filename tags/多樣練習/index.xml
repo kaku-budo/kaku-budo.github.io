@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>多樣練習 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%A4%9A%E6%A8%A3%E7%B7%B4%E7%BF%92/</link><description>Recent content in 多樣練習 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:47:15 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%A4%9A%E6%A8%A3%E7%B7%B4%E7%BF%92/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0293回】 不同樣式下的稽古</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0293-adaptive-keiko-style/</link><pubDate>Sun, 15 Feb 2026 22:47:15 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0293-adaptive-keiko-style/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>多樣練習 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%A4%9A%E6%A8%A3%E7%B7%B4%E7%BF%92/</link>
+    <description>Recent content in 多樣練習 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:47:15 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%A4%9A%E6%A8%A3%E7%B7%B4%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0293回】 不同樣式下的稽古</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0293-adaptive-keiko-style/</link>
+      <pubDate>Sun, 15 Feb 2026 22:47:15 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0293-adaptive-keiko-style/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道的練習方式，主要是透過雙人對練，一方施展技法，一方承受受身，彼此切磋，從中鍛鍊身體與技術。常見的練習形式，是由指導者示範技法後，由多組練習者反覆模仿練習。不過，每個道場的場地大小與練習者人數不盡相同，甚至每次的練習日與時段也會有所變化，因此道場內的「練習密度」也會隨之不同。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道的練習方式，主要是透過雙人對練，一方施展技法，一方承受受身，彼此切磋，從中鍛鍊身體與技術。常見的練習形式，是由指導者示範技法後，由多組練習者反覆模仿練習。不過，每個道場的場地大小與練習者人數不盡相同，甚至每次的練習日與時段也會有所變化，因此道場內的「練習密度」也會隨之不同。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -49,4 +68,7 @@ margin-bottom: 20px;
 <p>除了自己設定的課題外，也要因應場地情況與對手變化來調整練習內容。若無論對手是誰、環境如何，總是以相同方式練習，那麼只會徒增抱怨，難以進步。真正的進步，是能在任何狀況下、與任何對手，都能有所鍛鍊與提升。</p>
 <p>因此，日常就應進行各種形式的練習，讓自己在任何環境中都能找到進步的契機，這才是真正的修行之道。</p>
 <p><a href="https://sasaki-aiki.com/article3_293.php">https://sasaki-aiki.com/article3_293.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

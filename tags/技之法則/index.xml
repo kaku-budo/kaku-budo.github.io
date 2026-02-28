@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>技之法則 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%8A%80%E4%B9%8B%E6%B3%95%E5%89%87/</link><description>Recent content in 技之法則 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:45:55 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E4%B9%8B%E6%B3%95%E5%89%87/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0356回】 追求理合</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0356-truth-path-logic/</link><pubDate>Sun, 15 Feb 2026 22:45:55 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0356-truth-path-logic/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技之法則 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%8A%80%E4%B9%8B%E6%B3%95%E5%89%87/</link>
+    <description>Recent content in 技之法則 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:45:55 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E4%B9%8B%E6%B3%95%E5%89%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0356回】 追求理合</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0356-truth-path-logic/</link>
+      <pubDate>Sun, 15 Feb 2026 22:45:55 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0356-truth-path-logic/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;在合氣道的修行中，並不存在「這裡就是終點」或「畢業」這樣的概念。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;在合氣道的修行中，並不存在「這裡就是終點」或「畢業」這樣的概念。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -58,4 +77,7 @@ margin-bottom: 20px;
 <p>也就是說，「思想(縱)」比「實技(橫)」更為根本與重要。</p>
 <p>當然，若僅有思想高遠，卻缺乏實際技術的支撐，那也無法成就真正優秀的理合之技。唯有思想與技術互成十字，縱橫交融，才能在稽古中不斷邁向真正的理合之境。</p>
 <p><a href="https://sasaki-aiki.com/article3_356.php">https://sasaki-aiki.com/article3_356.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>技術理法 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%8A%80%E8%A1%93%E7%90%86%E6%B3%95/</link><description>Recent content in 技術理法 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:47:11 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E8%A1%93%E7%90%86%E6%B3%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0295回】 呼吸力的鍛鍊</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0295-kokyu-power-drill/</link><pubDate>Sun, 15 Feb 2026 22:47:11 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0295-kokyu-power-drill/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技術理法 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%8A%80%E8%A1%93%E7%90%86%E6%B3%95/</link>
+    <description>Recent content in 技術理法 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:47:11 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E8%A1%93%E7%90%86%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0295回】 呼吸力的鍛鍊</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0295-kokyu-power-drill/</link>
+      <pubDate>Sun, 15 Feb 2026 22:47:11 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0295-kokyu-power-drill/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道也被稱為引力的養成。引力是吸引的力量，從合氣道的角度來說，就是黏附的力量、結合的力量、一體化的力量。這種力量在合氣道中稱為「呼吸力」。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道也被稱為引力的養成。引力是吸引的力量，從合氣道的角度來說，就是黏附的力量、結合的力量、一體化的力量。這種力量在合氣道中稱為「呼吸力」。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -47,25 +66,37 @@ margin-bottom: 20px;
 <p>不過，練習的對手各有不同，不是只有身材小、體重輕的人，也有體格大、力量強、體重重的人。以單手抓為例，必須用一手引導施技，這並非一開始就能做到，只能逐步增加力量。</p>
 <p>呼吸力是什麼力量，如何培養呼吸力，最容易理解的鍛鍊法是呼吸法。因此，要認真練習雙手雙手抓和坐技的呼吸法。當理解呼吸力的本質後，再用一教、四方投等技術(型)進一步培養呼吸力。以上即為呼吸力鍛鍊的要點。</p>
 <p><a href="https://sasaki-aiki.com/article3_295.php">https://sasaki-aiki.com/article3_295.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0250回】　絕不留一手</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0250-give-your-all/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0250-give-your-all/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0250回】　絕不留一手</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0250-give-your-all/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0250-give-your-all/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;人往往會因為不信任、吝嗇、故弄玄虛或愛面子，而在言行中有所保留(出し惜しみ)。在社會中生存，或許這有其必要。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;人往往會因為不信任、吝嗇、故弄玄虛或愛面子，而在言行中有所保留(出し惜しみ)。在社會中生存，或許這有其必要。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -101,4 +132,7 @@ margin-bottom: 20px;
 <p>「傾盡所有」意味著進入「無心」的境界。唯有如此，才能與對手真正一體化，讓對方如同自己的分身般律動。</p>
 <p>讓我們在每一場稽古中都毫無保留、進入無心，為了靠近最終目標而不斷提升自我的層次。</p>
 <p><a href="http://sasaki-aiki.com/article3_250.php">http://sasaki-aiki.com/article3_250.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

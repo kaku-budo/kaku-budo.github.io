@@ -1,23 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>刺擊技術 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%88%BA%E6%93%8A%E6%8A%80%E8%A1%93/</link><description>Recent content in 刺擊技術 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%88%BA%E6%93%8A%E6%8A%80%E8%A1%93/index.xml" rel="self" type="application/rss+xml"/><item><title>不當刺擊技法(突き技)可能導致之重大事故</title><link>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>刺擊技術 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%88%BA%E6%93%8A%E6%8A%80%E8%A1%93/</link>
+    <description>Recent content in 刺擊技術 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 11 Feb 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%88%BA%E6%93%8A%E6%8A%80%E8%A1%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不當刺擊技法(突き技)可能導致之重大事故</title>
+      <link>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</link>
+      <pubDate>Wed, 11 Feb 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/kendo/announcements/k-0001-kendo-tsuki-safety/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;&lt;img alt="置中圖片" loading="lazy" src="https://kaku-budo.github.io/images/kendo/k-01-0001-20260224_AJKF-notice.webp"&gt;
-不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://kaku-budo.github.io/images/kendo/k-01-0001-20260224_AJKF-notice.webp&#34; alt=&#34;置中圖片&#34; width=&#34;350&#34;&gt;
+&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -39,8 +60,10 @@ margin-bottom: 20px;
   }
   .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 </style>
-<p><img alt="置中圖片" loading="lazy" src="/images/kendo/k-01-0001-20260224_AJKF-notice.webp">
-不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯</p>
+<p align="center">
+  <img src="/images/kendo/k-01-0001-20260224_AJKF-notice.webp" alt="置中圖片" width="350">
+</p> <br>
+不當刺擊技法(突き技)可能導致之重大事故 – 全日本剣道連盟医・科学委員会 編輯
 <h3 id="i-刺擊技法的特性">I. 刺擊技法的特性</h3>
 <p>刺擊技法造成的外傷與其他招式不同，具有以下特徵：</p>
 <ol>
@@ -59,15 +82,17 @@ margin-bottom: 20px;
 <li><strong>聲帶：</strong> 位於喉結正後方。若聲帶受阻，不僅無法發聲，更會導致呼吸困難。</li>
 <li><strong>脊髓：</strong> 位於頸部後方，是控制手腳運動的核心神經束。</li>
 </ul>
-<h2 id="左側圖片"><strong>【圖 1：頸部解剖圖】</strong> <br>
-<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_1.webp"></h2>
+<p><strong>【圖 1：頸部解剖圖】</strong> <br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_1.webp"></p>
+<hr>
 <h3 id="iii-胸部與腋下的重要器官">III. 胸部與腋下的重要器官</h3>
 <ul>
 <li><strong>胸部：</strong> 包含心臟、肺部等器官，由肋骨與厚實肌肉包圍保護。</li>
 <li><strong>腋下：</strong> 佈滿通往手臂的血管與神經束 (臂神經叢)。</li>
 </ul>
-<h2 id="左側圖片-1"><strong>【圖 2：腋下與手臂解剖圖】</strong> <br>
-<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_2.webp"></h2>
+<p><strong>【圖 2：腋下與手臂解剖圖】</strong> <br>
+<img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_2.webp"></p>
+<hr>
 <h3 id="iv-偏離打突部位時可能發生的重大事故與注意點">IV. 偏離打突部位時可能發生的重大事故與注意點</h3>
 <h4 id="1-頸動脈-可能引發動脈剝離腦栓塞">1. 頸動脈 (可能引發：動脈剝離、腦栓塞) <br></h4>
 <ul>
@@ -80,7 +105,7 @@ margin-bottom: 20px;
 <img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_4.webp"></p>
 <h4 id="2-甲狀軟骨-喉結-與聲帶-可能引發聲帶麻痺聲帶水腫">2. 甲狀軟骨 (喉結) 與聲帶 (可能引發：聲帶麻痺、聲帶水腫) <br></h4>
 <ul>
-<li><strong>說明：</strong>
+<li><strong>說明：</strong> <br>
 •在靠近頸部中心的位置，有名為「聲帶」的發聲器官。聲帶不僅對發聲至關重要，它同時也是空氣進入肺部的「入口」，一旦此處受阻，將會導致無法呼吸。保護著聲帶的是俗稱「喉結」的甲狀軟骨。喉結位於頸部正前方，平時雖有護具妥善保護，但當竹刀從面部護具下方滑入(圖5)，或是刺擊入位後仍持續加力(即所謂的「刺擊不收單手推」或「持續推進」)，導致頸部正面承受極大壓力時，甲狀軟骨及深層的聲帶便可能受傷。<br>
 •若聲帶受損，或周邊組織因腫脹(水腫)壓迫聲帶，可能會導致聲音沙啞甚至完全無法發聲。當聲帶水腫嚴重時，甚至可能出現吸氣困難、呼吸窘迫的狀況。此外，若受傷程度嚴重，空氣可能從氣道漏出，進而引發下文所述的「縱隔氣腫」<br></li>
 <li><strong>注意點：</strong> 若刺擊後出現聲音沙啞或呼吸困難，切勿勉強說話，應立即接受檢查。</li>
@@ -89,14 +114,14 @@ margin-bottom: 20px;
 <img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_5.webp"></p>
 <h4 id="3-咽喉與氣管-可能引發皮下氣腫縱隔氣腫">3. 咽喉與氣管 (可能引發：皮下氣腫、縱隔氣腫) <br></h4>
 <ul>
-<li><strong>說明：</strong>
+<li><strong>說明：</strong> <br>
 •	由於由下往上的刺擊或是力道過猛的刺擊，極少數情況下竹刀可能會滑入頸部上方深處(如圖4、圖5左側等處)。從下顎下方到頸部上方的組織相對柔軟，若在此處遭受刺擊，作為空氣通道的喉嚨或氣管黏膜可能會受損。<br>
 •	在粘膜受損的狀態下若持續大聲喊叫(發出氣合)，空氣壓力可能會導致空氣進入粘膜下方，進而引發「皮下氣腫」或「縱隔氣腫」等病症(如圖6)。若漏出的空氣過多，甚至有阻塞原本呼吸通道的危險。此外，若唾液隨同空氣一併進入皮下組織，可能引發細菌感染，導致更為嚴重的後果。</li>
 </ul>
 <p><strong>【圖 6：皮下氣腫與縱隔氣腫】</strong><br>
 <img alt="左側圖片" loading="lazy" src="/images/kendo/k-01-0001-tsuki_6.webp"></p>
 <ul>
-<li><strong>注意點：</strong>
+<li><strong>注意點：</strong> <br>
 •	當竹刀從面部護具下方滑入，導致頸部上方或下顎等部位遭受刺擊時，若隨後出現吞嚥困難、發聲疼痛，或感覺皮膚下方有「劈啪」的空氣擠壓感等症狀，請務必立即停止發聲並保持安靜休息。<br>
 •	若出現無法吞嚥的情況，請立即就醫。即便尚能吞嚥，但若症狀在經過半天至一天後仍持續惡化，或是伴隨發燒現象，也請務必前往醫療機構接受檢查。</li>
 </ul>
@@ -115,7 +140,7 @@ margin-bottom: 20px;
 <h4 id="5-肋骨與鎖骨-可能引發骨折裂傷">5. 肋骨與鎖骨 (可能引發：骨折、裂傷)</h4>
 <ul>
 <li>
-<p><strong>說明：</strong>
+<p><strong>說明：</strong> <br>
 •	當竹刀滑向胴部外側並強力撞擊肋骨或鎖骨時，可能會導致骨裂或包覆骨骼的膜(骨膜)受損。腫脹或骨裂的症狀有時會逐漸惡化，甚至在遭受刺擊數日後才突然開始劇烈疼痛。<br>
 •	雖然大多數的肋骨骨折只要保持安靜休息即可痊癒，但若骨折程度較嚴重，隨著身體活動或呼吸起伏，骨折部位仍有可能逐漸發生位移。</p>
 </li>
@@ -125,7 +150,7 @@ margin-bottom: 20px;
 </ul>
 <h4 id="6-肺部外傷">6. 肺部外傷</h4>
 <ul>
-<li>**說明：**肺部是由肋骨、胸大肌及背肌所嚴密保護的器官，單憑「刺擊」技法本身，並不會導致肺部穿孔或受損。</li>
+<li><strong>說明：</strong> 肺部是由肋骨、胸大肌及背肌所嚴密保護的器官，單憑「刺擊」技法本身，並不會導致肺部穿孔或受損。</li>
 </ul>
 <h4 id="7-神經損傷-腋下部位">7. 神經損傷 (腋下部位)</h4>
 <ul>
@@ -137,7 +162,11 @@ margin-bottom: 20px;
 <li>當刺擊偏離目標，且沿著頸部、手臂或腋下表面摩擦而過時，可能會導致皮膚擦傷。若竹刀保養不當，甚至可能導致竹劍纖維的裂渣刺入皮膚。由於受傷部位多處於自己無法看見的死角，若傷口持續疼痛，請務必請他人協助檢查，確認是否有傷口化膿或裂渣殘留。竹刀保養不當，裂渣可能刺入皮膚造成化膿。請務必落實檢刃，並請他人協助檢查無法自視的受傷部位。</li>
 </ul>
 <hr>
-<p>※ 關於「腦震盪」的詳細資訊，請參考此處。</p>
+<p>※ 關於「腦震盪」的詳細資訊，請參考<a href="https://www.kendo.or.jp/wp/wp-content/uploads/2025/04/ajkf_concussion-slide_2504.pdf">此處</a>。</p>
+<p><a href="https://www.kendo.or.jp/wp/wp-content/uploads/2026/02/20260217_tsuki_serious_accidents.pdf">不適切な突き技によって起こり得る重大事故</a></p>
 <p><strong>譯後註記：</strong>
 劍道練習中的刺擊 (Tsuki) 是一項高階且具風險的技術。希望透過此文，能讓同好更深刻理解「安全防護」與「精準控刀」的重要性。</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

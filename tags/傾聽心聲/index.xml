@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>傾聽心聲 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%82%BE%E8%81%BD%E5%BF%83%E8%81%B2/</link><description>Recent content in 傾聽心聲 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sat, 21 Feb 2026 23:52:22 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%82%BE%E8%81%BD%E5%BF%83%E8%81%B2/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0197回】 直率</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0197-pure-honest-mind/</link><pubDate>Sat, 21 Feb 2026 23:52:22 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0197-pure-honest-mind/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>傾聽心聲 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%82%BE%E8%81%BD%E5%BF%83%E8%81%B2/</link>
+    <description>Recent content in 傾聽心聲 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:52:22 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%82%BE%E8%81%BD%E5%BF%83%E8%81%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0197回】 直率</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0197-pure-honest-mind/</link>
+      <pubDate>Sat, 21 Feb 2026 23:52:22 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0197-pure-honest-mind/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;有些人會容易接受別人的意見，但也有漫不經心的人，這似與年齡無關。一般來說，有點年記的人對於別人的言談較不易接受，所以被稱為頑固。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;有些人會容易接受別人的意見，但也有漫不經心的人，這似與年齡無關。一般來說，有點年記的人對於別人的言談較不易接受，所以被稱為頑固。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -46,4 +65,7 @@ margin-bottom: 20px;
 <p>開祖曾說合氣道需「立於天上的浮橋上」。「神聲(諭)」也同樣要真誠直率指的聽取。</p>
 <p> </p>
 <p> http://sasaki-aiki.com/article3_197.php</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

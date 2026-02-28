@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>合氣體魄 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%90%88%E6%B0%A3%E9%AB%94%E9%AD%84/</link><description>Recent content in 合氣體魄 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sat, 21 Feb 2026 23:51:46 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%90%88%E6%B0%A3%E9%AB%94%E9%AD%84/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0182回】 技法的鍛練</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0182-drill-tech-core/</link><pubDate>Sat, 21 Feb 2026 23:51:46 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0182-drill-tech-core/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>合氣體魄 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%90%88%E6%B0%A3%E9%AB%94%E9%AD%84/</link>
+    <description>Recent content in 合氣體魄 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:51:46 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%90%88%E6%B0%A3%E9%AB%94%E9%AD%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0182回】 技法的鍛練</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0182-drill-tech-core/</link>
+      <pubDate>Sat, 21 Feb 2026 23:51:46 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0182-drill-tech-core/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道技法需要經過磨練才能進步的，所以技法的磨練比什麼都重要。但是磨練不是簡單的事情。其中的一個理由是「技法」的定義是什麼？&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道技法需要經過磨練才能進步的，所以技法的磨練比什麼都重要。但是磨練不是簡單的事情。其中的一個理由是「技法」的定義是什麼？&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -49,4 +68,7 @@ margin-bottom: 20px;
 <p>在此，想到的目標有，肢體的運用上先能自然一點。不正面衝擊對手，要讓對手高高興興的自己倒下去，作得出對手沒有想(或要)抗爭的技法。最後再到達到於宇宙運行相通、一體的程度。</p>
 <p> </p>
 <p><a href="http://sasaki-aiki.com/article3_182.php">http://sasaki-aiki.com/article3_182.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

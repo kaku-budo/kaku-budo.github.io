@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>精進主題 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E4%B8%BB%E9%A1%8C/</link><description>Recent content in 精進主題 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:40 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E4%B8%BB%E9%A1%8C/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0225回】 體察到「辦不到」與「困難」便是進步</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0225-find-your-wall/</link><pubDate>Fri, 20 Feb 2026 19:02:40 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0225-find-your-wall/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>精進主題 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E4%B8%BB%E9%A1%8C/</link>
+    <description>Recent content in 精進主題 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:02:40 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E7%B2%BE%E9%80%B2%E4%B8%BB%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0225回】 體察到「辦不到」與「困難」便是進步</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0225-find-your-wall/</link>
+      <pubDate>Fri, 20 Feb 2026 19:02:40 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0225-find-your-wall/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;剛入門的一、兩年，會自覺受身很難、或是技法之型的動作做不到，因而努力克服。透過這份努力，學習者漸漸學會受身、掌握基本技的律動，進而向上提升。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;剛入門的一、兩年，會自覺受身很難、或是技法之型的動作做不到，因而努力克服。透過這份努力，學習者漸漸學會受身、掌握基本技的律動，進而向上提升。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -51,4 +70,7 @@ margin-bottom: 20px;
 <p>什麼都不懂的人，往往連自己「能做到什麼」、「做不到什麼」以及「哪裡不懂」都一無所知。無論在學校或職場，聽不懂的人不會提問；唯有聽懂且思考過的人，才能提出問題。</p>
 <p>首先，我們必須自覺那些困難與不解之處。既然合氣道的技法被視為「宇宙條理」的具現化，那麼值得深究的事理便是無窮無盡的。困難與不解的事物理應如繁星般繁多。不要擺出一副什麼都懂的樣子，必須始終保持問題意識，並逐一去排解，否則修行便會止步不前。</p>
 <p><a href="http://sasaki-aiki.com/article3_225.php">http://sasaki-aiki.com/article3_225.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

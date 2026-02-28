@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>技法驗證 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E9%A9%97%E8%AD%89/</link><description>Recent content in 技法驗證 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:51 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E9%A9%97%E8%AD%89/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0237回】 何謂合氣道的「領悟」</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0237-truth-in-act/</link><pubDate>Fri, 20 Feb 2026 19:02:51 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0237-truth-in-act/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技法驗證 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E9%A9%97%E8%AD%89/</link>
+    <description>Recent content in 技法驗證 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:02:51 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E9%A9%97%E8%AD%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0237回】 何謂合氣道的「領悟」</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0237-truth-in-act/</link>
+      <pubDate>Fri, 20 Feb 2026 19:02:51 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0237-truth-in-act/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;根據開祖的教誨，合氣道是為了與宇宙達成一體化，進而透過技法磨練來精進的道路。因此，我們必須在修行中發掘宇宙的運行與法則，亦即「真理」。既然宇宙的法則是無限的，我們就必須一個接一個地去發掘，永無止境。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;根據開祖的教誨，合氣道是為了與宇宙達成一體化，進而透過技法磨練來精進的道路。因此，我們必須在修行中發掘宇宙的運行與法則，亦即「真理」。既然宇宙的法則是無限的，我們就必須一個接一個地去發掘，永無止境。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -46,4 +65,7 @@ margin-bottom: 20px;
 <p>這就是「科學」。只要進行相同的操作，任何人都能得到相同的結果。開祖也曾使用過「科學」一詞，我想其用意正是在此。</p>
 <p>在合氣道中所謂「領悟」，無論是自己體悟的、發現的，還是承襲自開祖的理論，指的應是<strong>不僅自己能做到，也能讓他人透過技法完美呈現</strong>。</p>
 <p><a href="http://sasaki-aiki.com/article3_237.php">http://sasaki-aiki.com/article3_237.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

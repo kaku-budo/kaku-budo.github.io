@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>先縱後橫 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%85%88%E7%B8%B1%E5%BE%8C%E6%A9%AB/</link><description>Recent content in 先縱後橫 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%85%88%E7%B8%B1%E5%BE%8C%E6%A9%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0336回】　技法是圓的運行之奧妙組合</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0336-circle-flow-logic/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0336-circle-flow-logic/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>先縱後橫 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%85%88%E7%B8%B1%E5%BE%8C%E6%A9%AB/</link>
+    <description>Recent content in 先縱後橫 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%85%88%E7%B8%B1%E5%BE%8C%E6%A9%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0336回】　技法是圓的運行之奧妙組合</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0336-circle-flow-logic/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0336-circle-flow-logic/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道修行的終極目標是與宇宙融為一體。為此，修行者必須錘鍊並掌握符合宇宙運作、宇宙條理的技法，在一點一滴地融入宇宙的過程中，逐漸靠近宇宙。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道修行的終極目標是與宇宙融為一體。為此，修行者必須錘鍊並掌握符合宇宙運作、宇宙條理的技法，在一點一滴地融入宇宙的過程中，逐漸靠近宇宙。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -51,4 +71,7 @@ margin-bottom: 20px;
 <p>首先開始的必須是<strong>縱向</strong>的動作。如果先開始橫向的動作，就不會成功，會成為失敗之作。也就是說，會變成《古事記》中所記載的「水蛭子」（ヒルコ）。據說創造地球的伊邪那岐神和伊邪那美神，象徵著精神的靈(縱)和物質的靈(橫的)，但由於橫向的伊邪那美神先開始行動，所以生出了水蛭子。這就是「必須先從伊邪那岐神所代表的縱向開始行動」的教誨。在合氣道的技法運用中，這個教誨似乎也是必須遵循的。</p>
 <p>合氣道的技法，似乎就是從多樣的橫向圓的運行，以及配合天地呼吸的縱向圓的運行，這樣複雜而微妙的「圓的運行」的奧妙結合中產生出來的。</p>
 <p><a href="https://sasaki-aiki.com/article3_336.php">https://sasaki-aiki.com/article3_336.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>武道本質 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%9C%AC%E8%B3%AA/</link><description>Recent content in 武道本質 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:45:07 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%9C%AC%E8%B3%AA/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0384回】 「用」的合氣道與「道」的合氣道</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0384-aiki-way-use/</link><pubDate>Sun, 15 Feb 2026 22:45:07 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0384-aiki-way-use/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>武道本質 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%9C%AC%E8%B3%AA/</link>
+    <description>Recent content in 武道本質 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:45:07 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%AD%A6%E9%81%93%E6%9C%AC%E8%B3%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0384回】 「用」的合氣道與「道」的合氣道</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0384-aiki-way-use/</link>
+      <pubDate>Sun, 15 Feb 2026 22:45:07 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0384-aiki-way-use/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;就算努力稽古合氣道，也未必能在打架時變得強大。因為合氣道並不是為了讓人變得擅長打架而教授的。如果只是想在打架中取勝，那麼學習其他格鬥技可能會更合適。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;就算努力稽古合氣道，也未必能在打架時變得強大。因為合氣道並不是為了讓人變得擅長打架而教授的。如果只是想在打架中取勝，那麼學習其他格鬥技可能會更合適。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -81,4 +100,7 @@ margin-bottom: 20px;
 <p>若陷入「用的合氣道」，最終一定會撞上瓶頸，甚至可能損傷身體。</p>
 <p>如今，日本的代表性武道，如柔道、劍道等，也開始出現種種問題，其中一個原因，正是它們逐漸成為「用的武道」。合氣道必須謹記這一點，切勿重蹈覆轍。我們應時刻警覺，不讓合氣道淪為「用的合氣道」，而要在稽古中不斷回歸「道」的本質。</p>
 <p><a href="https://sasaki-aiki.com/article3_384.php">https://sasaki-aiki.com/article3_384.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

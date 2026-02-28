@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>氣的結成 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%B0%A3%E7%9A%84%E7%B5%90%E6%88%90/</link><description>Recent content in 氣的結成 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:04:04 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%B0%A3%E7%9A%84%E7%B5%90%E6%88%90/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0281回】 有對手、無對手</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0281-no-rival-aiki/</link><pubDate>Fri, 20 Feb 2026 19:04:04 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0281-no-rival-aiki/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>氣的結成 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%B0%A3%E7%9A%84%E7%B5%90%E6%88%90/</link>
+    <description>Recent content in 氣的結成 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:04:04 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%B0%A3%E7%9A%84%E7%B5%90%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0281回】 有對手、無對手</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0281-no-rival-aiki/</link>
+      <pubDate>Fri, 20 Feb 2026 19:04:04 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0281-no-rival-aiki/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;實物都有其陰陽、表裏、強弱等完全相反的一面。這也可以看成是由矛盾所組成的整體，從中產生出物質的安定性、力量與美感，進而發展出信賴性與說服力。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;實物都有其陰陽、表裏、強弱等完全相反的一面。這也可以看成是由矛盾所組成的整體，從中產生出物質的安定性、力量與美感，進而發展出信賴性與說服力。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -49,4 +68,7 @@ margin-bottom: 20px;
 <p>有對手、無對手，可以說是合氣道最迷人的魅力所在。</p>
 <p>參考文獻　「合気神髄」　植芝吉祥丸著</p>
 <p><a href="http://sasaki-aiki.com/article3_281.php">http://sasaki-aiki.com/article3_281.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

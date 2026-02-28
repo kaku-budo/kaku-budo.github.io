@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>重量感知 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%87%8D%E9%87%8F%E6%84%9F%E7%9F%A5/</link><description>Recent content in 重量感知 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:45:11 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E9%87%8F%E6%84%9F%E7%9F%A5/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0380回】 為了「結」</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0380-weight-for-musubi/</link><pubDate>Sun, 15 Feb 2026 22:45:11 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0380-weight-for-musubi/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>重量感知 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E9%87%8D%E9%87%8F%E6%84%9F%E7%9F%A5/</link>
+    <description>Recent content in 重量感知 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:45:11 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E9%87%8F%E6%84%9F%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0380回】 為了「結」</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0380-weight-for-musubi/</link>
+      <pubDate>Sun, 15 Feb 2026 22:45:11 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0380-weight-for-musubi/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;在相對稽古時，如果沒有在一開始做好該做的事，那之後的技就難以奏效。凡事皆講求「開端最重要」，在合氣道中同樣如此。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;在相對稽古時，如果沒有在一開始做好該做的事，那之後的技就難以奏效。凡事皆講求「開端最重要」，在合氣道中同樣如此。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -50,4 +69,7 @@ margin-bottom: 20px;
 <p>若能將充分的重量落地，所得到的反饋就越大。因此，必須讓身體的重量確實落入地面，同時注意不要僵硬、不要用力過度，也不要讓重心分散。</p>
 <p>可以說：<strong>手臂的重量，是為了與「對手」結；腿的重量，是為了與「大地」結；而身體的重量，則是為了與「地球」對話</strong>。</p>
 <p><a href="https://sasaki-aiki.com/article3_380.php">https://sasaki-aiki.com/article3_380.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

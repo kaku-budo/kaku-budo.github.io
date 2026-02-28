@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>檢視 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%AA%A2%E8%A6%96/</link><description>Recent content in 檢視 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%AA%A2%E8%A6%96/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0441回】　手臂不可橫向使用</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0441-arm-line-use/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0441-arm-line-use/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>檢視 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%AA%A2%E8%A6%96/</link>
+    <description>Recent content in 檢視 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%AA%A2%E8%A6%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0441回】　手臂不可橫向使用</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0441-arm-line-use/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0441-arm-line-use/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道常被說成沒有形，因此有人便以為技法也沒有固定的形，甚至出現輕視形的傾向。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道常被說成沒有形，因此有人便以為技法也沒有固定的形，甚至出現輕視形的傾向。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -49,4 +69,7 @@ margin-bottom: 20px;
 <p>然而，僅僅讓手臂上下移動，並不會形成技。手與手臂必須以縱橫交錯、呈螺旋方式來使用。若不是螺旋運動，手臂容易彎折、力量不能傳遞，最終仍會變成橫向使用。</p>
 <p><strong>與其急著投(摔)對方、壓制對方，不如在稽古中好好檢視自己的姿勢、動作，並特別注意不要讓手臂往橫向使用。反省自我、調整自我，才是更重要的稽古方式</strong>。</p>
 <p><a href="https://sasaki-aiki.com/article3_441.php">https://sasaki-aiki.com/article3_441.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

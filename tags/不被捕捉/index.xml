@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>不被捕捉 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E4%B8%8D%E8%A2%AB%E6%8D%95%E6%8D%89/</link><description>Recent content in 不被捕捉 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E4%B8%8D%E8%A2%AB%E6%8D%95%E6%8D%89/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0231回】　不看對手</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0231-do-not-stare/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0231-do-not-stare/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>不被捕捉 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E4%B8%8D%E8%A2%AB%E6%8D%95%E6%8D%89/</link>
+    <description>Recent content in 不被捕捉 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E4%B8%8D%E8%A2%AB%E6%8D%95%E6%8D%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0231回】　不看對手</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0231-do-not-stare/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0231-do-not-stare/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道通常透過相對稽古來磨練技法。我們練習如何化解(捌く)對手以各種方式發動的攻擊：無論是以手刀劈砍、以手抓握，或是以木劍、短刀進行打擊與突刺。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道通常透過相對稽古來磨練技法。我們練習如何化解(捌く)對手以各種方式發動的攻擊：無論是以手刀劈砍、以手抓握，或是以木劍、短刀進行打擊與突刺。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -46,4 +66,7 @@ margin-bottom: 20px;
 <p>無論是被手刀劈中或被木劍砍到，既然是稽古，頂多就是一點疼痛，不至於造成嚴重損傷。若能抱持這份覺悟，心境便能沉穩而不動搖，進而達到不看對手也能動作的境界。</p>
 <p>我們只需一點一滴地進步即可，絕不可自滿於「已經完全學會」。要徒手化解劍或杖的攻擊絕非易事，若認為能輕易做到，對那些專研劍道或杖道的人實屬失禮。唯有謙虛且紮實地持續這份「不看對手」的稽古，才能在精進之路上緩步前行。</p>
 <p><a href="http://sasaki-aiki.com/article3_231.php">http://sasaki-aiki.com/article3_231.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

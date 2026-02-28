@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>捨棄蠻力 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%8D%A8%E6%A3%84%E8%A0%BB%E5%8A%9B/</link><description>Recent content in 捨棄蠻力 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sat, 21 Feb 2026 23:52:26 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%8D%A8%E6%A3%84%E8%A0%BB%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0199回】 使技法有效的10個條件</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0199-ten-key-rules/</link><pubDate>Sat, 21 Feb 2026 23:52:26 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0199-ten-key-rules/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>捨棄蠻力 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%8D%A8%E6%A3%84%E8%A0%BB%E5%8A%9B/</link>
+    <description>Recent content in 捨棄蠻力 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:52:26 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%8D%A8%E6%A3%84%E8%A0%BB%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0199回】 使技法有效的10個條件</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0199-ten-key-rules/</link>
+      <pubDate>Sat, 21 Feb 2026 23:52:26 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0199-ten-key-rules/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;做合氣道修行的人在精進練習時，大家都會有再多進步一點的，練習都是相當努力的。但是技法不是照自己期望就能進步的。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;做合氣道修行的人在精進練習時，大家都會有再多進步一點的，練習都是相當努力的。但是技法不是照自己期望就能進步的。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -53,24 +72,35 @@ margin-bottom: 20px;
 <p>為使技法能做得好，這十條只能當成must。其他的必要條件，如「技法中的技法」「技法要因」只能靠自己一個一個的去發現，同時成為自己的專長技法。</p>
 <p> </p>
 <p> http://sasaki-aiki.com/article3_199.php</p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0213回】 從失敗中學習</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0213-learn-from-fail/</link><pubDate>Fri, 20 Feb 2026 19:02:23 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0213-learn-from-fail/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0213回】 從失敗中學習</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0213-learn-from-fail/</link>
+      <pubDate>Fri, 20 Feb 2026 19:02:23 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0213-learn-from-fail/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道通常是由兩人一組，透過交替施技與受身的「相對稽古」來磨練技藝。然而，自己的技法並不總是能奏效，對手未必每次都會如預期般倒下；時而會遇到對手頑強抵抗，或是被對手脫逃的情況。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道通常是由兩人一組，透過交替施技與受身的「相對稽古」來磨練技藝。然而，自己的技法並不總是能奏效，對手未必每次都會如預期般倒下；時而會遇到對手頑強抵抗，或是被對手脫逃的情況。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -102,25 +132,37 @@ margin-bottom: 20px;
 <p>在技法的磨練中，雖然為了進步必須盡量避免失敗，但也不必畏懼失敗。挑戰新事物時，失敗在所難免；若因畏懼失敗而只做自己辦得到的事，修行便無法前行。</p>
 <p>關鍵在於必須具備「從失敗中學習」的心態。失敗後不可置之不理，而要探究原因並找出解決方案。不斷內化這些身為解決方案的「技之要素」，這才是技法的磨練、才是真正的進步，這就是合氣道。</p>
 <p><a href="http://sasaki-aiki.com/article3_213.php">http://sasaki-aiki.com/article3_213.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0319回】　什麼才是重要的</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0319-focus-on-essentials/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0319-focus-on-essentials/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0319回】　什麼才是重要的</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0319-focus-on-essentials/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0319-focus-on-essentials/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;要成就一件事，必須做到幾件事。首先，要明確地設定目標，並且時刻將這個目標放在心上。其次，要善用各種手段去達成或接近這個目標，全力以赴。最後，還需要運氣。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;要成就一件事，必須做到幾件事。首先，要明確地設定目標，並且時刻將這個目標放在心上。其次，要善用各種手段去達成或接近這個目標，全力以赴。最後，還需要運氣。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -157,4 +199,7 @@ margin-bottom: 20px;
 <p>如此一來，你便能分辨出重要與不重要之處，將不重要的部分不斷捨棄，專注於重要的事物。</p>
 <p>當你能在一人稽古中明白這些，在相對稽古中也同樣能看清楚什麼才是真正重要的。</p>
 <p><a href="https://sasaki-aiki.com/article3_319.php">https://sasaki-aiki.com/article3_319.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

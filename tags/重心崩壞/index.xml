@@ -1,22 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>重心崩壞 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%B4%A9%E5%A3%9E/</link><description>Recent content in 重心崩壞 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:36 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%B4%A9%E5%A3%9E/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0221回】 十字身法的稽古程序</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0221-cross-body-way/</link><pubDate>Fri, 20 Feb 2026 19:02:36 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0221-cross-body-way/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>重心崩壞 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%B4%A9%E5%A3%9E/</link>
+    <description>Recent content in 重心崩壞 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:02:36 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E9%87%8D%E5%BF%83%E5%B4%A9%E5%A3%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0221回】 十字身法的稽古程序</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0221-cross-body-way/</link>
+      <pubDate>Fri, 20 Feb 2026 19:02:36 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0221-cross-body-way/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;img src="https://kaku-budo.github.io/images/aikido/t-0221_3.jpg " alt="右側圖片" style="float:right; margin:10px; width:200px;"&gt;
-&lt;p&gt;延續前一回的內容，本篇將介紹在法國土魯斯講習會中，以「十字身法」為主題的稽古安排。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;img src=&#34;https://kaku-budo.github.io/images/aikido/t-0221_3.jpg &#34; alt=&#34;右側圖片&#34; style=&#34;float:right; margin:10px; width:200px;&#34;&gt;
+&lt;p&gt;延續前一回的內容，本篇將介紹在法國土魯斯講習會中，以「十字身法」為主題的稽古安排。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -51,4 +70,7 @@ margin-bottom: 20px;
 <p>○	<strong>橫面打小手摔(反手摔)</strong>： 使對手的手腕與前臂形成十字夾角，且我方的手(大拇指側)亦須以十字方式反轉。</p>
 <p>當天原定若時間充裕，還要練習「十字摔(十字絞)」與「腰摔」等若不具備十字理則便無法成立的技法，可惜因時間有限而未能實踐。</p>
 <p><a href="http://sasaki-aiki.com/article3_221.php">http://sasaki-aiki.com/article3_221.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

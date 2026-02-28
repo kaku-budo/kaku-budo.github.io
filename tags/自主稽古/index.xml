@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>自主稽古 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A8%BD%E5%8F%A4/</link><description>Recent content in 自主稽古 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:02:48 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A8%BD%E5%8F%A4/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0233回】 習慣化</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0233-make-it-habit/</link><pubDate>Fri, 20 Feb 2026 19:02:48 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0233-make-it-habit/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自主稽古 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A8%BD%E5%8F%A4/</link>
+    <description>Recent content in 自主稽古 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:02:48 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%A8%BD%E5%8F%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0233回】 習慣化</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0233-make-it-habit/</link>
+      <pubDate>Fri, 20 Feb 2026 19:02:48 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0233-make-it-habit/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;無論學習任何新事物，起初往往會猶豫不決，或是下意識地尋找「今天可以不用做」的藉口。雖然現在回想起來不可思議，但我剛開始練習合氣道時，也曾多次糾結於要不要去道場，甚至找理由請假。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;無論學習任何新事物，起初往往會猶豫不決，或是下意識地尋找「今天可以不用做」的藉口。雖然現在回想起來不可思議，但我剛開始練習合氣道時，也曾多次糾結於要不要去道場，甚至找理由請假。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -46,24 +65,35 @@ margin-bottom: 20px;
 <p>第三，<strong>習慣化是進步與上達的基礎</strong>。 人類具備一種本能：只要每天重複同一件事，便會下意識地追求「做得更好」。我們會吸收成功的經驗，捨棄失敗的路徑。這種渴望向上的志向，正與「宇宙生成化育」的道理相通。</p>
 <p>當然，若以錯誤的方法進行，結果便會背道而馳，甚至損傷身體。為了不誤入歧途，我們必須將「合乎道之理法」的稽古化為習慣。</p>
 <p><a href="http://sasaki-aiki.com/article3_233.php">http://sasaki-aiki.com/article3_233.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0297回】 稽古的本質，是獨自一人</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0297-solitary-practice-art/</link><pubDate>Sun, 15 Feb 2026 22:47:07 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0297-solitary-practice-art/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0297回】 稽古的本質，是獨自一人</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0297-solitary-practice-art/</link>
+      <pubDate>Sun, 15 Feb 2026 22:47:07 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0297-solitary-practice-art/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;人，天生就害怕孤獨。如果無法與他人一同生活，往往會感到寂寞與不安。例如，在過去的社會中，被「村八分」(註1：遭村落排擠)是一種極為嚴厲的懲罰，這種孤立帶來的寂寞與痛苦毋庸置疑。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;人，天生就害怕孤獨。如果無法與他人一同生活，往往會感到寂寞與不安。例如，在過去的社會中，被「村八分」(註1：遭村落排擠)是一種極為嚴厲的懲罰，這種孤立帶來的寂寞與痛苦毋庸置疑。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -98,25 +128,37 @@ margin-bottom: 20px;
 <p>註1：「村八分」是日本傳統村落中，對違反規矩的人施行的集體排斥懲罰。村民會停止幫助被排斥者生活中的八件重要事情，只留下「協助滅火」和「幫忙喪事」兩件，因為這兩件關係到全村安全和衛生。</p>
 <p>這種做法讓被排斥者幾乎無法在村裡正常生活，是一種非常嚴厲的社會孤立手段。名稱「村八分」就是指在十件重要互助事項中，只剩兩件會被幫助，其他八件都被拒絕。</p>
 <p><a href="https://sasaki-aiki.com/article3_297.php">https://sasaki-aiki.com/article3_297.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0262回】　意象訓練</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0262-mind-over-move/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0262-mind-over-move/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0262回】　意象訓練</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0262-mind-over-move/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0262-mind-over-move/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道通常是以兩人一組的「相對稽古」形式進行技法的互練。先生認為這種稽古方式既和平、合乎理法，又對健康有益，確實是非常出色的訓練法。也就是說，不論技術優劣或資歷深淺，雙方都能公平地施技與擔任受方。初學者透過受身來記憶技法，即便施技動作有誤，也能在資深受方的引導下完成動作。此外，無論資歷再深的修行者都必須擔任受方，透過翻滾流汗變得健康，並能時刻重拾初心，這可說是領先時代的理想稽古法。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道通常是以兩人一組的「相對稽古」形式進行技法的互練。先生認為這種稽古方式既和平、合乎理法，又對健康有益，確實是非常出色的訓練法。也就是說，不論技術優劣或資歷深淺，雙方都能公平地施技與擔任受方。初學者透過受身來記憶技法，即便施技動作有誤，也能在資深受方的引導下完成動作。此外，無論資歷再深的修行者都必須擔任受方，透過翻滾流汗變得健康，並能時刻重拾初心，這可說是領先時代的理想稽古法。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -157,25 +199,37 @@ margin-bottom: 20px;
 <p>此外，一人練習不受干擾，動作應能更趨精確。若能在腦海中依照意象精準地邁步、移動身體、施展技法，那麼在與真實對手稽古時，成功的可能性就會大幅提高。雖然「意象中能做到」不保證「相對稽古也能做到」，但可以保證：「若一個人練習時做不到，兩個人練習時絕對也做不到」。</p>
 <p>修行層級越高，意象訓練與融入意象的單人稽古，其重要性將會日益顯著。</p>
 <p><a href="http://sasaki-aiki.com/article3_262.php">http://sasaki-aiki.com/article3_262.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0478回】　實用技的習得，靠的是自己不斷的稽古</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0478-self-practice-mastery/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0478-self-practice-mastery/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0478回】　實用技的習得，靠的是自己不斷的稽古</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0478-self-practice-mastery/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0478-self-practice-mastery/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道有一項有趣之處：即使存在許多矛盾，但每一個矛盾往往又彼此相依、構成表裏一體。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道有一項有趣之處：即使存在許多矛盾，但每一個矛盾往往又彼此相依、構成表裏一體。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -218,4 +272,7 @@ margin-bottom: 20px;
 「<strong>指導者之教導僅能傳授其一端，能否活用其妙理，唯有依靠自己不斷的練習方能體得</strong>。」(植芝守孝高《武道》昭和13年)開祖也說過，如果不做自主稽古，就無法會得、也無法進步。</p>
 <p>既然道場提供了寶貴的自主稽古時間與場所，我們就應心懷感謝，好好利用，逐步接近合氣的真髓。</p>
 <p><a href="https://sasaki-aiki.com/article3_478.php">https://sasaki-aiki.com/article3_478.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

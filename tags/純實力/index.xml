@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>純實力 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%B4%94%E5%AF%A6%E5%8A%9B/</link><description>Recent content in 純實力 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sat, 21 Feb 2026 23:52:04 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%B4%94%E5%AF%A6%E5%8A%9B/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0190回】 徒手單獨動作</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0190-solo-form-base/</link><pubDate>Sat, 21 Feb 2026 23:52:04 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0190-solo-form-base/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>純實力 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E7%B4%94%E5%AF%A6%E5%8A%9B/</link>
+    <description>Recent content in 純實力 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:52:04 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E7%B4%94%E5%AF%A6%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0190回】 徒手單獨動作</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0190-solo-form-base/</link>
+      <pubDate>Sat, 21 Feb 2026 23:52:04 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0190-solo-form-base/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道的基本練習，是由兩人一組作相對練習。做技法時，受方作出自然的反應，很有趣味性，練習也容易，只要知道技法的外型，任何人都做得出來。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道的基本練習，是由兩人一組作相對練習。做技法時，受方作出自然的反應，很有趣味性，練習也容易，只要知道技法的外型，任何人都做得出來。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -45,4 +64,7 @@ margin-bottom: 20px;
 <p>持著劍杖也能做單獨動作時，在徒手方面比較難一點的，如「武道的整體配合」「速度」「迅速的入身與轉換」「在身體的正面做技法」「手與身體作螺旋的聯動動作」等等都會比較容易學得會。只要練奪劍、奪杖、奪刀等等的固定外型樣式。先從自己較會的先練，再練較不順手的。徒手單獨動作練習就會十分完美。</p>
 <p> </p>
 <p> http://sasaki-aiki.com/article3_190.php</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

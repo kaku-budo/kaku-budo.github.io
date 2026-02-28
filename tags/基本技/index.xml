@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>基本技 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%8A%80/</link><description>Recent content in 基本技 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%8A%80/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0351回】　不可忽視基本技</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0351-back-basic-form/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0351-back-basic-form/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>基本技 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%8A%80/</link>
+    <description>Recent content in 基本技 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%9F%BA%E6%9C%AC%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0351回】　不可忽視基本技</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0351-back-basic-form/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0351-back-basic-form/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道的一般稽古，多以兩人一組的方式進行，彼此輪流擔任捕(施技者)與受(被技者)，在互動中反覆練習技法，藉此精進。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道的一般稽古，多以兩人一組的方式進行，彼此輪流擔任捕(施技者)與受(被技者)，在互動中反覆練習技法，藉此精進。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -53,25 +73,37 @@ margin-bottom: 20px;
 <p>透過不斷紮實的基本技稽古，會逐漸理解更多層面：包括呼吸的運用、引力的感覺，以及理合之技的體現。當你掌握了呼吸與理合，身體自然能與對手貼合而不分離，進而進入「真正呼吸力養成」的階段。</p>
 <p>也就是說，從這裡起，才算真正踏入了「稽古的正道」。當<strong>遇到瓶頸時，請回到初心，回到基本</strong>。若忽視基本技，就無法邁向更高的境界。</p>
 <p><a href="https://sasaki-aiki.com/article3_351.php">https://sasaki-aiki.com/article3_351.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0506回】　從基本邁向應用</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0506-basic-to-apply/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0506-basic-to-apply/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0506回】　從基本邁向應用</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0506-basic-to-apply/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0506-basic-to-apply/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;一般都說學習任何事物，&lt;strong&gt;基本&lt;/strong&gt;最為重要。然而，這卻往往不是一件容易的事。在我們所修習的合氣道中，也不見得有很多人真正從心底重視基本。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;一般都說學習任何事物，&lt;strong&gt;基本&lt;/strong&gt;最為重要。然而，這卻往往不是一件容易的事。在我們所修習的合氣道中，也不見得有很多人真正從心底重視基本。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -105,25 +137,37 @@ margin-bottom: 20px;
 <p><strong>越扎實地鍛鍊基本，越能生出更多應用技。若想做出更多應用技，與其刻意去練應用技，不如深入鑽研基本技。這或許就是合氣道的教導，也是其中的悖論(註1)(Paradox)想要自由運用應用技，必須回到基本</strong>。</p>
 <p>註1：「パラドックス」：這個詞是源自英文的 &ldquo;Paradox&rdquo;，它的意思就是：「矛盾」 或 「悖論」。它指的是一種表面上看起來自相矛盾、荒謬，但實際上可能包含真理，或經過仔細思考後才能理解其邏輯的陳述或現象。</p>
 <p><a href="https://sasaki-aiki.com/article3_506.php">https://sasaki-aiki.com/article3_506.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0509回】　消除不得意技</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0509-remove-weak-tech/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0509-remove-weak-tech/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0509回】　消除不得意技</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0509-remove-weak-tech/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0501-0600/t-0509-remove-weak-tech/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道是透過彼此鍛鍊技法來精進的。所謂鍛鍊技法，就是讓技一步步更接近宇宙法則，讓動作更符合那樣的規律。如果以 100 分來代表宇宙法則的境界，那麼我們從稽古開始前的 0 分開始，隨著稽古逐漸提升，努力讓技更接近那 100 分。然而，以我們凡人的能力，要達到 100 分大概是不可能的。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是透過彼此鍛鍊技法來精進的。所謂鍛鍊技法，就是讓技一步步更接近宇宙法則，讓動作更符合那樣的規律。如果以 100 分來代表宇宙法則的境界，那麼我們從稽古開始前的 0 分開始，隨著稽古逐漸提升，努力讓技更接近那 100 分。然而，以我們凡人的能力，要達到 100 分大概是不可能的。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -162,4 +206,7 @@ margin-bottom: 20px;
 <p>例如，一教到五教的基本技，要依更嚴格的法則來鍛鍊。到這個階段，重點已<strong>不在對手如何、如何制對手</strong>，而是無論對手怎麼做，都只是一種面向自我的稽古，成為與自身真正交鋒的修行。這<strong>不再是相對性的體力比試，而是與自己內心對話、抗衡的「心的稽古」</strong>。</p>
 <p>首先，我們必須做的，就是，消除不得意技。</p>
 <p><a href="https://sasaki-aiki.com/article3_509.php">https://sasaki-aiki.com/article3_509.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

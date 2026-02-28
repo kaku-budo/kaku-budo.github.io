@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>陰陽 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD/</link><description>Recent content in 陰陽 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0411回】　以天地之呼吸衍生出技法</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0411-heaven-earth-breath/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0411-heaven-earth-breath/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>陰陽 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD/</link>
+    <description>Recent content in 陰陽 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E9%99%B0%E9%99%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0411回】　以天地之呼吸衍生出技法</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0411-heaven-earth-breath/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0411-heaven-earth-breath/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道被認為是透過技的錘鍊而精進的，但隨著年資增長，人們會逐漸體會到，這並不是件容易的事。初學者往往將合氣道的基本形(型)視為「技」，認為只要記住形的動作，就算學會了技。然而，形與技並不相同。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道被認為是透過技的錘鍊而精進的，但隨著年資增長，人們會逐漸體會到，這並不是件容易的事。初學者往往將合氣道的基本形(型)視為「技」，認為只要記住形的動作，就算學會了技。然而，形與技並不相同。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -72,25 +92,37 @@ margin-bottom: 20px;
 <p>此外，「若無與天之呼吸交流，地不動；而能生萬物(技)者，皆由天地之呼吸所致。」可見天地之呼吸極為重要。然而，要使地之呼吸(橫向、如潮汐的漲退)運行，首先必須具備天之呼吸；而為了天地之呼吸，最根本的仍是「天之氣」。</p>
 <p>這正是所謂的「理之呼吸」、亦即「天地之呼吸」。而正是透過這「理之呼吸」，技方能誕生。能在所有的基本技(形)中貫徹這樣的「天地之呼吸」，正是錘鍊真正之技的重要關鍵。</p>
 <p><a href="https://sasaki-aiki.com/article3_411.php">https://sasaki-aiki.com/article3_411.php</a></p>
-]]></content:encoded></item><item><title>合氣道進步的秘訣【第0425回】　小中大・近中遠的目標</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</link><pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-/* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+]]></content:encoded>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0425回】　小中大・近中遠的目標</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0401-0500/t-0425-goal-step-universe/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
 &lt;/style&gt;
-&lt;p&gt;合氣道中&lt;strong&gt;沒有做到這裡就結束&lt;/strong&gt;這回事。它不像運動或演藝界，不會有所謂的引退宣言。就算努力到極致，仍會覺得還有尚未做到的部分；而當覺得&lt;strong&gt;做到這裡就是極限了&lt;/strong&gt;時，也只能靜靜淡出。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道中&lt;strong&gt;沒有做到這裡就結束&lt;/strong&gt;這回事。它不像運動或演藝界，不會有所謂的引退宣言。就算努力到極致，仍會覺得還有尚未做到的部分；而當覺得&lt;strong&gt;做到這裡就是極限了&lt;/strong&gt;時，也只能靜靜淡出。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -128,4 +160,7 @@ margin-bottom: 20px;
 <p>也就是說，先達成小／近目標，再前往中目標，最終通往大／遠的目標。但若沒有遠大的大目標，中目標與小目標便無法成立；這樣的稽古最終也會變成沒有方向的練習。</p>
 <p>註1：<strong>生產び：指陰陽、精神與物質、己方與對手之間完美地融合、調和，從而產生出新的、圓滿的創造性力量的法則</strong>。</p>
 <p><a href="https://sasaki-aiki.com/article3_425.php">https://sasaki-aiki.com/article3_425.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

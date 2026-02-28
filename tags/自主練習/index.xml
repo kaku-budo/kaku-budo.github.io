@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>自主練習 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%B7%B4%E7%BF%92/</link><description>Recent content in 自主練習 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:04:02 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%B7%B4%E7%BF%92/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0280回】 自己練習</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0280-self-train-deep/</link><pubDate>Fri, 20 Feb 2026 19:04:02 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0280-self-train-deep/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自主練習 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%B7%B4%E7%BF%92/</link>
+    <description>Recent content in 自主練習 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:04:02 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E8%87%AA%E4%B8%BB%E7%B7%B4%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0280回】 自己練習</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0280-self-train-deep/</link>
+      <pubDate>Fri, 20 Feb 2026 19:04:02 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0280-self-train-deep/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道是不分男女老少都能參與的武道。由於不設比賽，不僅減少了受傷的風險，也免除了勝負爭奪時的緊張感。一般而言，大約修煉個兩三年，就能初步掌握基本技法。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道是不分男女老少都能參與的武道。由於不設比賽，不僅減少了受傷的風險，也免除了勝負爭奪時的緊張感。一般而言，大約修煉個兩三年，就能初步掌握基本技法。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -47,4 +66,7 @@ margin-bottom: 20px;
 <p>如果自我練習只是機械式地反覆動作，而沒有確實深化技法的內涵，這便是學習停滯的警訊。若想在合氣道之路上走得長遠，絕對不可忽視自我練習的重要性。</p>
 <p>參考文獻　　　『合気道』植芝盛平監修　　植芝吉祥丸著</p>
 <p><a href="http://sasaki-aiki.com/article3_280.php">http://sasaki-aiki.com/article3_280.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>誠心呼吸 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%AA%A0%E5%BF%83%E5%91%BC%E5%90%B8/</link><description>Recent content in 誠心呼吸 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:28 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%AA%A0%E5%BF%83%E5%91%BC%E5%90%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0330回】 作為武道家的禮儀</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0330-budo-etiquette-spirit/</link><pubDate>Sun, 15 Feb 2026 22:46:28 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0330-budo-etiquette-spirit/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>誠心呼吸 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E8%AA%A0%E5%BF%83%E5%91%BC%E5%90%B8/</link>
+    <description>Recent content in 誠心呼吸 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:46:28 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E8%AA%A0%E5%BF%83%E5%91%BC%E5%90%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0330回】 作為武道家的禮儀</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0330-budo-etiquette-spirit/</link>
+      <pubDate>Sun, 15 Feb 2026 22:46:28 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0330-budo-etiquette-spirit/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;在武道中，禮儀被極為重視。所謂「以禮始、以禮終」，正說明禮的重要性。武道的孩子們自幼便在嚴格的禮儀教育中成長。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;在武道中，禮儀被極為重視。所謂「以禮始、以禮終」，正說明禮的重要性。武道的孩子們自幼便在嚴格的禮儀教育中成長。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -93,4 +112,7 @@ margin-bottom: 20px;
 <p>行禮時，應在「吸氣」的同時彎腰低頭，停下時吐氣，起身時再吸氣。若不懂這種呼吸法，技法自然也難以純熟。</p>
 <p>作為武道家，禮儀極為重要。唯有以正確的呼吸，做出莊重而美的敬禮，才能真正展現武道之心。因此，稽古「禮」本身，也是修行中不可或缺的一環。</p>
 <p><a href="https://sasaki-aiki.com/article3_330.php">https://sasaki-aiki.com/article3_330.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

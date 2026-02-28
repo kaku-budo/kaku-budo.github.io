@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>紀錄保存 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E7%B4%80%E9%8C%84%E4%BF%9D%E5%AD%98/</link><description>Recent content in 紀錄保存 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:47:04 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E7%B4%80%E9%8C%84%E4%BF%9D%E5%AD%98/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0300回】 文字化</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0300-textualize-the-art/</link><pubDate>Sun, 15 Feb 2026 22:47:04 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0300-textualize-the-art/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>紀錄保存 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E7%B4%80%E9%8C%84%E4%BF%9D%E5%AD%98/</link>
+    <description>Recent content in 紀錄保存 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:47:04 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E7%B4%80%E9%8C%84%E4%BF%9D%E5%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0300回】 文字化</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0300-textualize-the-art/</link>
+      <pubDate>Sun, 15 Feb 2026 22:47:04 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0300-textualize-the-art/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;抱歉這次談到老師個人經歷。有兩件一直不擅長、也長期逃避的事：一是在人前講話，二是寫字。因此，總是儘量避免在眾人面前露面，也盡量不發言。至於寫字，更是能避就避。像是拜訪親戚時的賀詞，從小便由勤於書寫的父母代筆；婚後則交由妻子撰寫。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;抱歉這次談到老師個人經歷。有兩件一直不擅長、也長期逃避的事：一是在人前講話，二是寫字。因此，總是儘量避免在眾人面前露面，也盡量不發言。至於寫字，更是能避就避。像是拜訪親戚時的賀詞，從小便由勤於書寫的父母代筆；婚後則交由妻子撰寫。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -53,4 +72,7 @@ margin-bottom: 20px;
 <p>可以說，文化是透過文字得以傳承的。未被文字記錄的文化，幾乎都已消失。雖然繩文時代似乎擁有豐富的文化，但因缺乏文字記錄，如今我們無法窺見其全貌，絕大部分也已佚失。</p>
 <p>如果每位修行者都不將自己的合氣道經驗文字化，那麼這些知識與文化終將消逝。凡是我們認為值得保留、希望傳遞給後人、希望後進延續的內容，都應該加以記錄。至於哪些能夠流傳下來，最終會由後人自行判斷；<span style="color: #c0392b; font-size: 1.0em; font-weight: bold;"> 我們的責任，只是在當下好好地記下來。好的東西自然會留下，不必要的內容也會自然而然地被淘汰</span>。</p>
 <p><a href="https://sasaki-aiki.com/article3_300.php">https://sasaki-aiki.com/article3_300.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

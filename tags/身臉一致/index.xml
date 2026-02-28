@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>身臉一致 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E8%BA%AB%E8%87%89%E4%B8%80%E8%87%B4/</link><description>Recent content in 身臉一致 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:10 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E8%BA%AB%E8%87%89%E4%B8%80%E8%87%B4/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0342回】 三角法與腹</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0342-belly-triangle-pivot/</link><pubDate>Sun, 15 Feb 2026 22:46:10 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0342-belly-triangle-pivot/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>身臉一致 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E8%BA%AB%E8%87%89%E4%B8%80%E8%87%B4/</link>
+    <description>Recent content in 身臉一致 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:46:10 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E8%BA%AB%E8%87%89%E4%B8%80%E8%87%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0342回】 三角法與腹</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0342-belly-triangle-pivot/</link>
+      <pubDate>Sun, 15 Feb 2026 22:46:10 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0342-belly-triangle-pivot/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;在合氣道的相對稽古中，學員透過技的形來磨練技術，但往往難以如願。其實，技法無法如想像般順利施展，乃是理所當然的事。因為合氣道的技法，必須遵循宇宙的法則而行。若不能依循宇宙的條理運用身體與呼吸，自然無法達到理想的境界。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;在合氣道的相對稽古中，學員透過技的形來磨練技術，但往往難以如願。其實，技法無法如想像般順利施展，乃是理所當然的事。因為合氣道的技法，必須遵循宇宙的法則而行。若不能依循宇宙的條理運用身體與呼吸，自然無法達到理想的境界。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -45,4 +64,7 @@ margin-bottom: 20px;
 <p>要能以腹反轉地運用身體，必須掌握「△法」中撞木步的運足方式。應使腹乘於撞木之足上前進。為了讓腹穩穩落在撞木之足上，需以腰為中心運動，使雙足常在腹的正下方。</p>
 <p>腹的反轉運用中，「臉」的方向也極為重要。腹的朝向與臉的朝向必須一致。施技時的鐵則之一，便是「不可扭身」。因此，腹與臉應在同一平面上。人往往會不自覺地盯著與對手接觸的部位，或將注意力停留於那裡，這樣容易破壞腹與臉的協調一致，須特別留意。</p>
 <p><a href="https://sasaki-aiki.com/article3_342.php">https://sasaki-aiki.com/article3_342.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

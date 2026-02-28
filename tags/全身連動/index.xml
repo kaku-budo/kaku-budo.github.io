@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>全身連動 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E9%80%A3%E5%8B%95/</link><description>Recent content in 全身連動 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Fri, 20 Feb 2026 19:03:51 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E9%80%A3%E5%8B%95/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0275回】 合氣道與管弦樂團</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0275-body-orchestra-sync/</link><pubDate>Fri, 20 Feb 2026 19:03:51 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0275-body-orchestra-sync/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>全身連動 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E9%80%A3%E5%8B%95/</link>
+    <description>Recent content in 全身連動 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:03:51 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%85%A8%E8%BA%AB%E9%80%A3%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0275回】 合氣道與管弦樂團</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0275-body-orchestra-sync/</link>
+      <pubDate>Fri, 20 Feb 2026 19:03:51 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0275-body-orchestra-sync/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道極其重視技法的磨練，因此身體的應用方法就顯得至關重要。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道極其重視技法的磨練，因此身體的應用方法就顯得至關重要。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -43,4 +62,7 @@ margin-bottom: 20px;
 <p>在樂團中，哪怕只有一個小單位或任何一名成員失誤，演奏出的樂曲水準就會大打折扣。同樣地，施展技法時，若手、腳、軀幹沒有合宜的配合，技法一定無法成立。手部的動作只要有一絲偏差，就無法完成好的技法；甚至僅僅是一支手指的動作不到位，整體表現就會受到影響。</p>
 <p>若想作好技法，身體各部位都必須進行最高標的動作鍛鍊。而這全身上下無數部位的協調一致，最終必須依靠「心」來擔任指揮，下達最確實的指令。</p>
 <p><a href="http://sasaki-aiki.com/article3_275.php">http://sasaki-aiki.com/article3_275.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

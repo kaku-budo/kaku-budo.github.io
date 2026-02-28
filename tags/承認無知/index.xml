@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>承認無知 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E6%89%BF%E8%AA%8D%E7%84%A1%E7%9F%A5/</link><description>Recent content in 承認無知 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sat, 21 Feb 2026 23:52:17 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E6%89%BF%E8%AA%8D%E7%84%A1%E7%9F%A5/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0195回】 首先，知道現在還不知道的事情</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0195-start-from-unknown/</link><pubDate>Sat, 21 Feb 2026 23:52:17 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0195-start-from-unknown/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>承認無知 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%89%BF%E8%AA%8D%E7%84%A1%E7%9F%A5/</link>
+    <description>Recent content in 承認無知 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:52:17 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%89%BF%E8%AA%8D%E7%84%A1%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0195回】 首先，知道現在還不知道的事情</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0195-start-from-unknown/</link>
+      <pubDate>Sat, 21 Feb 2026 23:52:17 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0195-start-from-unknown/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;人們常易於認定先入為主的觀念或錯覺，或是易於產生這些觀念或錯覺。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;人們常易於認定先入為主的觀念或錯覺，或是易於產生這些觀念或錯覺。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -46,4 +65,7 @@ margin-bottom: 20px;
 <p>因此，心態上先要抱持著自己仍還有很多不清楚的地方，自己也還沒有進到真正的練習。所以練習要從自己不知道的、不清楚的、做不來的地方，先去瞭解、完成它才行。</p>
 <p> </p>
 <p><a href="http://sasaki-aiki.com/article3_195.php">http://sasaki-aiki.com/article3_195.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

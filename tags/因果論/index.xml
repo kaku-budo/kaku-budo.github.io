@@ -1,21 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>因果論 on icqkaku 的武道筆記</title><link>https://kaku-budo.github.io/tags/%E5%9B%A0%E6%9E%9C%E8%AB%96/</link><description>Recent content in 因果論 on icqkaku 的武道筆記</description><generator>Hugo -- 0.154.3</generator><language>zh-tw</language><lastBuildDate>Sun, 15 Feb 2026 22:46:01 +0800</lastBuildDate><atom:link href="https://kaku-budo.github.io/tags/%E5%9B%A0%E6%9E%9C%E8%AB%96/index.xml" rel="self" type="application/rss+xml"/><item><title>合氣道進步的秘訣【第0352回】 欲速則不達</title><link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0352-natural-flow-result/</link><pubDate>Sun, 15 Feb 2026 22:46:01 +0800</pubDate><guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0352-natural-flow-result/</guid><description>&lt;style&gt;
-/* 1. 標題縮小 */
-.post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
-/* 2. 粗體變道服藍 (與暗色模式相容) */
-strong, b { color: #2980b9 !important; font-weight: 700 !important; }
-.dark strong, .dark b { color: #5dade2 !important; }
-/* 3. 文章末尾橫線 */
-article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
-/* 4. 自動目錄 (TOC) 美化 */
-.toc {
-background: #f9f9f9;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 20px;
-}
-.dark .toc { background: #333; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>因果論 on icqkaku 的武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E5%9B%A0%E6%9E%9C%E8%AB%96/</link>
+    <description>Recent content in 因果論 on icqkaku 的武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Feb 2026 22:46:01 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E5%9B%A0%E6%9E%9C%E8%AB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0352回】 欲速則不達</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0352-natural-flow-result/</link>
+      <pubDate>Sun, 15 Feb 2026 22:46:01 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0301-0400/t-0352-natural-flow-result/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
 &lt;/style&gt;
-&lt;p&gt;合氣道在初學階段，只要努力練習，就能穩定進步。這是所有人共同的體驗與共識。不過，所謂的「進步」，其實是指學會了合氣道的基本技法，以及建立了合氣道的身體基礎。也就是說，此時才剛剛站在真正修練技藝的起點上，也就是「初段」的階段。&lt;/p&gt;</description><content:encoded><![CDATA[<style>
+&lt;p&gt;合氣道在初學階段，只要努力練習，就能穩定進步。這是所有人共同的體驗與共識。不過，所謂的「進步」，其實是指學會了合氣道的基本技法，以及建立了合氣道的身體基礎。也就是說，此時才剛剛站在真正修練技藝的起點上，也就是「初段」的階段。&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<style>
   /* 1. 標題縮小 */
   .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
 
@@ -54,4 +73,7 @@ margin-bottom: 20px;
 在這之前，有許多應該學習、體悟與掌握的要素。
 當這些都融入自身之後，自然而然，對方就會隨之倒下，那才是稽古真正的成果。</p>
 <p><a href="https://sasaki-aiki.com/article3_352.php">https://sasaki-aiki.com/article3_352.php</a></p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
