@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技法貫通 on 武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E8%B2%AB%E9%80%9A/</link>
+    <description>Recent content in 技法貫通 on 武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Jan 2026 19:29:00 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%8A%80%E6%B3%95%E8%B2%AB%E9%80%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0153回】　点と線</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0153-dot-line-way/</link>
+      <pubDate>Sun, 11 Jan 2026 19:29:00 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0153-dot-line-way/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  
+  /* [優化] 當切換到暗色模式時，讓藍色字變亮一點，才不會看不清楚 */
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化：讓目錄不要太巨大 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; } /* 暗色模式下的目錄背景 */
+&lt;/style&gt;
+&lt;p&gt;初學時期的練習，可以說是「點的練習」。也能說是被動練習的時期，這段時期多數受到運氣、偶然、或是指導老師等等，多半是需依靠別人的。會遇到怎樣的老師、是不是與老師相契合、老師的絕技、喜歡的技法、合氣道觀、人生觀等，這些都是會被老師所影響。不能完全按照自己的想法決定練習，練習完全是被動的。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

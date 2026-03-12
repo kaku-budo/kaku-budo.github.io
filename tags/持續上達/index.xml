@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>持續上達 on 武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E6%8C%81%E7%BA%8C%E4%B8%8A%E9%81%94/</link>
+    <description>Recent content in 持續上達 on 武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 20 Feb 2026 19:03:48 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E6%8C%81%E7%BA%8C%E4%B8%8A%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0274回】 極限的事情</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0274-push-your-limit/</link>
+      <pubDate>Fri, 20 Feb 2026 19:03:48 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0274-push-your-limit/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;p&gt;合氣道是透過技法的「形」與「相對稽古」來磨練精進的武道。在現代繁忙的社會中，要維持每週數日、每次一至二小時的道館稽古並非易事。在如此有限的時間內，想要上達確實是一項挑戰。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>合氣道進步的秘訣【第0233回】 習慣化</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0233-make-it-habit/</link>
+      <pubDate>Fri, 20 Feb 2026 19:02:48 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0201-0300/t-0233-make-it-habit/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;p&gt;無論學習任何新事物，起初往往會猶豫不決，或是下意識地尋找「今天可以不用做」的藉口。雖然現在回想起來不可思議，但我剛開始練習合氣道時，也曾多次糾結於要不要去道場，甚至找理由請假。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

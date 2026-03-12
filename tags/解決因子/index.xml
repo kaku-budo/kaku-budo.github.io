@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>解決因子 on 武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E8%A7%A3%E6%B1%BA%E5%9B%A0%E5%AD%90/</link>
+    <description>Recent content in 解決因子 on 武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:51:28 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E8%A7%A3%E6%B1%BA%E5%9B%A0%E5%AD%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0175回】 不要怕失敗或做不出技法</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0175-back-to-origin/</link>
+      <pubDate>Sat, 21 Feb 2026 23:51:28 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0175-back-to-origin/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;p&gt;合氣道是藉由技法磨練朝道前進的。相對練習時，取方與受方共同磨練技法，如果將目的在於如何達到控制對方時，就會忘了練習的真正目的。自己控制對方，對方配合受制服，這樣的技法最終會變得無效，這是另一種型式的爭鬥。年輕的時候可以透過這樣的練習達到成長，其有在此時的特殊意義。但一直將練習的目的放在這裏時，最終是達不到合氣道的真正目標。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>中心突破 on 武道筆記</title>
+    <link>https://kaku-budo.github.io/tags/%E4%B8%AD%E5%BF%83%E7%AA%81%E7%A0%B4/</link>
+    <description>Recent content in 中心突破 on 武道筆記</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 21 Feb 2026 23:51:12 +0800</lastBuildDate>
+    <atom:link href="https://kaku-budo.github.io/tags/%E4%B8%AD%E5%BF%83%E7%AA%81%E7%A0%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>合氣道進步的秘訣【第0167回】 捨身</title>
+      <link>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0167-body-sacrifice-way/</link>
+      <pubDate>Sat, 21 Feb 2026 23:51:12 +0800</pubDate>
+      <guid>https://kaku-budo.github.io/blog/aikido/tips/part-0101-0200/t-0167-body-sacrifice-way/</guid>
+      <description>&lt;style&gt;
+  /* 1. 標題縮小 */
+  .post-title, h1 { font-size: 28px !important; color: #2c3e50 !important; }
+
+  /* 2. 粗體變道服藍 (與暗色模式相容) */
+  strong, b { color: #2980b9 !important; font-weight: 700 !important; }
+  .dark strong, .dark b { color: #5dade2 !important; }
+
+  /* 3. 文章末尾橫線 */
+  article footer { border-top: 1px solid #e0e0e0; margin-top: 50px; padding-top: 20px; }
+
+  /* 4. 自動目錄 (TOC) 美化 */
+  .toc {
+      background: #f9f9f9;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+  }
+  .dark .toc { background: #333; }
+&lt;/style&gt;
+&lt;p&gt;合氣道入門最初始學的技法就是「一教」(第一教手臂控制)。這支稱為「一教」的技法是最具研究性了，特別是「正面打一教」最值得深入研究。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
